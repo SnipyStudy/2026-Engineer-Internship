@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Envista Holdings Corporation](http://www.envistaco.com/)** | **[CNC Programmer Intern](https://jobright.ai/jobs/info/6a57e3ac9838a11e5d835684?utm_campaign=1048&utm_source=git)** | Yorba Linda, CA, United States | On Site | Jul 24 |
+| **[Strategic Mission Critical](https://www.smc-eng.com)** | **[BMS Associate Internship](https://jobright.ai/jobs/info/6a51fc61bf63b66c7997f0b2?utm_campaign=1048&utm_source=git)** | Clifton Park, NY, United States | On Site | Jul 24 |
 | **[Sila Nanotechnologies, Inc.](http://www.silanano.com)** | **[Battery Simulation & Computational Scientist Internship](https://jobright.ai/jobs/info/6a3c53f78bfad862bc99a0ad?utm_campaign=1048&utm_source=git)** | Alameda, CA, United States | On Site | Jul 24 |
 | **[City of Fort Collins](https://www.fcgov.com/)** | **[Intern - Traffic](https://jobright.ai/jobs/info/6a64261c8d53603449605b92?utm_campaign=1048&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 24 |
 | **[NV5](http://www.nv5.com)** | **[Transportation Engineer Student Intern](https://jobright.ai/jobs/info/6a5c5409c8e3a473cb8b2096?utm_campaign=1048&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 24 |
@@ -79,18 +81,18 @@ For a complete list, click the following sortable link below:
 | **[Fulcrum Reliability Systems](https://fulcrumreliability.com)** | **[Data Center Quality Inspector-Intern](https://jobright.ai/jobs/info/6a51b8a202522b5b722ea347?utm_campaign=1048&utm_source=git)** | Omaha, NE, United States | On Site | Jul 24 |
 | ↳ | **[Data Center Quality Inspector-Intern](https://jobright.ai/jobs/info/6a51b9a88d7d3e6cf1cc1c2f?utm_campaign=1048&utm_source=git)** | Shreveport, LA, United States | On Site | Jul 24 |
 | **[RESPEC](http://www.respec.com)** | **[Student Engineering Intern - Data Science](https://jobright.ai/jobs/info/6a58d504c8e3a473cb8a3325?utm_campaign=1048&utm_source=git)** | Rapid City, SD, United States | On Site | Jul 24 |
-| **[Garver](https://garverusa.com/)** | **[Water Engineering Intern](https://jobright.ai/jobs/info/6a63b33e8d53603449603c22?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Jul 24 |
-| ↳ | **[Water Engineering Intern](https://jobright.ai/jobs/info/6a63b33b0c8e2b4f36dcf4a3?utm_campaign=1048&utm_source=git)** | Huntsville, AL, United States | On Site | Jul 24 |
+| **[Garver](https://garverusa.com/)** | **[Water Engineering Intern](https://jobright.ai/jobs/info/6a63b33b0c8e2b4f36dcf4a3?utm_campaign=1048&utm_source=git)** | Huntsville, AL, United States | On Site | Jul 24 |
 | ↳ | **[Water Engineering Intern](https://jobright.ai/jobs/info/6a63b33e8d53603449603c21?utm_campaign=1048&utm_source=git)** | Birmingham, AL, United States | On Site | Jul 24 |
-| ↳ | **[Transportation Intern - Roadway](https://jobright.ai/jobs/info/6a63cf378d53603449604783?utm_campaign=1048&utm_source=git)** | Oklahoma City, Oklahoma, United States | On Site | Jul 24 |
+| ↳ | **[Water Engineering Intern](https://jobright.ai/jobs/info/6a63b33e8d53603449603c22?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Jul 24 |
 | ↳ | **[Transportation Intern - Roadway](https://jobright.ai/jobs/info/6a63cf440c8e2b4f36dcffff?utm_campaign=1048&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 24 |
-| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a63b34287cef057612ca130?utm_campaign=1048&utm_source=git)** | Fayetteville, AR, United States | On Site | Jul 24 |
+| ↳ | **[Transportation Intern - Roadway](https://jobright.ai/jobs/info/6a63cf378d53603449604783?utm_campaign=1048&utm_source=git)** | Oklahoma City, Oklahoma, United States | On Site | Jul 24 |
 | ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a63b33c8d53603449603c20?utm_campaign=1048&utm_source=git)** | Greenville, SC, United States | On Site | Jul 24 |
+| ↳ | **[Structural Engineering Intern](https://jobright.ai/jobs/info/6a63b34287cef057612ca130?utm_campaign=1048&utm_source=git)** | Fayetteville, AR, United States | On Site | Jul 24 |
 | ↳ | **[Civil Engineering Intern - Federal Projects](https://jobright.ai/jobs/info/6a63eb2b8d536034496050b3?utm_campaign=1048&utm_source=git)** | Fayetteville, AR, United States | On Site | Jul 24 |
 | ↳ | **[Civil Engineering Intern - Federal Projects](https://jobright.ai/jobs/info/6a63eb520c8e2b4f36dd08d4?utm_campaign=1048&utm_source=git)** | North Little Rock, AR, United States | On Site | Jul 24 |
 | ↳ | **[Aviation Civil Engineering Intern](https://jobright.ai/jobs/info/6a63cf3be8d8d22e3292adde?utm_campaign=1048&utm_source=git)** | Tampa, FL, United States | On Site | Jul 24 |
-| ↳ | **[Aviation Civil Engineering Intern](https://jobright.ai/jobs/info/6a5a78df3ac7627fe9004471?utm_campaign=1048&utm_source=git)** | Fayetteville, AR, United States | On Site | Jul 24 |
 | ↳ | **[Instrumentation and Controls Intern](https://jobright.ai/jobs/info/6a63b3378d53603449603c1a?utm_campaign=1048&utm_source=git)** | Fayetteville, AR, United States | On Site | Jul 24 |
+| ↳ | **[Aviation Civil Engineering Intern](https://jobright.ai/jobs/info/6a5a78df3ac7627fe9004471?utm_campaign=1048&utm_source=git)** | Fayetteville, AR, United States | On Site | Jul 24 |
 | **[Strategic Mission Critical](https://www.smc-eng.com)** | **[Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a54497a8576ec69c01529d3?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 24 |
 | **[ExxonMobil](https://corporate.exxonmobil.com)** | **[Instrument Technician - Intern](https://jobright.ai/jobs/info/6a63cc0a979290281c7042d8?utm_campaign=1048&utm_source=git)** | Beaumont, TX, United States | On Site | Jul 24 |
 | **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Field Construction Intern - Summer 2026](https://jobright.ai/jobs/info/6a51b48702522b5b722e9ead?utm_campaign=1048&utm_source=git)** | Denver, CO, United States | On Site | Jul 24 |
@@ -128,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Orange County Government](https://www.orangecountyfl.net/)** | **[Student Intern](https://jobright.ai/jobs/info/6a63c2c287cef057612ca75f?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | On Site | Jul 24 |
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a6399c85c7e2d715ebacf4a?utm_campaign=1048&utm_source=git)** | Westerville, OH, United States | On Site | Jul 24 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Temp Co-op - Internship in Human Spaceflight](https://jobright.ai/jobs/info/6a63c1bce8d8d22e3292a8ae?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 24 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Control Specialist)](https://jobright.ai/jobs/info/6a63897187cef057612c917f?utm_campaign=1048&utm_source=git)** | Pensacola, FL, United States | On Site | Jul 24 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Control Specialist)](https://jobright.ai/jobs/info/6a63802fe8d8d22e3292910a?utm_campaign=1048&utm_source=git)** | Pensacola, FL, United States | On Site | Jul 24 |
 | **[BASF](https://www.basf.com/)** | **[2026 Chemical Loader Internship](https://jobright.ai/jobs/info/693881a3b95c305f206db440?utm_campaign=1048&utm_source=git)** | Freeport, TX | On Site | Jul 24 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Instrument Solutions Intern](https://jobright.ai/jobs/info/6a63bda45c7e2d715ebadb97?utm_campaign=1048&utm_source=git)** | Denver, CO, United States | On Site | Jul 24 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Stress Analysis, Challenger and Global Program - Advanced Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a63bd9c87cef057612ca5f8?utm_campaign=1048&utm_source=git)** | Dorval, QC, Canada | Hybrid | Jul 24 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Undergraduate Intern - Environmental Services](https://jobright.ai/jobs/info/6a63af550c8e2b4f36dcf2dd?utm_campaign=1048&utm_source=git)** | Grand Prairie, TX, United States | On Site | Jul 24 |
 | **[ProFarm](https://profarmgroup.com)** | **[Intern, Invertebrate Pest Biology](https://jobright.ai/jobs/info/6a5a90944da96a42cfd969ea?utm_campaign=1048&utm_source=git)** | Davis, CA, United States | On Site | Jul 24 |
 | **[City of Austin](https://www.austintexas.gov/department/auditor)** | **[Austin Aviation, IT Business Systems Analyst - Undergraduate Intern](https://jobright.ai/jobs/info/6a63ae23979290281c703731?utm_campaign=1048&utm_source=git)** | United States | Remote | Jul 24 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a53524a9fbdab22fe13f063?utm_campaign=1048&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Jul 24 |
-| ↳ | **[Construction Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a51cbea57513b72e0c68061?utm_campaign=1048&utm_source=git)** | Ponte Vedra Beach, Florida, United States | On Site | Jul 24 |
+| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a553318f2c46727285f08c3?utm_campaign=1048&utm_source=git)** | White Plains, New York, United States | On Site | Jul 24 |
 | ↳ | **[Construction Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5509aa377f983ce8a974f1?utm_campaign=1048&utm_source=git)** | Columbia, Maryland, United States | On Site | Jul 24 |
-| ↳ | **[Construction Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a524ddde726ec56126a273d?utm_campaign=1048&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jul 24 |
-| ↳ | **[Construction Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4dfcf11544d7246c0d181c?utm_campaign=1048&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jul 24 |
-| ↳ | **[Construction Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4dfcf31544d7246c0d1820?utm_campaign=1048&utm_source=git)** | Savannah, Georgia, United States | On Site | Jul 24 |
+| ↳ | **[Construction Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a54de143cd1632418bebf72?utm_campaign=1048&utm_source=git)** | White Plains,New York,United States | On Site | Jul 24 |
+| ↳ | **[Construction Superintendent Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4dfce41544d7246c0d1812?utm_campaign=1048&utm_source=git)** | Richmond, Virginia, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
