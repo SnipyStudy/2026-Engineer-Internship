@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hausmann](http://hausmannconstruction.com)** | **[Intern](https://jobright.ai/jobs/info/6a55ba04ef22935f2e3f634d?utm_campaign=1048&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 25 |
+| **[K1 Investment Management](http://www.k1.com)** | **[AI Automation Intern](https://jobright.ai/jobs/info/6a508bfb80c681315dfafd0c?utm_campaign=1048&utm_source=git)** | Manhattan Beach, CA, United States | Hybrid | Jul 25 |
 | **[Butler, Fairman & Seufert, Inc.](http://bfsengr.com)** | **[CADD Internship](https://jobright.ai/jobs/info/6a52d99c8ef95364ead9014a?utm_campaign=1048&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 25 |
 | **[Textron Aviation](http://txtav.com)** | **[Grinder Production (Machinist Intern) - 3rd Shift DSC](https://jobright.ai/jobs/info/6a655d960c8e2b4f36dd39b7?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 25 |
 | **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Researcher - AI Agent Evaluation](https://jobright.ai/jobs/info/6a56044c21f64463ad351c25?utm_campaign=1048&utm_source=git)** | Markham, CA, United States | On Site | Jul 25 |
@@ -90,14 +92,16 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/692fae134c474121999e1b73?utm_campaign=1048&utm_source=git)** | Bellevue, Washington, USA | On Site | Jul 25 |
 | ↳ | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/692faf03ef4b48533d1481b0?utm_campaign=1048&utm_source=git)** | Seattle, Washington, USA | On Site | Jul 25 |
 | **[NVIDIA](https://www.nvidia.com)** | **[DGX Cloud Kubernetes Runtime Intern - Fall 2026](https://jobright.ai/jobs/info/6a1fb80ec5277c00c64881cd?utm_campaign=1048&utm_source=git)** | US, CA, Santa Clara, US | On Site | Jul 25 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18578cdbc80963f93423bf?utm_campaign=1048&utm_source=git)** | CA-BC-Campbell River | On Site | Jul 25 |
-| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18c8cedbc80963f934773d?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 25 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Applications Engineer](https://jobright.ai/jobs/info/69f368d51f90bd6ae23cf096?utm_campaign=1048&utm_source=git)** | San Jose, CA | On Site | Jul 25 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18c8cedbc80963f934773d?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 25 |
+| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a5cea5563a8f619507ce573?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Jul 25 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18578cdbc80963f93423bf?utm_campaign=1048&utm_source=git)** | CA-BC-Campbell River | On Site | Jul 25 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e4573b54ed42d74d9f50?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 25 |
 | ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a53b3c8c8eb0843027ad6ca?utm_campaign=1048&utm_source=git)** | Campbell River, BC, Canada | On Site | Jul 25 |
 | ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a17cb57da08264614c906de?utm_campaign=1048&utm_source=git)** | CA-BC-Victoria | On Site | Jul 25 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a5cea5563a8f619507ce573?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Jul 25 |
-| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e4573b54ed42d74d9f50?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Jul 25 |
-| ↳ | **[Preconstruction Intern](https://jobright.ai/jobs/info/699fdfcc53d97f23ee656827?utm_campaign=1048&utm_source=git)** | US-CA-San Diego | On Site | Jul 25 |
 | ↳ | **[Preconstruction Intern](https://jobright.ai/jobs/info/6a52ac889fbdab22fe13c8d8?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Jul 25 |
+| ↳ | **[Preconstruction Intern](https://jobright.ai/jobs/info/699fdfcc53d97f23ee656827?utm_campaign=1048&utm_source=git)** | US-CA-San Diego | On Site | Jul 25 |
+| **[OWN, Inc.](https://www.weareown.com)** | **[Civil/Geotechnical Engineering Intern](https://jobright.ai/jobs/info/69f423ef343eef4fb0a9fe8b?utm_campaign=1048&utm_source=git)** | Overland Park, KS | On Site | Jul 25 |
 | **[Olezka Global](https://olezkaglobal.com)** | **[SOC Analyst Internship (6-Month Program)](https://jobright.ai/jobs/info/6a651e61979290281c7076bf?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 25 |
 | **[CHEManager International](https://www.chemanager-online.com)** | **[Scientist Intern (SA Lab) Fall 2026](https://jobright.ai/jobs/info/6a64f2d25c7e2d715ebb1058?utm_campaign=1048&utm_source=git)** | Northwood, OH, United States | On Site | Jul 25 |
 | **[Trilon](https://www.trilongroup.com/)** | **[Environmental Scientist Intern](https://jobright.ai/jobs/info/6a56172a53b3962b910ae3ab?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | On Site | Jul 25 |
@@ -110,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a64e74287cef057612cd8db?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Jul 25 |
 | **[HDR](https://taplow.fi)** | **[Port and Maritime Intern](https://jobright.ai/jobs/info/6a64e56f8d53603449607371?utm_campaign=1048&utm_source=git)** | Corpus Christi, TX, United States | On Site | Jul 25 |
 | **[TPG](http://www.tpg.com)** | **[Climate Digest, Intern / Fall Research Assistant](https://jobright.ai/jobs/info/6a453a3e48d2f00f2a86ccab?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, United States | Remote | Jul 25 |
+| **[Vistra Corp.](https://vistracorp.com)** | **[Fall 2026 Engineering Intern - Davis-Besse](https://jobright.ai/jobs/info/69d6a0a3706f771673babce2?utm_campaign=1048&utm_source=git)** | Oak Harbor, OH | On Site | Jul 25 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Site/Civil Engineering (Fall/Winter 2026)](https://jobright.ai/jobs/info/6a4e3d3afc327f422fef2183?utm_campaign=1048&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 25 |
 | **[Innovation Works](http://www.innovationworks.org)** | **[Scale Prototyping Shop Intern - Innovation Works, Inc.](https://jobright.ai/jobs/info/6a4228c96b8f051d296d6724?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 25 |
 | **[PBS Biotech](http://www.pbsbiotech.com)** | **[Research Associate Intern](https://jobright.ai/jobs/info/6a51adf157513b72e0c65eaa?utm_campaign=1048&utm_source=git)** | Camarillo, CA, United States | On Site | Jul 25 |
@@ -125,14 +130,15 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a53adcdd007ee02d95fc31f?utm_campaign=1048&utm_source=git)** | Findlay, Ohio, United States of America | On Site | Jul 25 |
 | ↳ | **[Intern/Co-op - Refining Chemical Engineering Fall 2026](https://jobright.ai/jobs/info/6a2c7611fc0644749054a20d?utm_campaign=1048&utm_source=git)** | Findlay, Ohio, US | On Site | Jul 25 |
 | **[Mobile Communications America](http://callmc.com)** | **[Communications Systems Trainee (DoD SkillBridge Intern)](https://jobright.ai/jobs/info/6a5de2bc95356634d79e24e7?utm_campaign=1048&utm_source=git)** | North Charleston, SC, United States | On Site | Jul 25 |
+| **[Bowman Consulting](https://bowman.com)** | **[Traffic/Transportation Intern -Philadelphia, PA](https://jobright.ai/jobs/info/6a1a61fb6b135014dbc89f0f?utm_campaign=1048&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[DoW SkillBridge Internship](https://jobright.ai/jobs/info/6a0b8a71a235d749afa8686c?utm_campaign=1048&utm_source=git)** | Iselin, NJ | Hybrid | Jul 25 |
 | **[Farther Farms](https://www.fartherfarms.com/)** | **[Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/6a64cf3f5c7e2d715ebb0d40?utm_campaign=1048&utm_source=git)** | Rochester, NY, United States | On Site | Jul 25 |
 | **[Mazzella](https://www.mazzellacompanies.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a523deb8ef95364ead8d821?utm_campaign=1048&utm_source=git)** | Winston-Salem, NC, United States | On Site | Jul 25 |
 | **[Zipline](https://www.zipline.com/)** | **[Supplier Industrialization Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5677d8e9b77f668bd63854?utm_campaign=1048&utm_source=git)** | South San Francisco, CA, United States | On Site | Jul 25 |
-| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24be2cde2824469c0283?utm_campaign=1048&utm_source=git)** | Iselin, NJ, US | Hybrid | Jul 25 |
-| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a55fe9a10c4d945d8646745?utm_campaign=1048&utm_source=git)** | Iselin, NJ, United States | On Site | Jul 25 |
-| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a55febee9b77f668bd60454?utm_campaign=1048&utm_source=git)** | San Ramon, CA, United States | On Site | Jul 25 |
+| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a55fe9a10c4d945d8646745?utm_campaign=1048&utm_source=git)** | Iselin, NJ, United States | On Site | Jul 25 |
 | ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24bec07d4b6ae1c44304?utm_campaign=1048&utm_source=git)** | San Ramon, CA, US | Hybrid | Jul 25 |
+| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24be2cde2824469c0283?utm_campaign=1048&utm_source=git)** | Iselin, NJ, US | Hybrid | Jul 25 |
+| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a55febee9b77f668bd60454?utm_campaign=1048&utm_source=git)** | San Ramon, CA, United States | On Site | Jul 25 |
 | **[Hermeus](http://www.hermeus.com)** | **[Manufacturing Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a585e403330ca6f993c433a?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 25 |
 | **[The Exploration Company](https://exploration.space)** | **[Crew Systems Engineering Intern - Mechanical/Structures](https://jobright.ai/jobs/info/6a488da1971cd25b06f945c2?utm_campaign=1048&utm_source=git)** | Houston, TX | On Site | Jul 25 |
 | ↳ | **[Crew Systems Engineering Intern - Mechanical/Structures](https://jobright.ai/jobs/info/6a4909074f64ba41dcb59a5b?utm_campaign=1048&utm_source=git)** | Houston, TX, US | On Site | Jul 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Communications/DSP Intern (Fall 2026)](https://jobright.ai/jobs/info/69f2d88134c4af7a79ab7a16?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area | On Site | Jul 25 |
 | **[CPI Card Group](http://www.cpicardgroup.com/)** | **[Intern-AI Automation & Process Analyst](https://jobright.ai/jobs/info/6a43c968b156014e414b8d7c?utm_campaign=1048&utm_source=git)** | Littleton, CO, United States | Remote | Jul 25 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Propulsion Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a52bd958a74e077472f5cb5?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 25 |
-| ↳ | **[FPGA Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3e6ba678237a036d5e3eff?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 25 |
-| **[Neuralink](https://www.neuralink.com)** | **[Mechanical Engineering Intern, Brain Interfaces](https://jobright.ai/jobs/info/6a0f53f272b52f7225f3cc3d?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jul 25 |
-| ↳ | **[Neuroengineer Intern](https://jobright.ai/jobs/info/6a18da2dc2a87d6cd3df536c?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 25 |
-| ↳ | **[Neuroengineer Intern](https://jobright.ai/jobs/info/6a511c62bf63b66c79978f2c?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 25 |
-| ↳ | **[Neuroengineer Intern](https://jobright.ai/jobs/info/6a064b96320bff2205eab17d?utm_campaign=1048&utm_source=git)** | Fremont, California, United States | On Site | Jul 25 |
-| ↳ | **[Robot Optics Intern](https://jobright.ai/jobs/info/6a22672a597131741415eb05?utm_campaign=1048&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
