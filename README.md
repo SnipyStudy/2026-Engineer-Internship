@@ -67,7 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Transportation Intern - Drainage](https://jobright.ai/jobs/info/6a6915b33b549b0b531d3d03?utm_campaign=1048&utm_source=git)** | Lawrenceville, GA, United States | On Site | Jul 28 |
 | ↳ | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a6915d45d01972698ee6607?utm_campaign=1048&utm_source=git)** | Greenville, SC, United States | On Site | Jul 28 |
 | ↳ | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a6915ce5d01972698ee6603?utm_campaign=1048&utm_source=git)** | Harlingen, TX, United States | On Site | Jul 28 |
-| **[Element Materials Technology](https://www.element.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a690f35b22f1b56a602a76a?utm_campaign=1048&utm_source=git)** | Fairfield, OH, United States | On Site | Jul 28 |
+| **[Element Materials Technology](https://www.element.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a690affceb2691dfb206f4b?utm_campaign=1048&utm_source=git)** | Fairfield, OH, United States | On Site | Jul 28 |
 | **[Zipline](https://www.zipline.com/)** | **[Mechanical Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a68e73e5d01972698ee5306?utm_campaign=1048&utm_source=git)** | South San Francisco, CA, United States | On Site | Jul 28 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Site/Civil Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a4e3d489469c0662034aa25?utm_campaign=1048&utm_source=git)** | Parsippany, NJ, United States | On Site | Jul 28 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Maintenance & Facilities Engineering Intern](https://jobright.ai/jobs/info/6a692f66ceb2691dfb207d4b?utm_campaign=1048&utm_source=git)** | Kent, WA, United States | On Site | Jul 28 |
@@ -116,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Intern - Water (Fall 2026)](https://jobright.ai/jobs/info/6a68c5e73b549b0b531d1b9d?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Jul 28 |
 | **[STAQ Pharma](https://staqpharma.com/)** | **[Engineer Intern](https://jobright.ai/jobs/info/6a6907c63b549b0b531d374c?utm_campaign=1048&utm_source=git)** | Columbus, OH, United States | On Site | Jul 28 |
 | **[ANDRITZ](http://www.andritz.com)** | **[Internship - Hydro Services Engineering](https://jobright.ai/jobs/info/6a6906ff5d01972698ee5f89?utm_campaign=1048&utm_source=git)** | Pointe-Claire, QC, Canada | Hybrid | Jul 28 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[CAD Intern](https://jobright.ai/jobs/info/6a68e5943b549b0b531d2a4f?utm_campaign=1048&utm_source=git)** | Sherman, TX, United States | On Site | Jul 28 |
-| ↳ | **[CAD Intern](https://jobright.ai/jobs/info/6a52ee79d007ee02d95f9a14?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 28 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[CAD Intern](https://jobright.ai/jobs/info/6a52ee79d007ee02d95f9a14?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 28 |
+| ↳ | **[CAD Intern](https://jobright.ai/jobs/info/6a68e5943b549b0b531d2a4f?utm_campaign=1048&utm_source=git)** | Sherman, TX, United States | On Site | Jul 28 |
 | ↳ | **[CAD Intern](https://jobright.ai/jobs/info/6a53e1d7e726ec56126a8618?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 28 |
 | **[First Bank & Trust](http://bankeasy.com)** | **[SharePoint/Power Platform Intern](https://jobright.ai/jobs/info/6a68b96c7926035e0958691d?utm_campaign=1048&utm_source=git)** | Brookings, SD, United States | On Site | Jul 28 |
 | **[Jabil](https://www.jabil.com)** | **[Calibration Technician Intern - PartTime](https://jobright.ai/jobs/info/6a6903b905bae84301b59f1f?utm_campaign=1048&utm_source=git)** | Grand Junction, CO, United States | On Site | Jul 28 |
@@ -148,13 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Dewberry](http://www.dewberry.com/)** | **[Structural (Bridge) Engineering Intern](https://jobright.ai/jobs/info/6a68f5df5d01972698ee57e7?utm_campaign=1048&utm_source=git)** | Fairfax, VA, United States | On Site | Jul 28 |
 | **[SPIROL](http://spirol.com)** | **[Manufacturing / Mechanical Engineering Intern/ CO-OP - Spring Semester 2027](https://jobright.ai/jobs/info/6a68f46aceb2691dfb2065ef?utm_campaign=1048&utm_source=git)** | Stow, OH, United States | On Site | Jul 28 |
 | **[Superior Cloth & Stitch](http://www.cidresources.com/)** | **[AI Intern](https://jobright.ai/jobs/info/6a68f44fceb2691dfb2065e3?utm_campaign=1048&utm_source=git)** | St. Petersburg, FL, United States | On Site | Jul 28 |
-| **[Strategic Mission Critical](https://www.smc-eng.com)** | **[Building Management Systems Design Engineer](https://jobright.ai/jobs/info/6a06fbd6152f493123c4ac4b?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jul 28 |
-| ↳ | **[Building Management Systems Design Engineer](https://jobright.ai/jobs/info/6a1e02a1c2a87d6cd3e0f634?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jul 28 |
-| ↳ | **[Building Management Systems Design Engineer](https://jobright.ai/jobs/info/6a06fbd6152f493123c4ac49?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jul 28 |
-| ↳ | **[Building Management Systems Design Engineer](https://jobright.ai/jobs/info/6a1e02a2c2a87d6cd3e0f636?utm_campaign=1048&utm_source=git)** | Clifton Park, NY | On Site | Jul 28 |
+| **[Strategic Mission Critical](https://www.smc-eng.com)** | **[Building Management Systems Design Engineer](https://jobright.ai/jobs/info/6a1e02a2c2a87d6cd3e0f636?utm_campaign=1048&utm_source=git)** | Clifton Park, NY | On Site | Jul 28 |
 | ↳ | **[Building Management Systems Design Engineer](https://jobright.ai/jobs/info/6a06fbda152f493123c4ac59?utm_campaign=1048&utm_source=git)** | Clifton Park, NY | On Site | Jul 28 |
-| ↳ | **[Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a06f892078fec52738a2a34?utm_campaign=1048&utm_source=git)** | Clifton Park, NY | Hybrid | Jul 28 |
+| ↳ | **[Building Management Systems Design Engineer](https://jobright.ai/jobs/info/6a06fbd6152f493123c4ac46?utm_campaign=1048&utm_source=git)** | Austin, TX | On Site | Jul 28 |
+| ↳ | **[Building Management Systems Design Engineer](https://jobright.ai/jobs/info/6a06fbd6152f493123c4ac4b?utm_campaign=1048&utm_source=git)** | Atlanta, GA | On Site | Jul 28 |
+| ↳ | **[Building Management Systems Design Engineer](https://jobright.ai/jobs/info/6a06fbd6152f493123c4ac49?utm_campaign=1048&utm_source=git)** | Dallas, TX | On Site | Jul 28 |
 | ↳ | **[Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a54497a8576ec69c01529d3?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 28 |
+| ↳ | **[Entry Level Electrical Engineer](https://jobright.ai/jobs/info/6a06f892078fec52738a2a34?utm_campaign=1048&utm_source=git)** | Clifton Park, NY | Hybrid | Jul 28 |
 | **[Xylem](http://www.xylem.com)** | **[Intern, Quality](https://jobright.ai/jobs/info/6a68f31aceb2691dfb206579?utm_campaign=1048&utm_source=git)** | Holland, MI, United States | On Site | Jul 28 |
 | **[FG Clean Wipes](https://saturix.com/)** | **[Product Development Intern: Material Science (Part Time)](https://jobright.ai/jobs/info/6a68f1e8ceb2691dfb206504?utm_campaign=1048&utm_source=git)** | Chicopee, MA, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
