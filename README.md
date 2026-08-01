@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cubit Capital](https://cubit.capital/)** | **[Build Engineer Internship (Fall Term 2026)](https://jobright.ai/jobs/info/6a6e69b0f5953013637f4c2c?utm_campaign=1048&utm_source=git)** | Broomfield, CO, United States | On Site | Aug 01 |
 | **[Primus Aerospace](http://primusaero.com)** | **[Quality Intern](https://jobright.ai/jobs/info/6a6e596cc56c0956e8adb245?utm_campaign=1048&utm_source=git)** | Reisterstown, MD, United States | On Site | Aug 01 |
-| **[New York Life](https://www.newyorklife.com/amn)** | **[2027 Technology, Data, AI & Ventures Summer Internship Program - AI Engineer (MLOps) Intern](https://jobright.ai/jobs/info/6a6e56c7ad0fe2053db9dbe9?utm_campaign=1048&utm_source=git)** | New York, NY, United States | Hybrid | Aug 01 |
 | **[Austin Industries](http://www.austin-ind.com)** | **[2027 Summer Heavy Civil Engineering Internship (Austin/San Antonio, Texas Area) - Austin Bridge & Road](https://jobright.ai/jobs/info/6a6e5359f5953013637f49ff?utm_campaign=1048&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 01 |
 | ↳ | **[2027 Summer Heavy Civil Engineering Internship (Dallas/Fort Worth/NorthTexas) - Austin Bridge & Road](https://jobright.ai/jobs/info/6a6e5357c56c0956e8adb1ad?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 01 |
 | ↳ | **[2027 Summer Heavy Civil Engineering Internship (Austin/San Antonio, Texas Area) - Austin Bridge & Road](https://jobright.ai/jobs/info/6a6e5347cd3bac13d3707074?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Aug 01 |
@@ -73,11 +73,11 @@ For a complete list, click the following sortable link below:
 | **[National Laboratory of the Rockies](https://www.nlr.gov)** | **[Los Angeles Based Graduate Intern - Building Energy Modeling and Analysis](https://jobright.ai/jobs/info/6a511d578d7d3e6cf1cbf0db?utm_campaign=1048&utm_source=git)** | Los Angeles, CA, United States of America | Hybrid | Aug 01 |
 | **[SonyAI](https://ai.sony/)** | **[Research Intern on Generative and Protective AI for Content Creation](https://jobright.ai/jobs/info/6a068f6b7c753c287f70425a?utm_campaign=1048&utm_source=git)** | Michigan, United States | Remote | Aug 01 |
 | **[Affinity Solutions](https://www.affinity.solutions)** | **[Data Quality AI Intern (61_2026.3)](https://jobright.ai/jobs/info/6a552bdbf2c46727285f0520?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a553153ae07d60a8d00fa22?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Aug 01 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a5379758ef95364ead9248f?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Aug 01 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a51bd0257513b72e0c66f5f?utm_campaign=1048&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 01 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a553153ae07d60a8d00fa22?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Aug 01 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a2107e34bdf8a5a96bd435b?utm_campaign=1048&utm_source=git)** | US-TX-Dallas | On Site | Aug 01 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a5379758ef95364ead9248f?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Aug 01 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a51188f78e364789ca58b59?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Aug 01 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a51bd0257513b72e0c66f5f?utm_campaign=1048&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 01 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Performance Engineer Intern, Systems Software-  Fall 2026](https://jobright.ai/jobs/info/6a4c0f494eb370649b27c0ff?utm_campaign=1048&utm_source=git)** | US, MO, St. Louis | On Site | Aug 01 |
 | **[McGough](http://www.mcgough.com)** | **[Internship/Co-op, Safety (DoD Skillbridge)](https://jobright.ai/jobs/info/6a18762dc2a87d6cd3df16a2?utm_campaign=1048&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 01 |
 | **[ByteDance](http://bytedance.com)** | **[AI Vision Research Scientist Intern - Global Frontier Tech Recruitment Program - 2027 Start (PHD)](https://jobright.ai/jobs/info/6a6e21cdc56c0956e8adac22?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 01 |
@@ -122,17 +122,17 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a6e05bbc56c0956e8ada920?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 01 |
 | ↳ | **[Site Reliability Engineer Intern (Data Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a6e05a8cd3bac13d37067a9?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 01 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Intern / Co-Op – Civil / Environmental Engineering](https://jobright.ai/jobs/info/6a58e9df856af468ab00093e?utm_campaign=1048&utm_source=git)** | Blue Bell, PA, United States | On Site | Aug 01 |
-| **[Yancey Bros. Co.](http://www.yanceybros.com/)** | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/6a6342da07dbb637368704ce?utm_campaign=1048&utm_source=git)** | Statesboro, GA, United States | On Site | Aug 01 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6e1ef6fc293b0a2c3e8c?utm_campaign=1048&utm_source=git)** | Washington, Georgia, United States | On Site | Aug 01 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/6a6c238e57120971bf3aa803?utm_campaign=1048&utm_source=git)** | Augusta, GA, United States | On Site | Aug 01 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a64888dbbf73badc7872b?utm_campaign=1048&utm_source=git)** | Augusta, Georgia, United States | On Site | Aug 01 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6cbf8dbbf73badc79071?utm_campaign=1048&utm_source=git)** | Statesboro, Georgia, United States | On Site | Aug 01 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a79549d60e431a16bf961?utm_campaign=1048&utm_source=git)** | Columbus, Georgia, United States | On Site | Aug 01 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6421f6fc293b0a2c33a4?utm_campaign=1048&utm_source=git)** | Valdosta, Georgia, United States | On Site | Aug 01 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6e519d60e431a16becd0?utm_campaign=1048&utm_source=git)** | Pooler, Georgia, United States | On Site | Aug 01 |
-| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a62438dbbf73badc78505?utm_campaign=1048&utm_source=git)** | Waycross, Georgia, United States | On Site | Aug 01 |
+| **[Yancey Bros. Co.](http://www.yanceybros.com/)** | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a79549d60e431a16bf961?utm_campaign=1048&utm_source=git)** | Columbus, Georgia, United States | On Site | Aug 01 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/6a6797a22bda4d2842854a75?utm_campaign=1048&utm_source=git)** | Washington, Georgia, United States | On Site | Aug 01 |
 | ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/6a67de423b5e6b116a550fc6?utm_campaign=1048&utm_source=git)** | Waycross, GA, United States | On Site | Aug 01 |
 | ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/6a5f7ed16e0c3c7c7d3d727a?utm_campaign=1048&utm_source=git)** | Columbus, GA, United States | On Site | Aug 01 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a62438dbbf73badc78505?utm_campaign=1048&utm_source=git)** | Waycross, Georgia, United States | On Site | Aug 01 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/6a6c238e57120971bf3aa803?utm_campaign=1048&utm_source=git)** | Augusta, GA, United States | On Site | Aug 01 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6cbf8dbbf73badc79071?utm_campaign=1048&utm_source=git)** | Statesboro, Georgia, United States | On Site | Aug 01 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/6a6342da07dbb637368704ce?utm_campaign=1048&utm_source=git)** | Statesboro, GA, United States | On Site | Aug 01 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a64888dbbf73badc7872b?utm_campaign=1048&utm_source=git)** | Augusta, Georgia, United States | On Site | Aug 01 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6e519d60e431a16becd0?utm_campaign=1048&utm_source=git)** | Pooler, Georgia, United States | On Site | Aug 01 |
+| ↳ | **[Think Big Intern - Heavy Equipment](https://jobright.ai/jobs/info/697a6421f6fc293b0a2c33a4?utm_campaign=1048&utm_source=git)** | Valdosta, Georgia, United States | On Site | Aug 01 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Electrical Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a5274d09fbdab22fe13bab4?utm_campaign=1048&utm_source=git)** | Findlay, Ohio, United States of America | On Site | Aug 01 |
 | **[Austin Commercial](http://www.austincommercial.com)** | **[2027 Summer Heavy Civil Engineering Internship (Dallas/Fort Worth/NorthTexas) - Austin Bridge & Road](https://jobright.ai/jobs/info/6a6e0023cd3bac13d3706711?utm_campaign=1048&utm_source=git)** | Las Colinas, TX, United States | On Site | Aug 01 |
 | ↳ | **[2027 Summer Heavy Civil Engineering Internship (Austin/San Antonio, Texas Area) - Austin Bridge & Road](https://jobright.ai/jobs/info/6a6e000dcd3bac13d370670f?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Aug 01 |
@@ -143,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Intern – Summer 2027](https://jobright.ai/jobs/info/6a6d7fb45c54bc4752cf274a?utm_campaign=1048&utm_source=git)** | Fridley, MN, United States | Hybrid | Aug 01 |
 | **[Pokee AI](https://pokee.ai/)** | **[RL AI Research Intern](https://jobright.ai/jobs/info/6a6df925f5953013637f3f60?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Atlas Roofing Corporation](https://www.atlasroofing.com)** | **[Co-Op Engineering - Fall 2026](https://jobright.ai/jobs/info/6a5da8c1c8e3a473cb8b5262?utm_campaign=1048&utm_source=git)** | 675 Oxford Road, Franklin, OH,45005 | On Site | Aug 01 |
-| **[MacLean Power Systems](http://www.macleanpower.com)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/6a60a337cf6cf477a0561a70?utm_campaign=1048&utm_source=git)** | Alabaster, AL, United States | On Site | Aug 01 |
-| ↳ | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/69e675e19b6eb37e26f805ec?utm_campaign=1048&utm_source=git)** | Alabaster, AL, USA | On Site | Aug 01 |
+| **[MacLean Power Systems](http://www.macleanpower.com)** | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/6a18e5696243320e8d168d68?utm_campaign=1048&utm_source=git)** | Alabaster, AL, USA | On Site | Aug 01 |
+| ↳ | **[Industrial Engineering Intern](https://jobright.ai/jobs/info/6a43d58265e80d3c99f29319?utm_campaign=1048&utm_source=git)** | Alabaster, AL, United States | On Site | Aug 01 |
 | **[StandardAero](http://www.standardaero.com)** | **[Engineering Intern (Summer/Fall/Winter 2026)](https://jobright.ai/jobs/info/6a6cad08ca1f9338465ffe85?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Aug 01 |
 | **[Precision Castparts](http://precast.com)** | **[Environmental, Health & Safety Internship](https://jobright.ai/jobs/info/6a544c738a74e077472fb4ba?utm_campaign=1048&utm_source=git)** | South Gate, CA, United States | On Site | Aug 01 |
 | **[RTI International](http://www.rti.org)** | **[Part-Time Environmental Field Technician Intern](https://jobright.ai/jobs/info/6a6dea7a41b41d325296a810?utm_campaign=1048&utm_source=git)** | Tallahassee, FL, United States | On Site | Aug 01 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[WACO - Public Works, Internship](https://jobright.ai/jobs/info/6a1963b99111f771d1a05be0?utm_campaign=1048&utm_source=git)** | Waco, TX, United States | On Site | Aug 01 |
 | **[APTIM](https://www.aptim.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a5da305856af468ab01167f?utm_campaign=1048&utm_source=git)** | Concord, CA, United States | On Site | Aug 01 |
 | **[STMicroelectronics](https://www.st.com)** | **[Failure Analysis Intern](https://jobright.ai/jobs/info/6a535484d007ee02d95fb10e?utm_campaign=1048&utm_source=git)** | Coppell, United States | On Site | Aug 01 |
-| ↳ | **[Failure Analysis Intern](https://jobright.ai/jobs/info/6a330a9c29c90c607e4d9e56?utm_campaign=1048&utm_source=git)** | Coppell, TX, United States | On Site | Aug 01 |
+| ↳ | **[Failure Analysis Intern](https://jobright.ai/jobs/info/6a6067d1193c4d692385e191?utm_campaign=1048&utm_source=git)** | Coppell, TX, United States | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
