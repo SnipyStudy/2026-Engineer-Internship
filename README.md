@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ubicept](https://www.ubicept.com/)** | **[Fall Co-op / Internship](https://jobright.ai/jobs/info/6a72b1fa71acd469eeda8f3d?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Aug 04 |
+| **[Ohio Cat](http://www.ohiocat.com)** | **[Parts Intern](https://jobright.ai/jobs/info/6a5db3a03ac7627fe900d815?utm_campaign=1048&utm_source=git)** | Columbus, OH, United States | On Site | Aug 04 |
+| **[GenPark](https://genpark.ai)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6a72acbfe2b7476e7b2143f0?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | Remote | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7284dde2b7476e7b213b42?utm_campaign=1048&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
 | **[Ubicept](https://www.ubicept.com/)** | **[Spring Co-op / Internship](https://jobright.ai/jobs/info/6a72a7fa02d93145bf8957f6?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Aug 04 |
 | **[Baynovation, LLC](www.baynovation.com)** | **[AI Research Intern](https://jobright.ai/jobs/info/6a72a49ae2b7476e7b21429a?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
@@ -68,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Polyose Bio](https://www.polyosebio.com/)** | **[SYNTHETIC BIOLOGIST](https://jobright.ai/jobs/info/6a7295ee0354c20775f64af3?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Aug 04 |
 | **[RTX](http://rtx.com/)** | **[Electrical Engineering Intern (Summer 2027)(Onsite)](https://jobright.ai/jobs/info/6a7293500354c20775f64a5d?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 04 |
 | **[Skanska](http://skanska.com)** | **[Heavy Civil Infrastructure Summer 2027 Internship](https://jobright.ai/jobs/info/6a7238b945b6af1c30dbd5fa?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 04 |
-| ↳ | **[Heavy Civil Infrastructure Summer 2027 Internship](https://jobright.ai/jobs/info/6a7244f802d93145bf893a5c?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | On Site | Aug 04 |
 | ↳ | **[Heavy Civil Infrastructure Summer 2027 Internship](https://jobright.ai/jobs/info/6a7238c0e2b7476e7b2120a3?utm_campaign=1048&utm_source=git)** | Hyattsville, MD, United States | On Site | Aug 04 |
 | ↳ | **[Heavy Civil Infrastructure Summer 2027 Internship](https://jobright.ai/jobs/info/6a7238c3cb96192a3684cc18?utm_campaign=1048&utm_source=git)** | Outer Banks, North Carolina, United States | On Site | Aug 04 |
+| ↳ | **[Heavy Civil Infrastructure Summer 2027 Internship](https://jobright.ai/jobs/info/6a7244f802d93145bf893a5c?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | On Site | Aug 04 |
 | **[Tacit](https://tacit.ai/)** | **[RF Hardware Intern (Fall 2026)](https://jobright.ai/jobs/info/6a727ed6cb96192a3684e4eb?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 04 |
 | **[San Diego Zoo Wildlife Alliance](https://sandiegozoowildlifealliance.org)** | **[Project Search Intern - San Diego Zoo](https://jobright.ai/jobs/info/6a728f9ecb96192a3684e919?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Aug 04 |
 | **[Silimate (YC S23)](https://www.silimate.com/)** | **[AI Research Intern](https://jobright.ai/jobs/info/6a728e9ecb96192a3684e8de?utm_campaign=1048&utm_source=git)** | Mountain View, CA, United States | On Site | Aug 04 |
@@ -78,9 +81,9 @@ For a complete list, click the following sortable link below:
 | **[AAK South Latin America](http://www.aak.com)** | **[Quality Intern](https://jobright.ai/jobs/info/6a728d2eee751e0c79349682?utm_campaign=1048&utm_source=git)** | Louisville, KY, United States | On Site | Aug 04 |
 | **[Transcard](http://www.transcard.com)** | **[2026 - SQL Database Administrator Intern](https://jobright.ai/jobs/info/6a210cc4c00e701fe836cfb5?utm_campaign=1048&utm_source=git)** | Chattanooga,TN,US | Hybrid | Aug 04 |
 | **[axogen](http://www.axogeninc.com)** | **[Intern, Operations (Fall 2026)](https://jobright.ai/jobs/info/6a5fa6f16e0c3c7c7d3d817d?utm_campaign=1048&utm_source=git)** | Tampa, FL, United States | On Site | Aug 04 |
-| **[Spaceium Inc. (YC S24)](https://spaceium.com/)** | **[Electrical Intern](https://jobright.ai/jobs/info/6a484d8c3dbab558e29ac934?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Aug 04 |
+| **[Spaceium Inc. (YC S24)](https://spaceium.com/)** | **[Electrical Intern (Fall 26)](https://jobright.ai/jobs/info/6a27749b120e597c974f94f8?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Aug 04 |
+| ↳ | **[Electrical Intern](https://jobright.ai/jobs/info/6a484d8c3dbab558e29ac934?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Aug 04 |
 | ↳ | **[Mechanical- Fluids Intern (Fall 26)](https://jobright.ai/jobs/info/6a5588de4119652ff3866418?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Aug 04 |
-| ↳ | **[Electrical Intern (Fall 26)](https://jobright.ai/jobs/info/6a27749b120e597c974f94f8?utm_campaign=1048&utm_source=git)** | Ottawa, Canada | On Site | Aug 04 |
 | **[Skydio](https://www.skydio.com)** | **[Hardware Test & Reliability Intern](https://jobright.ai/jobs/info/6a72839fe2b7476e7b213af6?utm_campaign=1048&utm_source=git)** | San Mateo, CA, United States | On Site | Aug 04 |
 | **[SUN PHARMA](http://www.sunpharma.com)** | **[2026 Sun Pharmaceutical Intern - Billerica, MA Job Details / Sun Pharmaceutical Industries Ltd](https://jobright.ai/jobs/info/6a728a68ee751e0c793495e9?utm_campaign=1048&utm_source=git)** | Billerica, Massachusetts, United States | Hybrid | Aug 04 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Engineering Intern](https://jobright.ai/jobs/info/6a70c891e2b7476e7b20ade2?utm_campaign=1048&utm_source=git)** | Maple Grove, MN, United States | On Site | Aug 04 |
@@ -101,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[ExxonMobil](https://corporate.exxonmobil.com)** | **[Instrument Technician - Intern](https://jobright.ai/jobs/info/6a63cc0a979290281c7042d8?utm_campaign=1048&utm_source=git)** | Beaumont, TX, United States | On Site | Aug 04 |
 | **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Researcher - AI Computing System](https://jobright.ai/jobs/info/6a592b3ac8e3a473cb8a5750?utm_campaign=1048&utm_source=git)** | Vancouver, CA, United States | On Site | Aug 04 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Civil/Structural Inspections, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a7246a7cb96192a3684d148?utm_campaign=1048&utm_source=git)** | Brooklyn, NY, United States | On Site | Aug 04 |
-| **[Lumentum](https://www.lumentum.com/en)** | **[Optical VerificationTechnician Intern/Co-op](https://jobright.ai/jobs/info/6a723aa271acd469eeda6c79?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Aug 04 |
-| ↳ | **[Optical Verification Technician Intern/Co-op](https://jobright.ai/jobs/info/6a723a9445b6af1c30dbd6e9?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Aug 04 |
+| **[Lumentum](https://www.lumentum.com/en)** | **[Optical Verification Technician Intern/Co-op](https://jobright.ai/jobs/info/6a723a9445b6af1c30dbd6e9?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Aug 04 |
+| ↳ | **[Optical VerificationTechnician Intern/Co-op](https://jobright.ai/jobs/info/6a723aa271acd469eeda6c79?utm_campaign=1048&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Aug 04 |
 | **[Samuel, Son & Co.](https://nelsonsteel.com)** | **[Quality Systems Engineer - Intern](https://jobright.ai/jobs/info/6a726addcb96192a3684e08c?utm_campaign=1048&utm_source=git)** | Fontana, CA, United States | On Site | Aug 04 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Welder Intern - 2nd Shift](https://jobright.ai/jobs/info/6a7250c1cb96192a3684d6ce?utm_campaign=1048&utm_source=git)** | Duluth, MN, United States | On Site | Aug 04 |
 | ↳ | **[Machinist Intern - 2nd Shift](https://jobright.ai/jobs/info/6a679611872eb74f9ead9da0?utm_campaign=1048&utm_source=git)** | Duluth, MN, United States | On Site | Aug 04 |
@@ -137,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Humanetics](https://www.humaneticsgroup.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a72526e45b6af1c30dbe1be?utm_campaign=1048&utm_source=git)** | Huron, OH, United States | On Site | Aug 04 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Material Control Overseas Domestic Intern (Spring 2027)](https://jobright.ai/jobs/info/6a724ff8e2b7476e7b212b1d?utm_campaign=1048&utm_source=git)** | Spartanburg, SC, United States | On Site | Aug 04 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Geotechnical Internship (Level 2)](https://jobright.ai/jobs/info/6a724fc502d93145bf894015?utm_campaign=1048&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 04 |
-| **[Nokia](http://www.nokia.com)** | **[Optical Test Coop/Intern](https://jobright.ai/jobs/info/6a720d0c02d93145bf89227e?utm_campaign=1048&utm_source=git)** | Ottawa, ON, Canada | On Site | Aug 04 |
-| ↳ | **[Optical Test Coop/Intern](https://jobright.ai/jobs/info/6a72006345b6af1c30dbbefa?utm_campaign=1048&utm_source=git)** | Canada | Remote | Aug 04 |
+| **[Nokia](http://www.nokia.com)** | **[Optical Test Coop/Intern](https://jobright.ai/jobs/info/6a72006345b6af1c30dbbefa?utm_campaign=1048&utm_source=git)** | Canada | Remote | Aug 04 |
+| ↳ | **[Optical Test Coop/Intern](https://jobright.ai/jobs/info/6a720d0c02d93145bf89227e?utm_campaign=1048&utm_source=git)** | Ottawa, ON, Canada | On Site | Aug 04 |
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Body Design](https://jobright.ai/jobs/info/6a724e5402d93145bf893eaf?utm_campaign=1048&utm_source=git)** | Fort Valley, GA, United States | On Site | Aug 04 |
 | **[Motorola Mobility (a Lenovo Company)](http://www.motorola.com/)** | **[Product Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a724cc645b6af1c30dbdda8?utm_campaign=1048&utm_source=git)** | Whitsett, NC, United States | On Site | Aug 04 |
 | **[STAG - Strategic Technologies Analytics Group](https://stag.technology/)** | **[SkillBridge Internship](https://jobright.ai/jobs/info/6a724c72ee751e0c79348191?utm_campaign=1048&utm_source=git)** | San Antonio, Texas, United States | On Site | Aug 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Figure](https://www.figure.ai)** | **[Power Systems Integration Intern [Fall 2026]New](https://jobright.ai/jobs/info/6a724482cb96192a3684d03c?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
 | **[Nidec Minster Corporation](https://www.minster.com)** | **[Co-Op/Intern Engineering - Electrical - Fall 2026](https://jobright.ai/jobs/info/6a72447cee751e0c79347e19?utm_campaign=1048&utm_source=git)** | Minster, OH, United States | On Site | Aug 04 |
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Manufacturing Engineering](https://jobright.ai/jobs/info/6a71fd8802d93145bf891d08?utm_campaign=1048&utm_source=git)** | Fort Valley, GA, United States | On Site | Aug 04 |
-| **[Lockwood, Andrews & Newnam, Inc. (LAN)](http://lan-inc.com)** | **[Intern, Wastewater (Summer 2027)](https://jobright.ai/jobs/info/6a723687e2b7476e7b211feb?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Aug 04 |
-| ↳ | **[Intern, Transportation (Summer 2027)](https://jobright.ai/jobs/info/6a72368645b6af1c30dbd540?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Aug 04 |
-| ↳ | **[Intern, North Texas (Summer 2027)](https://jobright.ai/jobs/info/6a723684ee751e0c79347913?utm_campaign=1048&utm_source=git)** | Waco, TX, United States | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
