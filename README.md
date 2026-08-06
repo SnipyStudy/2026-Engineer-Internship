@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HDR](http://www.hdrinc.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/6a73911c6a034212ea028576?utm_campaign=1048&utm_source=git)** | Elizabethtown, KY, United States | On Site | Aug 06 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/6a6065c771c79e639619b395?utm_campaign=1048&utm_source=git)** | Elizabethtown, KY, United States | On Site | Aug 06 |
 | **[Medpace](http://www.medpace.com)** | **[Quality Assurance (QA) Intern - Fall 2026](https://jobright.ai/jobs/info/6a1f63d909442629a685a68e?utm_campaign=1048&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 06 |
 | **[Texas Instruments](http://www.ti.com)** | **[2027 Manufacturing Technician Intern (Dallas/Richardson)](https://jobright.ai/jobs/info/6a6a53310b42f866b619811b?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 06 |
 | **[Helix Electric](http://www.helixelectric.com)** | **[Project Engineer Intern - Fall 26](https://jobright.ai/jobs/info/69ef4d1858811370cb145562?utm_campaign=1048&utm_source=git)** | Commerce, CA, United States | On Site | Aug 06 |
@@ -115,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Postman](https://www.postman.com)** | **[AI Engineer, Intern](https://jobright.ai/jobs/info/6a6e084c41b41d325296ac1f?utm_campaign=1048&utm_source=git)** | Berkeley, California, United States | On Site | Aug 05 |
 | **[Intel](http://www.intel.com)** | **[AI Software Engineering Intern](https://jobright.ai/jobs/info/6a6a51a719d76667a2abef95?utm_campaign=1048&utm_source=git)** | Hillsboro, OR, United States | Hybrid | Aug 05 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Innovation - AI Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a4322ec3a9004648946a996?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 05 |
-| **[Halff](https://www.halff.com/)** | **[Intern, Water Resources](https://jobright.ai/jobs/info/6a73c5bde55c73319eb194d3?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | Hybrid | Aug 05 |
+| **[Halff](https://www.halff.com/)** | **[Intern, Water Resources](https://jobright.ai/jobs/info/6a73c59832ebbc14ffb50f96?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | Hybrid | Aug 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - AI Engineer](https://jobright.ai/jobs/info/6a5e88f7f29acc1a1174839d?utm_campaign=1048&utm_source=git)** | Naperville, IL, United States | Hybrid | Aug 05 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/692fb0a7ef4b48533d1481fb?utm_campaign=1048&utm_source=git)** | Austin, Texas, USA | On Site | Aug 05 |
 | **[Metallus Inc.](https://metallus.com)** | **[Engineering Intern Job Details / Metallus](https://jobright.ai/jobs/info/6a73d8a51ce9647cdbcaa5b2?utm_campaign=1048&utm_source=git)** | Canton, OH, United States | On Site | Aug 05 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Redwood Materials](https://www.redwoodmaterials.com)** | **[Test Automation Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a7230f945b6af1c30dbd255?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 05 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Electrical Reliability Intern (Fall 2026)](https://jobright.ai/jobs/info/6a39b262214ae004c7a202b7?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Aug 05 |
 | **[Precision Castparts](http://precast.com)** | **[Operations Co-op / Intern LPC](https://jobright.ai/jobs/info/6a73d1488cd88e7ccbf5a901?utm_campaign=1048&utm_source=git)** | Portland, OR, United States | On Site | Aug 05 |
-| **[Cargill](https://www.cargill.com/home)** | **[Food Safety, Quality and Regulatory Intern](https://jobright.ai/jobs/info/6a7253f145b6af1c30dbe286?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Aug 05 |
-| ↳ | **[Food Safety, Quality and Regulatory Intern - Summer 2027](https://jobright.ai/jobs/info/6a6bb5e0acb0a61f9dbc2703?utm_campaign=1048&utm_source=git)** | Wichita, KS, United States | On Site | Aug 05 |
+| **[Cargill](https://www.cargill.com/home)** | **[Food Safety, Quality and Regulatory Intern - Summer 2027](https://jobright.ai/jobs/info/6a6bb5e0acb0a61f9dbc2703?utm_campaign=1048&utm_source=git)** | Wichita, KS, United States | On Site | Aug 05 |
+| ↳ | **[Food Safety, Quality and Regulatory Intern](https://jobright.ai/jobs/info/6a7253f145b6af1c30dbe286?utm_campaign=1048&utm_source=git)** | Calgary, Alberta, Canada | On Site | Aug 05 |
 | **[CIRCOR International, Inc.](http://www.circor.com)** | **[Intern - Design Engineering](https://jobright.ai/jobs/info/6a73abe232ebbc14ffb507c2?utm_campaign=1048&utm_source=git)** | Tampa, FL, United States | On Site | Aug 05 |
 | **[Precision Castparts](http://precast.com)** | **[Manufacturing Engineer Intern](https://jobright.ai/jobs/info/6a73d040e55c73319eb1968d?utm_campaign=1048&utm_source=git)** | South Gate, CA, United States | On Site | Aug 05 |
 | **[Fujitsu](http://www.fujitsu.com)** | **[Research Intern - FRA](https://jobright.ai/jobs/info/6a73d0358cd88e7ccbf5a8c6?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA, United States | Remote | Aug 05 |
