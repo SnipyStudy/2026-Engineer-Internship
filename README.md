@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Apex Companies](https://www.apexcos.com)** | **[Environmental Scientist Intern](https://jobright.ai/jobs/info/6a7354ae32ebbc14ffb4e411?utm_campaign=1048&utm_source=git)** | Manassas, VA, United States | On Site | Aug 06 |
+| **[Teradyne](http://www.teradyne.com)** | **[Test Engineering Intern, Fall 2026, (Teradyne, San Jose, CA) Job Details / Teradyne](https://jobright.ai/jobs/info/6a744ba937da8525e8cd895e?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 06 |
+| ↳ | **[AI Engineering Intern, Fall 2026, (Teradyne, North Reading, MA) Job Details / Teradyne](https://jobright.ai/jobs/info/6a744b6cb17cba56903558ce?utm_campaign=1048&utm_source=git)** | North Reading, MA, United States | On Site | Aug 06 |
 | **[Amrize](https://www.amrize.com)** | **[Industrial Intern (Production, Maintenance, Optimization and Systems) Job Details / Amrize](https://jobright.ai/jobs/info/6a7449bf37da8525e8cd88c7?utm_campaign=1048&utm_source=git)** | Saint-Constant, Quebec, Canada | On Site | Aug 06 |
 | **[ByteDance](http://bytedance.com)** | **[Research Scientist Intern (ByteBrain) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7448d1b17cba5690355852?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 06 |
 | ↳ | **[Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a7448cffba916306bd98eb5?utm_campaign=1048&utm_source=git)** | Seattle, WA, United States | On Site | Aug 06 |
@@ -105,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Postman](https://www.postman.com)** | **[AI Engineer, Intern](https://jobright.ai/jobs/info/6a6e084c41b41d325296ac1f?utm_campaign=1048&utm_source=git)** | Berkeley, California, United States | On Site | Aug 05 |
 | **[Intel](http://www.intel.com)** | **[AI Software Engineering Intern](https://jobright.ai/jobs/info/6a6a51a719d76667a2abef95?utm_campaign=1048&utm_source=git)** | Hillsboro, OR, United States | Hybrid | Aug 05 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Innovation - AI Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a4322ec3a9004648946a996?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 05 |
-| **[Halff](https://www.halff.com/)** | **[Intern, Water Resources](https://jobright.ai/jobs/info/6a73c59832ebbc14ffb50f96?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | Hybrid | Aug 05 |
+| **[Halff](https://www.halff.com/)** | **[Intern, Water Resources](https://jobright.ai/jobs/info/6a73c5bde55c73319eb194d3?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | Hybrid | Aug 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - AI Engineer](https://jobright.ai/jobs/info/6a5e88f7f29acc1a1174839d?utm_campaign=1048&utm_source=git)** | Naperville, IL, United States | Hybrid | Aug 05 |
 | **[Amazon](https://amazon.com)** | **[Robotics - Software Development Engineer Intern/Co-op - 2026](https://jobright.ai/jobs/info/692fb0a7ef4b48533d1481fb?utm_campaign=1048&utm_source=git)** | Austin, Texas, USA | On Site | Aug 05 |
 | **[Metallus Inc.](https://metallus.com)** | **[Engineering Intern Job Details / Metallus](https://jobright.ai/jobs/info/6a73d8a51ce9647cdbcaa5b2?utm_campaign=1048&utm_source=git)** | Canton, OH, United States | On Site | Aug 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Anyware Robotics](https://anyware-robotics.com/)** | **[Robotics Hardware & Supplier Engineering Intern (2026 Fall)](https://jobright.ai/jobs/info/6a73aaa08cd88e7ccbf59e9e?utm_campaign=1048&utm_source=git)** | Fremont, CA, United States | On Site | Aug 05 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Tech Sales Thermal Application Engineer Intern (Summer 2027)](https://jobright.ai/jobs/info/6a737ced1ce9647cdbca86e2?utm_campaign=1048&utm_source=git)** | Westerville, OH, United States | On Site | Aug 05 |
 | **[Berkeley Nucleonics Corporation](http://berkeleynucleonics.com/)** | **[RF Test Equipment Product Support Internship](https://jobright.ai/jobs/info/6a739bbb6a034212ea02895e?utm_campaign=1048&utm_source=git)** | San Francisco Bay Area, United States | On Site | Aug 05 |
-| **[Astranis Space Technologies](http://www.astranis.com)** | **[PCB Layout Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a736f22e55c73319eb1743c?utm_campaign=1048&utm_source=git)** | San Francisco | On Site | Aug 05 |
-| **[Coffman Engineers](http://www.coffman.com/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a73a5f9e55c73319eb18b16?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Aug 05 |
-| **[TIDI Products](http://www.tidiproducts.com/)** | **[Intern, System Administrator, Quality Systems](https://jobright.ai/jobs/info/6a73a44f8dc3d52d8eda0c32?utm_campaign=1048&utm_source=git)** | Neenah, WI, United States | Remote | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
