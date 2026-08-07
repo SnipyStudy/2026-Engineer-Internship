@@ -57,6 +57,78 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simplot Company](http://www.simplot.com/)** | **[Chemical Engineering / Chemistry Intern (Pocatello, Idaho)](https://jobright.ai/jobs/info/6a752bbdbb6ca93ae560defa?utm_campaign=1048&utm_source=git)** | Pocatello, Idaho, United States | On Site | Aug 06 |
+| **[PlusAI](https://www.plus.ai)** | **[Deep Learning Research Intern — Multimodal BEV Perception](https://jobright.ai/jobs/info/6a750d7d20b26a6e93f4a7e5?utm_campaign=1048&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 06 |
+| **[PDT Partners](https://www.pdtpartners.com/)** | **[Summer 2027 Systems Engineering Intern](https://jobright.ai/jobs/info/6a63c9505c7e2d715ebadf30?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern Manufacturing Eng](https://jobright.ai/jobs/info/6a75273c7b3417772ade38ad?utm_campaign=1048&utm_source=git)** | North Hollywood, CA, United States | On Site | Aug 06 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a697239d945cf23853bfc57?utm_campaign=1048&utm_source=git)** | Holly Springs, NC, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a706970419cf50d04e416b8?utm_campaign=1048&utm_source=git)** | Tampa, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6a43d848355b3f12beffec?utm_campaign=1048&utm_source=git)** | Gainesville, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a57fd3d9f1f56462cf67e92?utm_campaign=1048&utm_source=git)** | Dallas, TX, US | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a711208ee751e0c79342569?utm_campaign=1048&utm_source=git)** | Franklin, TN, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a67b469872eb74f9eada8ad?utm_campaign=1048&utm_source=git)** | Terrell, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a711212ee751e0c7934256d?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a706c6db85a7d35acd1c2ec?utm_campaign=1048&utm_source=git)** | Fort Myers, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6a857019d76667a2ac03ef?utm_campaign=1048&utm_source=git)** | Reno, NV, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a5756fce9b77f668bd6795c?utm_campaign=1048&utm_source=git)** | Weatherford, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a70dfd8e2b7476e7b20b7af?utm_campaign=1048&utm_source=git)** | Stuart, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a60b864a4c799127e993ce2?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a720223e2b7476e7b210aa8?utm_campaign=1048&utm_source=git)** | Greenville, SC, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a60b9c0a4c799127e993cf4?utm_campaign=1048&utm_source=git)** | Denton, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a70d6f1e2b7476e7b20b2b0?utm_campaign=1048&utm_source=git)** | West Palm Beach, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a60b862193c4d692385f1a6?utm_campaign=1048&utm_source=git)** | Celina, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a60b86fe3f5ff347d7c5409?utm_campaign=1048&utm_source=git)** | McKinney, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6a43d30b42f866b6197add?utm_campaign=1048&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a70d6fc02d93145bf88c86a?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a597ebb856af468ab0041b5?utm_campaign=1048&utm_source=git)** | Westlake, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6a43d58693c23e7fb79b88?utm_campaign=1048&utm_source=git)** | Panama City Beach, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a5559414119652ff3865259?utm_campaign=1048&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a4d0ae90209ea6fd685092f?utm_campaign=1048&utm_source=git)** | Irving, TX, US | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a611c69ab14335fc0f167bb?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a709b4602d93145bf88b02b?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6a3f1a16c69119640fd3b5?utm_campaign=1048&utm_source=git)** | Ocala, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6b7d1c57120971bf3a718d?utm_campaign=1048&utm_source=git)** | Mooresville, NC, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a706c6e419cf50d04e417b4?utm_campaign=1048&utm_source=git)** | Naples, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a69630e16abd1144c64a8aa?utm_campaign=1048&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6ce45e32f9300c3a3e5d05?utm_campaign=1048&utm_source=git)** | Mesa, AZ, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6ce45aba7efe79c2f6732b?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6a43d30b42f866b6197adc?utm_campaign=1048&utm_source=git)** | Tallahassee, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6a43d516c69119640fd599?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a612003ab14335fc0f167f3?utm_campaign=1048&utm_source=git)** | Boise, ID, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a70d6f702d93145bf88c867?utm_campaign=1048&utm_source=git)** | Vero Beach, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a70d6f971acd469eed9ff26?utm_campaign=1048&utm_source=git)** | Doral, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6a0468c63ba56308f50c26?utm_campaign=1048&utm_source=git)** | Savannah, GA, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6b7d1a57120971bf3a7188?utm_campaign=1048&utm_source=git)** | Summerville, SC, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a74fa49972ac843c69985cd?utm_campaign=1048&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7117cfcb96192a3684799f?utm_campaign=1048&utm_source=git)** | Memphis, TN, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a4d0adb35e45603c4bb2466?utm_campaign=1048&utm_source=git)** | Lubbock, TX, US | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a51b0dc8d7d3e6cf1cc11cd?utm_campaign=1048&utm_source=git)** | Lubbock, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6ccfbbba7efe79c2f66b00?utm_campaign=1048&utm_source=git)** | Las Vegas, NV, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6a3f1f48355b3f12befe04?utm_campaign=1048&utm_source=git)** | Melbourne, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6154657196365a6f00a5fa?utm_campaign=1048&utm_source=git)** | Irving, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a70979be2b7476e7b2099cd?utm_campaign=1048&utm_source=git)** | Georgetown, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a70dfcc71acd469eeda03e0?utm_campaign=1048&utm_source=git)** | Delray Beach, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a70dfd2cb96192a36846289?utm_campaign=1048&utm_source=git)** | Miami, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a706c7c59254b3449a6079d?utm_campaign=1048&utm_source=git)** | Sarasota, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a52d026d007ee02d95f9317?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a555931268af95237beb186?utm_campaign=1048&utm_source=git)** | Overland Park, KS, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6ce4655c54bc4752cefec7?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a612006ab9bd46763249a1e?utm_campaign=1048&utm_source=git)** | Lehi, UT, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6b861032f9300c3a3df6e8?utm_campaign=1048&utm_source=git)** | Charleston, SC, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a706c6b85bfb778e22f894f?utm_campaign=1048&utm_source=git)** | St. Petersburg, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a706974b85a7d35acd1c1d9?utm_campaign=1048&utm_source=git)** | Lakeland, FL, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a697240d945cf23853bfc58?utm_campaign=1048&utm_source=git)** | Cary, NC, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a57ed313330ca6f993c20a3?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a5a3d82c8e3a473cb8aa894?utm_campaign=1048&utm_source=git)** | Frisco, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6a62bc16c69119640fe05b?utm_campaign=1048&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6b7d3dacb0a61f9dbc11cb?utm_campaign=1048&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6b7d2cca1f9338465faa35?utm_campaign=1048&utm_source=git)** | Columbia, SC, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6b7d315c54bc4752ce93bd?utm_campaign=1048&utm_source=git)** | Fort Mill, SC, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a70d6f9cb96192a36845dde?utm_campaign=1048&utm_source=git)** | Guaynabo, PR, United States | Remote | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a612cbfab9bd46763249b8d?utm_campaign=1048&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a60b868193c4d692385f1ad?utm_campaign=1048&utm_source=git)** | Sherman, TX, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a543a1c8ef95364ead94deb?utm_campaign=1048&utm_source=git)** | Rogers, AR, United States | On Site | Aug 06 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a70dfd802d93145bf88cd1b?utm_campaign=1048&utm_source=git)** | Jupiter, FL, United States | On Site | Aug 06 |
 | **[Skanska](http://skanska.com)** | **[2027 Project Engineer Intern](https://jobright.ai/jobs/info/6a74ca04bb6ca93ae560be91?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Construction Engineering Intern](https://jobright.ai/jobs/info/6a7507f3bb6ca93ae560d521?utm_campaign=1048&utm_source=git)** | Chino, CA, United States | On Site | Aug 06 |
 | **[General Astronautics](https://generalastro.com)** | **[Spring 2027 Mechanical Engineering Internship/Co-op](https://jobright.ai/jobs/info/6a7534337b3417772ade3b54?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 06 |
@@ -68,93 +140,21 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Substation Electrical Engineer Intern - Grid (Summer 2027)](https://jobright.ai/jobs/info/6a7515717b3417772ade3635?utm_campaign=1048&utm_source=git)** | Warrenville, IL, United States | On Site | Aug 06 |
 | ↳ | **[Transmission Engineer Intern - Grid (Summer 2027)](https://jobright.ai/jobs/info/6a75066c7b3417772ade2f63?utm_campaign=1048&utm_source=git)** | Charlotte, NC, United States | Hybrid | Aug 06 |
 | ↳ | **[Structural Engineering Intern - Nuclear (Summer 2027)](https://jobright.ai/jobs/info/6a74e9eab17cba569035845b?utm_campaign=1048&utm_source=git)** | Chattanooga, TN, United States | On Site | Aug 06 |
+| **[Kiewit](http://www.kiewit.com)** | **[Intern - Eastern District - Fall 2026](https://jobright.ai/jobs/info/6a74ef2037da8525e8cdb70c?utm_campaign=1048&utm_source=git)** | Woodcliff Lake, NJ, United States | On Site | Aug 06 |
 | **[Solid Power, Inc.](https://solidpowerbattery.com)** | **[Materials Engineering Intern](https://jobright.ai/jobs/info/6a750aa537da8525e8cdc0b8?utm_campaign=1048&utm_source=git)** | Louisville, CO, United States | On Site | Aug 06 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a739771e55c73319eb183f8?utm_campaign=1048&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 06 |
 | ↳ | **[Bridge Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a723fcfee751e0c79347cac?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
-| **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a20c19bc00e701fe836b74b?utm_campaign=1048&utm_source=git)** | Des Moines, US | On Site | Aug 06 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a74f88f20b26a6e93f4a09b?utm_campaign=1048&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 06 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a6b49f6ca1f9338465f983e?utm_campaign=1048&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 06 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a74c4e2b17cba5690357711?utm_campaign=1048&utm_source=git)** | Dallas, Texas, United States | On Site | Aug 06 |
+| **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a0dc05309ecfd704b3e2427?utm_campaign=1048&utm_source=git)** | Des Moines, US | On Site | Aug 06 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/69616d5df3f4cd1325066426?utm_campaign=1048&utm_source=git)** | Des Moines | On Site | Aug 06 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a60f409d51f6101c8fb9ab8?utm_campaign=1048&utm_source=git)** | South Bend, IN, United States | On Site | Aug 06 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a60ffabeaa37f43e7586c19?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 06 |
 | ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a6a60f319d76667a2abf467?utm_campaign=1048&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 06 |
 | ↳ | **[Project Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6a558c9e268af95237bec4b9?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 06 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a74ef0d37da8525e8cdb6fe?utm_campaign=1048&utm_source=git)** | Dallas, Texas, United States | On Site | Aug 06 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a60f409d51f6101c8fb9ab8?utm_campaign=1048&utm_source=git)** | South Bend, IN, United States | On Site | Aug 06 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a0dc05309ecfd704b3e2427?utm_campaign=1048&utm_source=git)** | Des Moines, US | On Site | Aug 06 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/69616d5df3f4cd1325066426?utm_campaign=1048&utm_source=git)** | Des Moines | On Site | Aug 06 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a596d4363a8f619507c24d4?utm_campaign=1048&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 06 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a74c4e9972ac843c6997164?utm_campaign=1048&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 06 |
 | ↳ | **[Project Engineer Intern-1](https://jobright.ai/jobs/info/6a74c4f3972ac843c6997167?utm_campaign=1048&utm_source=git)** | Dallas, Texas, United States | On Site | Aug 06 |
-| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a60ffabeaa37f43e7586c19?utm_campaign=1048&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 06 |
-| **[ByteDance](http://bytedance.com)** | **[Network Software Development Engineer Intern(Network Observation) - 2027 Summer](https://jobright.ai/jobs/info/6a75242020b26a6e93f4ad81?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 06 |
-| **[Victory Tool](https://www.victorytool.com)** | **[Toolmaker Internship](https://jobright.ai/jobs/info/6a74b6dbb17cba56903570f9?utm_campaign=1048&utm_source=git)** | Anoka, MN, United States | On Site | Aug 06 |
-| ↳ | **[Tool Designer - Intern](https://jobright.ai/jobs/info/6a74b637972ac843c6996ae7?utm_campaign=1048&utm_source=git)** | Anoka, MN, United States | On Site | Aug 06 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a7522ec972ac843c699921a?utm_campaign=1048&utm_source=git)** | Las Cruces, NM, United States | On Site | Aug 06 |
-| **[Kiewit](http://www.kiewit.com)** | **[Intern - Eastern District - Fall 2026](https://jobright.ai/jobs/info/6a74ef2037da8525e8cdb70c?utm_campaign=1048&utm_source=git)** | Woodcliff Lake, NJ, United States | On Site | Aug 06 |
-| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Fall Intern, Digital Health Algorithms](https://jobright.ai/jobs/info/6a74e828bb6ca93ae560c9a7?utm_campaign=1048&utm_source=git)** | Mountain View, CA, United States | On Site | Aug 06 |
-| **[Intel](http://www.intel.com)** | **[AI Software Engineer Graduate Intern](https://jobright.ai/jobs/info/6a70e2b1e2b7476e7b20b922?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 06 |
-| **[ByteDance](http://bytedance.com)** | **[Machine Learning Research Scientist Intern (Seed AI for Science - Atomistic AI) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a750dae972ac843c6998c93?utm_campaign=1048&utm_source=git)** | Seattle, WA, United States | On Site | Aug 06 |
-| ↳ | **[Network Software Development Engineer Intern (Network Switch) - 2027 Summer](https://jobright.ai/jobs/info/6a750dcc20b26a6e93f4a81d?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 06 |
-| **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond](https://jobright.ai/jobs/info/6a71498771acd469eeda2517?utm_campaign=1048&utm_source=git)** | Redmond, WA, United States | On Site | Aug 06 |
-| **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Fleet Maintenance Coordinator Intern](https://jobright.ai/jobs/info/6a7518b437da8525e8cdc6c0?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
-| **[City of Eden Prairie](http://www.edenprairie.org)** | **[Natural Resources Intern](https://jobright.ai/jobs/info/6a74a9adbb6ca93ae560b1f0?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN, United States | On Site | Aug 06 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[CNO Development Intern/Co-op](https://jobright.ai/jobs/info/6a74d6e5972ac843c699773f?utm_campaign=1048&utm_source=git)** | Maryland, United States | On Site | Aug 06 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[Military Operations Intern](https://jobright.ai/jobs/info/6a751783b17cba5690359571?utm_campaign=1048&utm_source=git)** | Alexandria, VA, United States | On Site | Aug 06 |
-| ↳ | **[Military Operations Intern](https://jobright.ai/jobs/info/6a75176d7b3417772ade368d?utm_campaign=1048&utm_source=git)** | Alexandria, VA, United States | On Site | Aug 06 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[HTM RST Intern](https://jobright.ai/jobs/info/6a74ba7f7b3417772ade1400?utm_campaign=1048&utm_source=git)** | Rochester, MN, United States | On Site | Aug 06 |
-| **[Environment for the Americas](http://www.environmentamericas.org)** | **[Habitat Restoration & Volunteer Engagement Intern - San Francisco - Two Positions Available](https://jobright.ai/jobs/info/6a75169720b26a6e93f4abb1?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 06 |
-| **[Nobel Biocare](http://nobelbiocare.com)** | **[CNC Programmer Intern](https://jobright.ai/jobs/info/6a7514a0b17cba56903594d0?utm_campaign=1048&utm_source=git)** | Yorba Linda, CA, United States | On Site | Aug 06 |
-| ↳ | **[Intern - Process Engineering](https://jobright.ai/jobs/info/6a75148837da8525e8cdc5d3?utm_campaign=1048&utm_source=git)** | Mahwah, NJ, United States | On Site | Aug 06 |
-| **[Impulse Space](https://www.impulsespace.com)** | **[Opto-mechanical Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a75127cb17cba5690359447?utm_campaign=1048&utm_source=git)** | Redondo Beach, CA, United States | On Site | Aug 06 |
-| **[Haws®](http://hawsco.com)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a75119120b26a6e93f4aa5e?utm_campaign=1048&utm_source=git)** | Sparks, NV, United States | On Site | Aug 06 |
-| **[Sanford Burnham Prebys](https://sanfordburnham.org)** | **[INTERN- Tian Lab](https://jobright.ai/jobs/info/6a75116a37da8525e8cdc513?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Aug 06 |
-| **[J Street](https://jstreet.org/)** | **[AI & Cybersecurity Intern](https://jobright.ai/jobs/info/6a4fd5981544d7246c0d6b19?utm_campaign=1048&utm_source=git)** | Washington, District of Columbia, United States | Remote | Aug 06 |
-| **[Jacobs](http://www.jacobs.com)** | **[Water/Wastewater Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a750f597b3417772ade3449?utm_campaign=1048&utm_source=git)** | Cary, NC, United States | On Site | Aug 06 |
-| **[HPM, Inc.](https://www.hpmcontracting.com)** | **[Intern (Summer 2027)](https://jobright.ai/jobs/info/6a750e8537da8525e8cdc380?utm_campaign=1048&utm_source=git)** | Englewood, CO, United States | On Site | Aug 06 |
-| **[ByteDance](http://bytedance.com)** | **[Network Software Development Engineer Intern(Network  Observation) - 2027 Summer](https://jobright.ai/jobs/info/6a750dddb17cba56903591c5?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 06 |
-| **[PlusAI](https://www.plus.ai)** | **[Deep Learning Research Intern — Multimodal BEV Perception](https://jobright.ai/jobs/info/6a750d7d20b26a6e93f4a7e5?utm_campaign=1048&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 06 |
-| **[Forge Digital](https://forge-d.ai/)** | **[Intern - Technical](https://jobright.ai/jobs/info/6a750c7f20b26a6e93f4a738?utm_campaign=1048&utm_source=git)** | Delhi, Michigan, United States | On Site | Aug 06 |
-| **[Aalo Atomics](https://www.aalo.com)** | **[Fall 2026 Mechanical Engineering Intern - Idaho Falls](https://jobright.ai/jobs/info/6a750bb9b17cba569035904c?utm_campaign=1048&utm_source=git)** | Idaho Falls, ID, United States | On Site | Aug 06 |
-| **[Dometic](https://www.dometic.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a750aa1bb6ca93ae560d5e6?utm_campaign=1048&utm_source=git)** | Pompano Beach, FL, United States | On Site | Aug 06 |
-| **[TSC](https://www.tsc.com/)** | **[Hardware Engineering Fall Intern](https://jobright.ai/jobs/info/6a6a559b19d76667a2abf0b8?utm_campaign=1048&utm_source=git)** | Plymouth, MA, United States | On Site | Aug 06 |
-| ↳ | **[Robotics Intern](https://jobright.ai/jobs/info/6a72509d71acd469eeda7652?utm_campaign=1048&utm_source=git)** | Washington, DC, United States | On Site | Aug 06 |
-| **[Dennis Group](http://dennisgrp.com)** | **[Process/Project Engineer Intern](https://jobright.ai/jobs/info/6a7508367b3417772ade2fe9?utm_campaign=1048&utm_source=git)** | Duluth, GA, United States | On Site | Aug 06 |
-| **[Arizona Public Service - APS](http://www.aps.com)** | **[Operations Intern PV](https://jobright.ai/jobs/info/6a74f5adbb6ca93ae560cfcb?utm_campaign=1048&utm_source=git)** | Palo Verde Nuclear Plant | On Site | Aug 06 |
-| **[Impulse Space](https://www.impulsespace.com)** | **[Opto-mechanical Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7507d837da8525e8cdbfeb?utm_campaign=1048&utm_source=git)** | Redondo Beach, CA, United States | On Site | Aug 06 |
-| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Engineering](https://jobright.ai/jobs/info/6a70a60ecb96192a3684493d?utm_campaign=1048&utm_source=git)** | Portsmouth, NH, United States | On Site | Aug 06 |
-| ↳ | **[2027 Summer Intern: Engineering](https://jobright.ai/jobs/info/6a74fd03b17cba5690358c01?utm_campaign=1048&utm_source=git)** | Aiken, SC, United States | On Site | Aug 06 |
-| ↳ | **[2027 Summer Intern: Engineering](https://jobright.ai/jobs/info/6a676b972bda4d2842853bd1?utm_campaign=1048&utm_source=git)** | Portsmouth, NH, United States | On Site | Aug 06 |
-| ↳ | **[2027 Summer Intern: Engineering](https://jobright.ai/jobs/info/6a70a638e2b7476e7b209ef0?utm_campaign=1048&utm_source=git)** | Portsmouth, NH, United States | On Site | Aug 06 |
-| **[Dennis Group](http://dennisgrp.com)** | **[Process/Project Engineer Intern](https://jobright.ai/jobs/info/6a7506d3b17cba5690358eb3?utm_campaign=1048&utm_source=git)** | Duluth, GA, United States | On Site | Aug 06 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Intern Vehicle Engineering](https://jobright.ai/jobs/info/6a73a8a68cd88e7ccbf59df3?utm_campaign=1048&utm_source=git)** | Melbourne, FL, United States | On Site | Aug 06 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Transmission Line Engineer Intern - Grid](https://jobright.ai/jobs/info/6a75066e972ac843c6998963?utm_campaign=1048&utm_source=git)** | Mayagüez, PR, United States | Hybrid | Aug 06 |
-| **[VHB](https://www.vhb.com/)** | **[Land Development Intern - Summer 2027](https://jobright.ai/jobs/info/6a74d7a720b26a6e93f49319?utm_campaign=1048&utm_source=git)** | Richmond, VA, United States | On Site | Aug 06 |
-| **[Perry's Ice Cream](https://www.perrysicecream.com/)** | **[Inventory Digitization & Process Improvement Intern](https://jobright.ai/jobs/info/6a748b1fbb6ca93ae560a85f?utm_campaign=1048&utm_source=git)** | Akron, New York, United States | On Site | Aug 06 |
-| ↳ | **[Production Scheduling & AI Digitization Intern](https://jobright.ai/jobs/info/6a748b1fb17cba5690356367?utm_campaign=1048&utm_source=git)** | Akron, New York, United States | On Site | Aug 06 |
-| **[Bohler](https://bohlerengineering.com/)** | **[Intern – Permitting – Summer 2027/ NYC / Bohler](https://jobright.ai/jobs/info/6a750608b17cba5690358e6e?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
-| **[Vanderlande](https://www.vanderlande.com)** | **[Integration CO-OP](https://jobright.ai/jobs/info/6a74cbf57b3417772ade19b8?utm_campaign=1048&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 06 |
-| **[Johnson, Mirmiran & Thompson](http://jmt.com/)** | **[CEI Engineer Intern](https://jobright.ai/jobs/info/6a75023220b26a6e93f4a32b?utm_campaign=1048&utm_source=git)** | Miami, Florida, United States | On Site | Aug 06 |
-| **[Anyware Robotics](https://anyware-robotics.com/)** | **[Supply Chain Engineering Intern – Robotics (2026 Fall)](https://jobright.ai/jobs/info/6a7501d3972ac843c69987d3?utm_campaign=1048&utm_source=git)** | Fremont, CA, United States | On Site | Aug 06 |
-| **[Otter Products](https://otterproducts.com/)** | **[AI Intern (Fall 2026)](https://jobright.ai/jobs/info/6a74c9fe7b3417772ade1940?utm_campaign=1048&utm_source=git)** | Fort Collins, CO, United States | On Site | Aug 06 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a74b92a7b3417772ade1311?utm_campaign=1048&utm_source=git)** | Provo, UT, United States | On Site | Aug 06 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Technical Intern – MONet](https://jobright.ai/jobs/info/6a74c6d4972ac843c69971f6?utm_campaign=1048&utm_source=git)** | Richland, WA, United States | On Site | Aug 06 |
-| ↳ | **[Undergraduate Technical Intern - EMSL](https://jobright.ai/jobs/info/6a74d0c47b3417772ade1b38?utm_campaign=1048&utm_source=git)** | Richland, WA, United States | On Site | Aug 06 |
-| **[Southwest Florida Water Management District](https://www.swfwmd.state.fl.us)** | **[GIS Student Intern (9027)](https://jobright.ai/jobs/info/6a74fe3e20b26a6e93f4a234?utm_campaign=1048&utm_source=git)** | Brooksville, FL, United States | On Site | Aug 06 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Water Quality Intern](https://jobright.ai/jobs/info/6a74fd10b17cba5690358c0a?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 06 |
-| **[De Nora](https://www.denora.com)** | **[R&D Internship](https://jobright.ai/jobs/info/6a74bde737da8525e8cda596?utm_campaign=1048&utm_source=git)** | Concord, OH, United States | On Site | Aug 06 |
-| **[Proximity, an SPA Australia Company](http://www.au.spa.com)** | **[Military Operations Intern](https://jobright.ai/jobs/info/6a74fbf8972ac843c699867c?utm_campaign=1048&utm_source=git)** | Alexandria, VA, United States | On Site | Aug 06 |
-| ↳ | **[Military Operations Intern](https://jobright.ai/jobs/info/6a74fbf620b26a6e93f4a1ba?utm_campaign=1048&utm_source=git)** | Alexandria, VA, United States | On Site | Aug 06 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a74fa49972ac843c69985cd?utm_campaign=1048&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 06 |
-| **[Chesapeake Bay Foundation](http://www.cbf.org)** | **[Maryland Oyster Restoration Intern](https://jobright.ai/jobs/info/6a74f998972ac843c69985af?utm_campaign=1048&utm_source=git)** | Annapolis, MD, United States | On Site | Aug 06 |
-| **[University of St. Thomas](http://www.stthomas.edu)** | **[Digital Innovation & Learning Technology Intern at YWCA](https://jobright.ai/jobs/info/6a74f7c720b26a6e93f4a06d?utm_campaign=1048&utm_source=git)** | St. Paul, MN, United States | On Site | Aug 06 |
-| **[Rainmaker Technology Corporation](https://makerain.com)** | **[Mechanical Engineering Intern - Fall](https://jobright.ai/jobs/info/6a74f5c137da8525e8cdbaa7?utm_campaign=1048&utm_source=git)** | El Segundo, CA, United States | On Site | Aug 06 |
-| **[Lake Superior Consulting](https://www.lsconsulting.com/)** | **[Corrosion Engineering Intern Nashville](https://jobright.ai/jobs/info/6a74f272972ac843c69982b6?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Aug 06 |
-| **[Jackson EMC](https://www.jacksonemc.com/)** | **[Engineering and Operations Intern](https://jobright.ai/jobs/info/6a74f548972ac843c6998441?utm_campaign=1048&utm_source=git)** | Jefferson, GA, United States | On Site | Aug 06 |
-| **[Capgemini](https://www.capgemini.com)** | **[Talent Deployment Intern Job Details / Capgemini](https://jobright.ai/jobs/info/6a74f507b17cba5690358956?utm_campaign=1048&utm_source=git)** | Bogotá, CO, United States | Hybrid | Aug 06 |
-| **[Ferrero](https://www.ferrero.com)** | **[Mechanical/Industrial Internship Job Details / Ferrero](https://jobright.ai/jobs/info/6a74f500972ac843c6998412?utm_campaign=1048&utm_source=git)** | North Canton, OH, United States | On Site | Aug 06 |
-| ↳ | **[Quality Internship Job Details / Ferrero](https://jobright.ai/jobs/info/6a74f4d220b26a6e93f49f1d?utm_campaign=1048&utm_source=git)** | North Canton, OH, United States | On Site | Aug 06 |
-| **[Rainmaker Technology Corporation](https://makerain.com)** | **[Mechanical Engineering Intern - Fall](https://jobright.ai/jobs/info/6a74f3e237da8525e8cdb9c1?utm_campaign=1048&utm_source=git)** | El Segundo, CA, United States | On Site | Aug 06 |
-| **[BENTELER Group](https://www.benteler.com/)** | **[Quality Intern Job Details / BENTELER](https://jobright.ai/jobs/info/6a57136d10c4d945d864ce3f?utm_campaign=1048&utm_source=git)** | Grand Rapids, MI, United States | On Site | Aug 06 |
-| **[BMW Group](http://www.bmwgroup.com)** | **[TX-5-S-2,TX-5-S-2 / Intern](https://jobright.ai/jobs/info/6a74f1d837da8525e8cdb8b4?utm_campaign=1048&utm_source=git)** | Spartanburg, SC, United States | On Site | Aug 06 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[ENGINEER INTERN APPLICANT - ENGINEER INTERN 2](https://jobright.ai/jobs/info/6a74ef0720b26a6e93f49c16?utm_campaign=1048&utm_source=git)** | Louisiana, United States | On Site | Aug 06 |
-| **[Jabil](https://www.jabil.com)** | **[Manufacturing Engineer - Intern](https://jobright.ai/jobs/info/6a7438e97b3417772addf5bc?utm_campaign=1048&utm_source=git)** | West Chester, PA, United States | On Site | Aug 06 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Safety Internship](https://jobright.ai/jobs/info/6a75185237da8525e8cdc6a8?utm_campaign=1048&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 06 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a596d4363a8f619507c24d4?utm_campaign=1048&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 06 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a74ef0d37da8525e8cdb6fe?utm_campaign=1048&utm_source=git)** | Dallas, Texas, United States | On Site | Aug 06 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a20c19bc00e701fe836b74b?utm_campaign=1048&utm_source=git)** | Des Moines, US | On Site | Aug 06 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a6b49f6ca1f9338465f983e?utm_campaign=1048&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 06 |
+| ↳ | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a74c4e2b17cba5690357711?utm_campaign=1048&utm_source=git)** | Dallas, Texas, United States | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
