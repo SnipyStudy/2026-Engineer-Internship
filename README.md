@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond](https://jobright.ai/jobs/info/6a71498771acd469eeda2517?utm_campaign=1048&utm_source=git)** | Redmond, WA, United States | On Site | Aug 06 |
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Fleet Maintenance Coordinator Intern](https://jobright.ai/jobs/info/6a7518b437da8525e8cdc6c0?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[CNO Development Intern/Co-op](https://jobright.ai/jobs/info/6a74d6e5972ac843c699773f?utm_campaign=1048&utm_source=git)** | Maryland, United States | On Site | Aug 06 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Military Operations Intern](https://jobright.ai/jobs/info/6a751783b17cba5690359571?utm_campaign=1048&utm_source=git)** | Alexandria, VA, United States | On Site | Aug 06 |
@@ -86,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Construction Engineering Intern](https://jobright.ai/jobs/info/6a7507f3bb6ca93ae560d521?utm_campaign=1048&utm_source=git)** | Chino, CA, United States | On Site | Aug 06 |
 | **[Impulse Space](https://www.impulsespace.com)** | **[Opto-mechanical Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7507d837da8525e8cdbfeb?utm_campaign=1048&utm_source=git)** | Redondo Beach, CA, United States | On Site | Aug 06 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Engineering](https://jobright.ai/jobs/info/6a74fd03b17cba5690358c01?utm_campaign=1048&utm_source=git)** | Aiken, SC, United States | On Site | Aug 06 |
-| ↳ | **[2027 Summer Intern: Engineering](https://jobright.ai/jobs/info/6a676b972bda4d2842853bd1?utm_campaign=1048&utm_source=git)** | Portsmouth, NH, United States | On Site | Aug 06 |
 | ↳ | **[2027 Summer Intern: Engineering](https://jobright.ai/jobs/info/6a70a60ecb96192a3684493d?utm_campaign=1048&utm_source=git)** | Portsmouth, NH, United States | On Site | Aug 06 |
+| ↳ | **[2027 Summer Intern: Engineering](https://jobright.ai/jobs/info/6a676b972bda4d2842853bd1?utm_campaign=1048&utm_source=git)** | Portsmouth, NH, United States | On Site | Aug 06 |
 | ↳ | **[2027 Summer Intern: Engineering](https://jobright.ai/jobs/info/6a70a638e2b7476e7b209ef0?utm_campaign=1048&utm_source=git)** | Portsmouth, NH, United States | On Site | Aug 06 |
 | **[Dennis Group](http://dennisgrp.com)** | **[Process/Project Engineer Intern](https://jobright.ai/jobs/info/6a7506d3b17cba5690358eb3?utm_campaign=1048&utm_source=git)** | Duluth, GA, United States | On Site | Aug 06 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Intern Vehicle Engineering](https://jobright.ai/jobs/info/6a73a8a68cd88e7ccbf59df3?utm_campaign=1048&utm_source=git)** | Melbourne, FL, United States | On Site | Aug 06 |
@@ -138,23 +139,22 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Environment Health & Safety Intern - Fall-Winter - Part-Time](https://jobright.ai/jobs/info/6a74e67bb17cba56903582f0?utm_campaign=1048&utm_source=git)** | Kalamazoo, MI, United States | On Site | Aug 06 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Facilities Mechanical Engineer / AutoCAD Design Fall Intern 2026](https://jobright.ai/jobs/info/6a74e377972ac843c6997c8b?utm_campaign=1048&utm_source=git)** | Columbus, MS, United States | On Site | Aug 06 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Experimental Thermofluid Systems](https://jobright.ai/jobs/info/6a74e1b1bb6ca93ae560c798?utm_campaign=1048&utm_source=git)** | Cambridge, MA, United States | On Site | Aug 06 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a17cb57da08264614c906de?utm_campaign=1048&utm_source=git)** | CA-BC-Victoria | On Site | Aug 06 |
-| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e4573b54ed42d74d9f50?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Aug 06 |
-| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a53b3c8c8eb0843027ad6ca?utm_campaign=1048&utm_source=git)** | Campbell River, BC, Canada | On Site | Aug 06 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a74cbfd37da8525e8cda99a?utm_campaign=1048&utm_source=git)** | Broomfield, CO, United States | On Site | Aug 06 |
 | ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18578cdbc80963f93423bf?utm_campaign=1048&utm_source=git)** | CA-BC-Campbell River | On Site | Aug 06 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a53b3c8c8eb0843027ad6ca?utm_campaign=1048&utm_source=git)** | Campbell River, BC, Canada | On Site | Aug 06 |
 | ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a5cea5563a8f619507ce573?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Aug 06 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a17cb57da08264614c906de?utm_campaign=1048&utm_source=git)** | CA-BC-Victoria | On Site | Aug 06 |
+| ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a08e4573b54ed42d74d9f50?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Aug 06 |
 | ↳ | **[Field Engineer Intern (8 months)](https://jobright.ai/jobs/info/6a18c8cedbc80963f934773d?utm_campaign=1048&utm_source=git)** | Campbell River, BC, CA | On Site | Aug 06 |
-| ↳ | **[Field Engineer Intern](https://jobright.ai/jobs/info/6a74cbfd37da8525e8cda99a?utm_campaign=1048&utm_source=git)** | Broomfield, CO, United States | On Site | Aug 06 |
 | **[VECARIUS, Inc.](http://www.vecarius.com)** | **[Mechanical Engineer (Intern)](https://jobright.ai/jobs/info/6a74df7cb17cba5690358091?utm_campaign=1048&utm_source=git)** | Somerville, MA, United States | On Site | Aug 06 |
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Intern, Manufacturing Engineering](https://jobright.ai/jobs/info/6a749bffb17cba569035673c?utm_campaign=1048&utm_source=git)** | Brecksville, OH, United States | On Site | Aug 06 |
 | **[IPS-Integrated Project Services](https://www.ipsdb.com)** | **[Construction Intern](https://jobright.ai/jobs/info/6a74daa437da8525e8cdaf73?utm_campaign=1048&utm_source=git)** | Burlington, MA, United States | On Site | Aug 06 |
 | **[Haag, a Salas O'Brien Company](https://haagglobal.com/)** | **[Mechanical Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a74b21237da8525e8cd9fa8?utm_campaign=1048&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 06 |
-| **[Bank of China USA](https://www.bocusa.com)** | **[ADC/ADD Business Applications Intern](https://jobright.ai/jobs/info/6a620c6eeaa37f43e758bbd2?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
-| ↳ | **[ADC/ADD Business Applications Intern](https://jobright.ai/jobs/info/6a2206f8ca8f0b365d7aa8c5?utm_campaign=1048&utm_source=git)** | US-NY-New York | On Site | Aug 06 |
+| **[Bank of China USA](https://www.bocusa.com)** | **[ADC/ADD Business Applications Intern](https://jobright.ai/jobs/info/6a2206f8ca8f0b365d7aa8c5?utm_campaign=1048&utm_source=git)** | US-NY-New York | On Site | Aug 06 |
+| ↳ | **[ADC/ADD Business Applications Intern](https://jobright.ai/jobs/info/6a620c6eeaa37f43e758bbd2?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | **[PACCAR](http://www.paccar.com/)** | **[Facilities Mechanical Engineer / AutoCAD Design Fall Intern 2026](https://jobright.ai/jobs/info/6a74da23972ac843c69978de?utm_campaign=1048&utm_source=git)** | Columbus, MS, United States | On Site | Aug 06 |
 | **[James Avery Artisan Jewelry](http://www.jamesavery.com/careers)** | **[Engineering Intern - Hondo, TX (CAD Fixture Development & Validation in Mfg)](https://jobright.ai/jobs/info/6a74a650b17cba5690356a9b?utm_campaign=1048&utm_source=git)** | Hondo, TX, United States | On Site | Aug 06 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Fuel Quality Intern (Summer 2027)](https://jobright.ai/jobs/info/6a74d84b7b3417772ade1ea8?utm_campaign=1048&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 06 |
 | **[HV Logic Ltd.](https://hvlogic.com)** | **[Electrical Engineer Internship](https://jobright.ai/jobs/info/6a74d7d9972ac843c69977fb?utm_campaign=1048&utm_source=git)** | Calgary, AB, Canada | On Site | Aug 06 |
 | **[Paramify](https://www.paramify.com)** | **[Cyber Security Solution Engineer (Intern)](https://jobright.ai/jobs/info/6a29c681d3ec8317fe140544?utm_campaign=1048&utm_source=git)** | Lehi, UT, United States | On Site | Aug 06 |
-| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Geotechnical Internship (Level 2)](https://jobright.ai/jobs/info/6a74d6bbb17cba5690357cc9?utm_campaign=1048&utm_source=git)** | West Chester, OH, United States | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
