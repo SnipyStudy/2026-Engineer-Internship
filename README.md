@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Nexus Internship](https://jobright.ai/jobs/info/6a76e4d77b3417772ade99d1?utm_campaign=1048&utm_source=git)** | Grand Forks, ND, United States | On Site | Aug 08 |
+| **[New York Botanical Garden](http://www.nybg.org)** | **[Science Intern](https://jobright.ai/jobs/info/6a76e37b7b3417772ade99b1?utm_campaign=1048&utm_source=git)** | Bronx, NY, United States | On Site | Aug 08 |
 | **[Axon](https://www.axon.com)** | **[RenderATL 2026 US Electrical Engineering Internship](https://jobright.ai/jobs/info/6a6d66adca1f933846603869?utm_campaign=1048&utm_source=git)** | Scottsdale, AZ, United States | Hybrid | Aug 08 |
+| **[Applied Intuition](https://appliedintuition.com)** | **[Research Intern - Robotic Hardware, Simulation and Data](https://jobright.ai/jobs/info/6a2a8057d3ec8317fe144024?utm_campaign=1048&utm_source=git)** | Sunnyvale | On Site | Aug 07 |
+| ↳ | **[Research Intern - Robotic Hardware, Simulation and Data](https://jobright.ai/jobs/info/6a55b6a2fdf4fa71202b3da0?utm_campaign=1048&utm_source=git)** | Sunnyvale, CA, United States | On Site | Aug 07 |
 | **[ByteDance](http://bytedance.com)** | **[Software Development Engineer Intern (Network Automation) - 2027 Summer](https://jobright.ai/jobs/info/6a767b6767a1ad0bc53ca8a0?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 07 |
 | **[RoShay Services](https://www.linkedin.com/company/109419302)** | **[Mechanical Engineering Intern/Co-Op](https://jobright.ai/jobs/info/6a76c2f967a1ad0bc53cb460?utm_campaign=1048&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 07 |
 | **[Monteverde Engineering & Design Studio, PLC](https://www.linkedin.com/company/11416779)** | **[STRUCTURAL ENGINEER](https://jobright.ai/jobs/info/6a76de6ebb6ca93ae5613c4e?utm_campaign=1048&utm_source=git)** | Harrisonburg, VA, United States | On Site | Aug 07 |
@@ -81,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[WSP](http://www.wsp.com/)** | **[Geotechnical Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a764aa6bb6ca93ae5611f41?utm_campaign=1048&utm_source=git)** | Wexford, PA, United States | On Site | Aug 07 |
 | **[Quantum Formatics](https://quantumformatics.com)** | **[Undergraduate Research Intern](https://jobright.ai/jobs/info/6a768ee6b17cba569035e8ac?utm_campaign=1048&utm_source=git)** | Cambridge, MA, United States | On Site | Aug 07 |
 | **[AECOM](http://www.aecom.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a76442c7b3417772ade788f?utm_campaign=1048&utm_source=git)** | Honolulu, HI, United States | On Site | Aug 07 |
-| **[KPMG Canada](https://www.kpmg.se)** | **[Risk Services (Non-CPA) - Forensic Technology Intern/Co-op - Toronto - Winter, Summer or Fall 2027](https://jobright.ai/jobs/info/6a762998a26ccc369f8340d6?utm_campaign=1048&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 07 |
+| **[KPMG Canada](https://www.kpmg.se)** | **[Risk Services (Non-CPA) - Forensic Technology Intern/Co-op - Toronto - Winter, Summer or Fall 2027](https://jobright.ai/jobs/info/6a762ad94817aa4307047161?utm_campaign=1048&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 07 |
 | **[J2](https://www.j2engineers.com)** | **[Land Development Engineering Intern](https://jobright.ai/jobs/info/6a768c6a4817aa4307048a93?utm_campaign=1048&utm_source=git)** | Arlington, VA, United States | On Site | Aug 07 |
 | **[Kawartha Lakes](http://www.kawarthalakes.ca)** | **[Heritage Planning Intern](https://jobright.ai/jobs/info/6a76de72b17cba569035f6f3?utm_campaign=1048&utm_source=git)** | Kawartha Lakes, Ontario, Canada | On Site | Aug 07 |
 | **[First Bank & Trust](http://bankeasy.com)** | **[SharePoint/Power Platform Intern](https://jobright.ai/jobs/info/6a68b96c7926035e0958691d?utm_campaign=1048&utm_source=git)** | Brookings, SD, United States | On Site | Aug 07 |
@@ -143,18 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Lactalis Canada](https://lactalis.ca/)** | **[Project Engineer Intern](https://jobright.ai/jobs/info/6a4fd8541544d7246c0d6bab?utm_campaign=1048&utm_source=git)** | Belleville, ON, Canada | On Site | Aug 07 |
 | **[Epic Games](https://epicgames.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6a7605b37b3417772ade6359?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[AI Research Engineer Intern](https://jobright.ai/jobs/info/6a763c354817aa43070475df?utm_campaign=1048&utm_source=git)** | San Jose, California, United States | Hybrid | Aug 07 |
-| **[REV Group, Inc](http://www.revgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/6a55f81aefb06a45240d272e?utm_campaign=1048&utm_source=git)** | Ocala, FL, United States | On Site | Aug 07 |
-| ↳ | **[Intern Job Details / REV Group, Inc.](https://jobright.ai/jobs/info/6a2809e4fd37e62bb47a6466?utm_campaign=1048&utm_source=git)** | Hamburg, NY, US, 14075 | On Site | Aug 07 |
-| ↳ | **[Intern Job Details / REV Group, Inc.](https://jobright.ai/jobs/info/6a6b0f3bca1f9338465f813a?utm_campaign=1048&utm_source=git)** | Hamburg, New York, United States | On Site | Aug 07 |
+| **[REV Group, Inc](http://www.revgroup.com/)** | **[Intern Job Details / REV Group, Inc.](https://jobright.ai/jobs/info/6a2809e4fd37e62bb47a6466?utm_campaign=1048&utm_source=git)** | Hamburg, NY, US, 14075 | On Site | Aug 07 |
 | ↳ | **[Intern Job Details / REV Group, Inc.](https://jobright.ai/jobs/info/6a6b0f6bacb0a61f9dbbe898?utm_campaign=1048&utm_source=git)** | Ocala, Florida, United States | On Site | Aug 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a55f80c392ae330b30e85bc?utm_campaign=1048&utm_source=git)** | Hamburg, NY, United States | On Site | Aug 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a228ccf8e98cb42c8a83f83?utm_campaign=1048&utm_source=git)** | Hamburg, NY, US, 14075 | On Site | Aug 07 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a55f81aefb06a45240d272e?utm_campaign=1048&utm_source=git)** | Ocala, FL, United States | On Site | Aug 07 |
+| ↳ | **[Intern Job Details / REV Group, Inc.](https://jobright.ai/jobs/info/6a6b0f3bca1f9338465f813a?utm_campaign=1048&utm_source=git)** | Hamburg, New York, United States | On Site | Aug 07 |
 | **[Bohler](https://bohlerengineering.com/)** | **[Intern – Civil Engineer (Land Development) – Summer 2027/ Charlotte, NC / Bohler](https://jobright.ai/jobs/info/6a763b67bb6ca93ae5611917?utm_campaign=1048&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 07 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Engineering Technician I - Chemical Engineering - Intern](https://jobright.ai/jobs/info/6a760e31a26ccc369f8337b5?utm_campaign=1048&utm_source=git)** | Greenville, SC, United States | On Site | Aug 07 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern/Co-Op - Spring 2027 - Boston, MA](https://jobright.ai/jobs/info/6a761fba7b3417772ade6d6b?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Aug 07 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Supply Chain Applied AI Engineering Intern](https://jobright.ai/jobs/info/6a763892b17cba569035d2ea?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 07 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a70dfd8e2b7476e7b20b7af?utm_campaign=1048&utm_source=git)** | Stuart, FL, United States | On Site | Aug 07 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7117cc71acd469eeda1a70?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Aug 07 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a60bb28a0dbef49469b8b95?utm_campaign=1048&utm_source=git)** | Celina, TX, United States | On Site | Aug 07 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a60b9c0a4c799127e993cf4?utm_campaign=1048&utm_source=git)** | Denton, TX, United States | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
