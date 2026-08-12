@@ -105,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9686ecfd29770753a214?utm_campaign=1048&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b967bbc05d77f2bde021d?utm_campaign=1048&utm_source=git)** | West Lafayette, IN, United States | On Site | Aug 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9678b933773d16be87ba?utm_campaign=1048&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 11 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9677b933773d16be87b7?utm_campaign=1048&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b967777e6b569c61c1b59?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN, United States | On Site | Aug 11 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9677b933773d16be87b7?utm_campaign=1048&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9676ecf5194164fbf2a3?utm_campaign=1048&utm_source=git)** | Columbus, OH, United States | On Site | Aug 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9673ecfd29770753a210?utm_campaign=1048&utm_source=git)** | Deerfield, IL, United States | On Site | Aug 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9670ecf5194164fbf2a1?utm_campaign=1048&utm_source=git)** | Akron, OH, United States | On Site | Aug 11 |
@@ -144,17 +144,17 @@ For a complete list, click the following sortable link below:
 | **[PlusAI](https://www.plus.ai)** | **[Machine Learning Engineer Intern - Planning](https://jobright.ai/jobs/info/6a10f1d89fdbf21f36cb19e1?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Aug 11 |
 | **[OHLA USA](https://www.ohla-usa.com)** | **[Field Engineer Internship Summer 2027](https://jobright.ai/jobs/info/6a7b81e4ecfd2977075397fb?utm_campaign=1048&utm_source=git)** | Lisle, IL, United States | On Site | Aug 11 |
 | **[Jabil](https://www.jabil.com)** | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/6a79ca5ca26ccc369f83ad36?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 11 |
-| **[PlusAI](https://www.plus.ai)** | **[Machine Learning Engineer Intern - Planning](https://jobright.ai/jobs/info/6a10818b69bd827926aeebc3?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Aug 11 |
-| ↳ | **[Machine Learning Engineer Intern - Planning](https://jobright.ai/jobs/info/6a57cbc9a791c6211bf01096?utm_campaign=1048&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 11 |
+| **[PlusAI](https://www.plus.ai)** | **[Machine Learning Engineer Intern - Planning](https://jobright.ai/jobs/info/6a57cbc9a791c6211bf01096?utm_campaign=1048&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 11 |
+| ↳ | **[Machine Learning Engineer Intern - Planning](https://jobright.ai/jobs/info/6a10818b69bd827926aeebc3?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Aug 11 |
 | **[Grande Cheese Company](https://www.grande.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a7b537b77e6b569c61bfd56?utm_campaign=1048&utm_source=git)** | Brownsville, WI, United States | On Site | Aug 11 |
-| ↳ | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/6a7b5336b933773d16be6994?utm_campaign=1048&utm_source=git)** | Juda, WI, United States | On Site | Aug 11 |
 | ↳ | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/6a7b5345ecf5194164fbd451?utm_campaign=1048&utm_source=git)** | Brownsville, WI, United States | On Site | Aug 11 |
+| ↳ | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/6a7b5336b933773d16be6994?utm_campaign=1048&utm_source=git)** | Juda, WI, United States | On Site | Aug 11 |
 | **[AMERICAN SpiralWeld Pipe Company, LLC](https://american-usa.com/products/spiral-welded-steel-pipe)** | **[Safety Intern - Spring 2027](https://jobright.ai/jobs/info/6a7b80c4ecfd297707539766?utm_campaign=1048&utm_source=git)** | Birmingham, AL, United States | On Site | Aug 11 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Supplier Quality Engineer Intern - Fall-Winter - Part-Time](https://jobright.ai/jobs/info/6a7b4e1f77e6b569c61bf9f2?utm_campaign=1048&utm_source=git)** | Kalamazoo, MI, United States | On Site | Aug 11 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[AI RAN Telecommunications Engineer Intern](https://jobright.ai/jobs/info/6a7b6e01ecfd297707538d70?utm_campaign=1048&utm_source=git)** | McLean, VA, United States | On Site | Aug 11 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[AI RAN Telecommunications Engineer Intern](https://jobright.ai/jobs/info/6a7b3bf8ecfd2977075379fd?utm_campaign=1048&utm_source=git)** | McLean, VA, United States | On Site | Aug 11 |
 | **[Lockwood, Andrews & Newnam, Inc. (LAN)](http://lan-inc.com)** | **[Intern, Transportation (Summer 2027)](https://jobright.ai/jobs/info/6a7b713becfd297707538ebe?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Aug 11 |
 | **[Skanska](http://skanska.com)** | **[Heavy Civil Estimating Summer 2027 Internship](https://jobright.ai/jobs/info/6a7b51d6ecfd2977075382e9?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | On Site | Aug 11 |
-| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1048&utm_source=git)** | Hampton Roads, Virginia, United States | On Site | Aug 11 |
 | ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fdaecfd29770753881f?utm_campaign=1048&utm_source=git)** | Outer Banks, NC, United States | On Site | Aug 11 |
+| ↳ | **[EH&S Summer 2027 Intern](https://jobright.ai/jobs/info/6a7b5fe03b399d106e4d5fdf?utm_campaign=1048&utm_source=git)** | Hampton Roads, Virginia, United States | On Site | Aug 11 |
 | **[AECOM](http://www.aecom.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a7b7b2e77e6b569c61c0e17?utm_campaign=1048&utm_source=git)** | Honolulu, HI, United States | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
