@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Zetier](https://zetier.com/)** | **[Cyber Engineering Intern](https://jobright.ai/jobs/info/6a7b5087ecf5194164fbd25c?utm_campaign=1048&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
-| ↳ | **[Cyber Engineering Intern](https://jobright.ai/jobs/info/697438ed206da320f49e58e7?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Aug 11 |
+| **[Zetier](https://zetier.com/)** | **[Cyber Engineering Intern](https://jobright.ai/jobs/info/697438ed206da320f49e58e7?utm_campaign=1048&utm_source=git)** | Arlington, VA | On Site | Aug 11 |
+| ↳ | **[Cyber Engineering Intern](https://jobright.ai/jobs/info/6a7b5087ecf5194164fbd25c?utm_campaign=1048&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
 | **[TIFIN](https://tifin.com)** | **[AI Engineering Intern, TIFIN.ai](https://jobright.ai/jobs/info/6a51d4f702522b5b722ec319?utm_campaign=1048&utm_source=git)** | Boulder, CO, United States | On Site | Aug 11 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Process Engineer Intern - Oil & Gas (Summer 2027)](https://jobright.ai/jobs/info/6a7b910d3b399d106e4d7813?utm_campaign=1048&utm_source=git)** | Englewood, CO, United States | On Site | Aug 11 |
 | ↳ | **[Substation Electrical Engineer Intern - Grid (Summer 2027)](https://jobright.ai/jobs/info/6a7515717b3417772ade3635?utm_campaign=1048&utm_source=git)** | Warrenville, IL, United States | On Site | Aug 11 |
@@ -70,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[MAHLE](https://www.mahle.com)** | **[Maintenance Intern](https://jobright.ai/jobs/info/6a7b8965ecf5194164fbec52?utm_campaign=1048&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 11 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Fall 2026 Digital Developer Internship, TD Garden](https://jobright.ai/jobs/info/6a7b3757b933773d16be5e1f?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 11 |
 | **[Peak Energy](https://www.peakenergy.com)** | **[Test Engineer Intern, ESS (Winter 2027)](https://jobright.ai/jobs/info/6a512aed78e364789ca59768?utm_campaign=1048&utm_source=git)** | Burlingame, CA, United States | On Site | Aug 11 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: R&D (Undergrad and Grad)](https://jobright.ai/jobs/info/6a7b6065b933773d16be6e1a?utm_campaign=1048&utm_source=git)** | Plano, TX, United States | On Site | Aug 11 |
-| ↳ | **[2027 Summer Intern: R&D (Undergrad and Grad)](https://jobright.ai/jobs/info/6a7b5f193b399d106e4d5fc7?utm_campaign=1048&utm_source=git)** | Valhalla, NY, United States | On Site | Aug 11 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: R&D (Undergrad and Grad)](https://jobright.ai/jobs/info/6a7b5f193b399d106e4d5fc7?utm_campaign=1048&utm_source=git)** | Valhalla, NY, United States | On Site | Aug 11 |
+| ↳ | **[2027 Summer Intern: R&D (Undergrad and Grad)](https://jobright.ai/jobs/info/6a7b6065b933773d16be6e1a?utm_campaign=1048&utm_source=git)** | Plano, TX, United States | On Site | Aug 11 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Field Engineer Intern - High Speed Rail](https://jobright.ai/jobs/info/6a7baed9b933773d16be8e3d?utm_campaign=1048&utm_source=git)** | Selma, CA, United States | On Site | Aug 11 |
 | **[Mead & Hunt](https://meadhunt.com/)** | **[Roadway Design Intern](https://jobright.ai/jobs/info/6a7b9ea777e6b569c61c1d5a?utm_campaign=1048&utm_source=git)** | North Charleston, SC, United States | On Site | Aug 11 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[2026 Intern Conversion - Manufacturing Engineer I](https://jobright.ai/jobs/info/6a7b961077e6b569c61c1b40?utm_campaign=1048&utm_source=git)** | Greater Seattle Area, United States | On Site | Aug 11 |
@@ -101,18 +101,18 @@ For a complete list, click the following sortable link below:
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Advanced Facilities - Intern - Engineer](https://jobright.ai/jobs/info/6a726815e2b7476e7b21338e?utm_campaign=1048&utm_source=git)** | Tempe, AZ, United States | On Site | Aug 11 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Environmental Engineering CO-OP (Spring 2027)](https://jobright.ai/jobs/info/6a7ba202b933773d16be8a98?utm_campaign=1048&utm_source=git)** | Boston, MA, United States | On Site | Aug 11 |
 | **[SRI](http://www.sri.com)** | **[Intern, Sleep Lab](https://jobright.ai/jobs/info/6a7ba1d33b399d106e4d7c50?utm_campaign=1048&utm_source=git)** | Menlo Park, CA, United States | On Site | Aug 11 |
-| **[Advanced Energy](https://www.advancedenergy.com)** | **[Intern - Electrical Engineer - Fall 2026](https://jobright.ai/jobs/info/6a7b8cedb933773d16be8468?utm_campaign=1048&utm_source=git)** | Fort Collins, CO, United States | On Site | Aug 11 |
-| ↳ | **[Intern - Electrical Engineer - Fall 2026](https://jobright.ai/jobs/info/6a767f9e4817aa430704895d?utm_campaign=1048&utm_source=git)** | Fort Collins, CO, United States | On Site | Aug 11 |
+| **[Advanced Energy](https://www.advancedenergy.com)** | **[Intern - Electrical Engineer - Fall 2026](https://jobright.ai/jobs/info/6a767f9e4817aa430704895d?utm_campaign=1048&utm_source=git)** | Fort Collins, CO, United States | On Site | Aug 11 |
+| ↳ | **[Intern - Electrical Engineer - Fall 2026](https://jobright.ai/jobs/info/6a7b8cedb933773d16be8468?utm_campaign=1048&utm_source=git)** | Fort Collins, CO, United States | On Site | Aug 11 |
 | **[Danfoss](https://www.danfoss.com)** | **[Manufacturing Engineering Intern](https://jobright.ai/jobs/info/6a7b9e3b3b399d106e4d7b5d?utm_campaign=1048&utm_source=git)** | Easley, SC, United States | On Site | Aug 11 |
 | **[Poettker Construction Company](http://poettkerconstruction.com)** | **[Preconstruction Intern](https://jobright.ai/jobs/info/6a7b9b79bc05d77f2bde0321?utm_campaign=1048&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 11 |
-| **[Lochner](http://hwlochner.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b6e1877e6b569c61c06e0?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 11 |
+| **[Lochner](http://hwlochner.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b6ee377e6b569c61c0751?utm_campaign=1048&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 11 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Cybersecurity Software Intern Engineer](https://jobright.ai/jobs/info/6a7b998cb933773d16be886a?utm_campaign=1048&utm_source=git)** | Manassas, VA, United States | On Site | Aug 11 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Computational Engineering Division Graduate Intern - Fall 2026](https://jobright.ai/jobs/info/6a7b591eecfd29770753866a?utm_campaign=1048&utm_source=git)** | Livermore, CA, United States | Hybrid | Aug 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9686ecfd29770753a214?utm_campaign=1048&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b967bbc05d77f2bde021d?utm_campaign=1048&utm_source=git)** | West Lafayette, IN, United States | On Site | Aug 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9678b933773d16be87ba?utm_campaign=1048&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 11 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9677b933773d16be87b7?utm_campaign=1048&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b967777e6b569c61c1b59?utm_campaign=1048&utm_source=git)** | Eden Prairie, MN, United States | On Site | Aug 11 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9677b933773d16be87b7?utm_campaign=1048&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9676ecf5194164fbf2a3?utm_campaign=1048&utm_source=git)** | Columbus, OH, United States | On Site | Aug 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9673ecfd29770753a210?utm_campaign=1048&utm_source=git)** | Deerfield, IL, United States | On Site | Aug 11 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a7b9670ecf5194164fbf2a1?utm_campaign=1048&utm_source=git)** | Akron, OH, United States | On Site | Aug 11 |
@@ -149,11 +149,11 @@ For a complete list, click the following sortable link below:
 | **[PlusAI](https://www.plus.ai)** | **[Machine Learning Engineer Intern - Planning](https://jobright.ai/jobs/info/6a10f1d89fdbf21f36cb19e1?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Aug 11 |
 | **[OHLA USA](https://www.ohla-usa.com)** | **[Field Engineer Internship Summer 2027](https://jobright.ai/jobs/info/6a7b81e4ecfd2977075397fb?utm_campaign=1048&utm_source=git)** | Lisle, IL, United States | On Site | Aug 11 |
 | **[Jabil](https://www.jabil.com)** | **[Industrial Engineer Intern](https://jobright.ai/jobs/info/6a79ca5ca26ccc369f83ad36?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 11 |
-| **[PlusAI](https://www.plus.ai)** | **[Machine Learning Engineer Intern - Planning](https://jobright.ai/jobs/info/6a10818b69bd827926aeebc3?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Aug 11 |
-| ↳ | **[Machine Learning Engineer Intern - Planning](https://jobright.ai/jobs/info/6a57cbc9a791c6211bf01096?utm_campaign=1048&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 11 |
+| **[PlusAI](https://www.plus.ai)** | **[Machine Learning Engineer Intern - Planning](https://jobright.ai/jobs/info/6a57cbc9a791c6211bf01096?utm_campaign=1048&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 11 |
+| ↳ | **[Machine Learning Engineer Intern - Planning](https://jobright.ai/jobs/info/6a10818b69bd827926aeebc3?utm_campaign=1048&utm_source=git)** | Santa Clara, CA | On Site | Aug 11 |
 | **[Grande Cheese Company](https://www.grande.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a7b537b77e6b569c61bfd56?utm_campaign=1048&utm_source=git)** | Brownsville, WI, United States | On Site | Aug 11 |
-| ↳ | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/6a7b5345ecf5194164fbd451?utm_campaign=1048&utm_source=git)** | Brownsville, WI, United States | On Site | Aug 11 |
 | ↳ | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/6a7b5336b933773d16be6994?utm_campaign=1048&utm_source=git)** | Juda, WI, United States | On Site | Aug 11 |
+| ↳ | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/6a7b5345ecf5194164fbd451?utm_campaign=1048&utm_source=git)** | Brownsville, WI, United States | On Site | Aug 11 |
 | **[AMERICAN SpiralWeld Pipe Company, LLC](https://american-usa.com/products/spiral-welded-steel-pipe)** | **[Safety Intern - Spring 2027](https://jobright.ai/jobs/info/6a7b80c4ecfd297707539766?utm_campaign=1048&utm_source=git)** | Birmingham, AL, United States | On Site | Aug 11 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Supplier Quality Engineer Intern - Fall-Winter - Part-Time](https://jobright.ai/jobs/info/6a7b4e1f77e6b569c61bf9f2?utm_campaign=1048&utm_source=git)** | Kalamazoo, MI, United States | On Site | Aug 11 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[AI RAN Telecommunications Engineer Intern](https://jobright.ai/jobs/info/6a7b3bf8ecfd2977075379fd?utm_campaign=1048&utm_source=git)** | McLean, VA, United States | On Site | Aug 11 |
