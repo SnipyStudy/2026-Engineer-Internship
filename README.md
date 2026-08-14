@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Data Engineer Intern 2027](https://jobright.ai/jobs/info/6a7e7dfa19ce4e6e9d93389b?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
+| **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 3](https://jobright.ai/jobs/info/6a6c13bf32f9300c3a3e248c?utm_campaign=1048&utm_source=git)** | Nashua, NH, United States | Hybrid | Aug 13 |
+| ↳ | **[Technical Intern 3](https://jobright.ai/jobs/info/6a6c13afacb0a61f9dbc434b?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 13 |
+| **[Composio](https://composio.dev)** | **[Forward Deployed Engineering Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a7e8797e2030208f2769dfa?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 13 |
+| **[IBM](http://www.ibm.com)** | **[Intern Application Developer 2027-ServiceNow](https://jobright.ai/jobs/info/6a7e80f6e51a1e18a240e408?utm_campaign=1048&utm_source=git)** | Research Park, CA, United States | On Site | Aug 13 |
+| ↳ | **[Intern Cybersecurity Specialist – 2027](https://jobright.ai/jobs/info/6a7e7f970cd4a0703258061b?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA, United States | Hybrid | Aug 13 |
+| ↳ | **[Intern Application Developer 2027-ServiceNow](https://jobright.ai/jobs/info/6a7e7f5519ce4e6e9d9338c7?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
+| ↳ | **[Data Engineer Intern 2027](https://jobright.ai/jobs/info/6a7e7dfa19ce4e6e9d93389b?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
 | ↳ | **[Intern Application Developer 2027-ServiceNow](https://jobright.ai/jobs/info/6a7e7df2b56bea5779c06395?utm_campaign=1048&utm_source=git)** | Durham, NC, United States | On Site | Aug 13 |
 | ↳ | **[Data Engineer Intern 2027](https://jobright.ai/jobs/info/6a7e7d6fe2030208f2769ce8?utm_campaign=1048&utm_source=git)** | Durham, NC, United States | On Site | Aug 13 |
 | ↳ | **[Data Engineer Intern 2027](https://jobright.ai/jobs/info/6a7e7d6e19ce4e6e9d93387d?utm_campaign=1048&utm_source=git)** | Research Park, CA | On Site | Aug 13 |
@@ -68,9 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Geotechnical Engineering (Summer 2027)](https://jobright.ai/jobs/info/6a7e342319ce4e6e9d931fe0?utm_campaign=1048&utm_source=git)** | Denver, CO, United States | On Site | Aug 13 |
 | ↳ | **[Intern/Co-op - Geotechnical Engineering (Summer 2027)](https://jobright.ai/jobs/info/6a7e3425e2030208f276845e?utm_campaign=1048&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 13 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov)** | **[FDA Fellowship - Immunogenicity of Gene Editors](https://jobright.ai/jobs/info/6a7e752eb56bea5779c06134?utm_campaign=1048&utm_source=git)** | Silver Spring, MD, United States | On Site | Aug 13 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Intern](https://jobright.ai/jobs/info/6a711207e2b7476e7b20cca9?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Aug 13 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Structural Intern](https://jobright.ai/jobs/info/6a7e4b0a0cd4a0703257f2a0?utm_campaign=1048&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 13 |
+| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6a71159d02d93145bf88e2ad?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Aug 13 |
 | ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6a7a2be9bb6ca93ae561a3d6?utm_campaign=1048&utm_source=git)** | Alpharetta, GA, United States | On Site | Aug 13 |
-| ↳ | **[Structural Intern](https://jobright.ai/jobs/info/6a7e4b0a0cd4a0703257f2a0?utm_campaign=1048&utm_source=git)** | Saint Paul, MN, United States | On Site | Aug 13 |
 | **[FieldAI](https://www.fieldai.com)** | **[Electrical Engineer, Robotics Hardware- Part-time Internship](https://jobright.ai/jobs/info/6a7e59bf19ce4e6e9d932a0d?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Aug 13 |
 | **[Women In Science](https://womeninscience.com)** | **[Intern, Technical Graduate Year-Round - Thermal Sciences and Engineering, Remote](https://jobright.ai/jobs/info/6a7e72160cd4a070325802b5?utm_campaign=1048&utm_source=git)** | Albuquerque, NM, United States | Remote | Aug 13 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[2026 Autumn College Intern - Division of Surface Water](https://jobright.ai/jobs/info/6a5f348ecbd0490834697a22?utm_campaign=1048&utm_source=git)** | Dayton, OH, United States | On Site | Aug 13 |
@@ -112,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Convective](https://www.convectivecapital.com/)** | **[Electrical Engineer Intern](https://jobright.ai/jobs/info/6a7e792be51a1e18a240e2c3?utm_campaign=1048&utm_source=git)** | Redwood City, CA, United States | On Site | Aug 13 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[AI Engineer Intern](https://jobright.ai/jobs/info/6a7e118ce2030208f27676ae?utm_campaign=1048&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 13 |
 | **[Valence Surface Technologies](http://www.valencesurfacetech.com/)** | **[Intern - EHS](https://jobright.ai/jobs/info/6a7b7394bc05d77f2bddf091?utm_campaign=1048&utm_source=git)** | Garden Grove, CA, United States | On Site | Aug 13 |
-| **[Garver](https://garverusa.com/)** | **[BIM Intern](https://jobright.ai/jobs/info/6a7e2d81e2030208f276814e?utm_campaign=1048&utm_source=git)** | College Station, TX, United States | On Site | Aug 13 |
-| ↳ | **[BIM Intern](https://jobright.ai/jobs/info/6a7cbff8dc3dff2d1c0c8e97?utm_campaign=1048&utm_source=git)** | Fayetteville, AR, United States | On Site | Aug 13 |
+| **[Garver](https://garverusa.com/)** | **[BIM Intern](https://jobright.ai/jobs/info/6a7cbff8dc3dff2d1c0c8e97?utm_campaign=1048&utm_source=git)** | Fayetteville, AR, United States | On Site | Aug 13 |
+| ↳ | **[BIM Intern](https://jobright.ai/jobs/info/6a7e2d81e2030208f276814e?utm_campaign=1048&utm_source=git)** | College Station, TX, United States | On Site | Aug 13 |
 | **[Crowe](https://www.crowe.com)** | **[AI Functional Intern](https://jobright.ai/jobs/info/6a7e1a4619ce4e6e9d931681?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
 | ↳ | **[AI Engineering Intern](https://jobright.ai/jobs/info/6a7e1a55e2030208f2767b68?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
 | **[Grande Custom Ingredients Group](https://grandecig.com)** | **[Research & Development—Foodservice Intern](https://jobright.ai/jobs/info/6a7df8d0e51a1e18a240b427?utm_campaign=1048&utm_source=git)** | Fond du Lac, WI, United States | On Site | Aug 13 |
@@ -141,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[BAE Systems](http://www.baesystems.com)** | **[Mechanical Engineering Intern IV, (Summer 2027) Onsite](https://jobright.ai/jobs/info/6a7e35f1e51a1e18a240cbf9?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Aug 13 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Engineering Intern - AC Power (Summer 2027)](https://jobright.ai/jobs/info/6a7e0fcc0cd4a0703257d8d6?utm_campaign=1048&utm_source=git)** | Delaware, OH, United States | On Site | Aug 13 |
 | ↳ | **[Mechanical Engineering Intern - Liquid Cooling Summer 2027](https://jobright.ai/jobs/info/6a7e0fd7ad9ff00c26ba9a0f?utm_campaign=1048&utm_source=git)** | Westerville, OH, United States | On Site | Aug 13 |
-| **[Moalej Builders](http://moalejbuilders.com)** | **[Construction Intern](https://jobright.ai/jobs/info/6a7e78ffe51a1e18a240e2b7?utm_campaign=1048&utm_source=git)** | Irvine, CA, United States | On Site | Aug 13 |
 | **[AMETEK](http://www.ametek.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/6a7e2f00e2030208f276825b?utm_campaign=1048&utm_source=git)** | Aurora, IL, United States | On Site | Aug 13 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Launch & Change Coordination Intern](https://jobright.ai/jobs/info/6a7e2ea5b56bea5779c04490?utm_campaign=1048&utm_source=git)** | Spartanburg, SC, United States | On Site | Aug 13 |
 | ↳ | **[Non-Series Material Controller Intern (Spring 2027)](https://jobright.ai/jobs/info/6a7e2ea1ad9ff00c26baa24f?utm_campaign=1048&utm_source=git)** | Spartanburg, SC, United States | On Site | Aug 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[ECE Intern - Fall 2026 - ICL](https://jobright.ai/jobs/info/6a7e738319ce4e6e9d93363d?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 13 |
 | **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[AI Engineer Intern](https://jobright.ai/jobs/info/6a7e2cf8e51a1e18a240c822?utm_campaign=1048&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 13 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Email Automation Intern](https://jobright.ai/jobs/info/6a5ea64d27bf767ea68f82fb?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 13 |
-| **[Lockwood, Andrews & Newnam, Inc. (LAN)](http://lan-inc.com)** | **[Intern, Transportation (Fall 2026)](https://jobright.ai/jobs/info/6a7dd9c9e51a1e18a240aa8e?utm_campaign=1048&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 13 |
-| **[Nabholz Corporation](http://www.nabholz.com)** | **[Intern - Excavation](https://jobright.ai/jobs/info/6a7e2a2cb56bea5779c041a9?utm_campaign=1048&utm_source=git)** | Tulsa, OK, United States | On Site | Aug 13 |
-| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Cybersecurity Internship 2027](https://jobright.ai/jobs/info/6a7df60d0cd4a0703257ccce?utm_campaign=1048&utm_source=git)** | Greenwich, CT, United States | On Site | Aug 13 |
-| **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Corporate Environment & Critical Infrastructure Internship](https://jobright.ai/jobs/info/6a7de1dde2030208f27664c0?utm_campaign=1048&utm_source=git)** | Toronto, ON, Canada | Remote | Aug 13 |
-| **[KPM Power Inc](https://www.kpmpower.com/)** | **[Electrical Engineering Intern](https://jobright.ai/jobs/info/6a7e6fb6ad9ff00c26bab204?utm_campaign=1048&utm_source=git)** | Etobicoke, ON, Canada | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
