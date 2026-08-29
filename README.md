@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Virginia Department of Transportation](http://virginiadot.org/)** | **[C0813 - Engineering Intern Wage](https://jobright.ai/jobs/info/6a923c82a27a2d3c9848b8b7?utm_campaign=1048&utm_source=git)** | Fredericksburg, VA, United States | On Site | Aug 28 |
 | **[Virgina Dept Of Transporation](http://virginiadot.org/)** | **[C0716 - Civil Engineering Scholar Wage](https://jobright.ai/jobs/info/6a9231efa27a2d3c9848b7dd?utm_campaign=1048&utm_source=git)** | Fredericksburg, VA, United States | On Site | Aug 28 |
 | **[Northwood](https://www.northwoodspace.io)** | **[Mechanical Engineering Intern (2027 Summer Internship)](https://jobright.ai/jobs/info/6a922f653603630099195fab?utm_campaign=1048&utm_source=git)** | Torrance, CA, United States | On Site | Aug 28 |
 | **[Astrolab](https://astrolab.space)** | **[Winter 2026 Production Engineering Intern](https://jobright.ai/jobs/info/6a6d0d2e57120971bf3aec34?utm_campaign=1048&utm_source=git)** | Hawthorne, CA, United States | On Site | Aug 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Optical Engineering (PhD)](https://jobright.ai/jobs/info/6a91cdea3603630099194adf?utm_campaign=1048&utm_source=git)** | Redmond, WA, United States | On Site | Aug 28 |
 | **[Quiddity](https://quiddity.com)** | **[Civil Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a91cd449864261ccd29f1ef?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Aug 28 |
 | ↳ | **[Electrical Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a91cd34d18f75674827a44e?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Aug 28 |
-| ↳ | **[Construction Management Intern - Summer 2027](https://jobright.ai/jobs/info/6a91cd238e59685453377df0?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
