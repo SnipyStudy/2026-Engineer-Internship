@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Intern Application Developer 2027 - ServiceNow](https://jobright.ai/jobs/info/6a926894c12c90443efc9e15?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA, United States | On Site | Aug 28 |
 | **[Virgina Dept Of Transporation](http://virginiadot.org/)** | **[C0813 - Engineering Intern Wage](https://jobright.ai/jobs/info/6a9243e7d18f75674827baec?utm_campaign=1048&utm_source=git)** | Fredericksburg, VA, United States | On Site | Aug 28 |
 | **[Virginia Department of Transportation](http://virginiadot.org/)** | **[C0813 - Engineering Intern Wage](https://jobright.ai/jobs/info/6a923c82a27a2d3c9848b8b7?utm_campaign=1048&utm_source=git)** | Fredericksburg, VA, United States | On Site | Aug 28 |
 | **[Virgina Dept Of Transporation](http://virginiadot.org/)** | **[C0716 - Civil Engineering Scholar Wage](https://jobright.ai/jobs/info/6a9231efa27a2d3c9848b7dd?utm_campaign=1048&utm_source=git)** | Fredericksburg, VA, United States | On Site | Aug 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Engineering - P&C](https://jobright.ai/jobs/info/6a91ce7a9864261ccd29f254?utm_campaign=1048&utm_source=git)** | Iron Mountain, MI, United States | On Site | Aug 28 |
 | **[Applied Pavement Technology, Inc](https://www.appliedpavement.com/)** | **[Intern](https://jobright.ai/jobs/info/6a91ce178e59685453377e4d?utm_campaign=1048&utm_source=git)** | Champaign, IL, United States | On Site | Aug 28 |
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Optical Engineering (PhD)](https://jobright.ai/jobs/info/6a91cdea3603630099194adf?utm_campaign=1048&utm_source=git)** | Redmond, WA, United States | On Site | Aug 28 |
-| **[Quiddity](https://quiddity.com)** | **[Civil Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a91cd449864261ccd29f1ef?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
