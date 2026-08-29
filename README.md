@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cargill](https://www.cargill.com/home)** | **[Crop Inputs Summer Intern -Saskatchewan](https://jobright.ai/jobs/info/6a928d8ca27a2d3c9848bd4f?utm_campaign=1048&utm_source=git)** | Regina, SK, Canada | On Site | Aug 29 |
+| ↳ | **[Crop Inputs Summer Intern -Saskatchewan](https://jobright.ai/jobs/info/6a928d813603630099196518?utm_campaign=1048&utm_source=git)** | Rosetown, SK, Canada | On Site | Aug 29 |
+| **[etc.](www.et-grp.com)** | **[Engineering Intern (Fall/Winter 2026)](https://jobright.ai/jobs/info/6a91f886c12c90443efc90d8?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 29 |
 | **[Virgina Dept Of Transporation](http://virginiadot.org/)** | **[C0813 - Engineering Intern Wage](https://jobright.ai/jobs/info/6a9243e7d18f75674827baec?utm_campaign=1048&utm_source=git)** | Fredericksburg, VA, United States | On Site | Aug 29 |
+| **[Cargill](https://www.cargill.com/home)** | **[Crop Inputs Summer Intern -Alberta](https://jobright.ai/jobs/info/6a91b9e99864261ccd29e70a?utm_campaign=1048&utm_source=git)** | Vermilion, AB, Canada | On Site | Aug 28 |
 | **[ByteDance](http://bytedance.com)** | **[Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a927f13360363009919648e?utm_campaign=1048&utm_source=git)** | Seattle, WA, United States | On Site | Aug 28 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Intern Application Developer 2027 - ServiceNow](https://jobright.ai/jobs/info/6a926894c12c90443efc9e15?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA, United States | On Site | Aug 28 |
 | **[Virginia Department of Transportation](http://virginiadot.org/)** | **[C0813 - Engineering Intern Wage](https://jobright.ai/jobs/info/6a923c82a27a2d3c9848b8b7?utm_campaign=1048&utm_source=git)** | Fredericksburg, VA, United States | On Site | Aug 28 |
@@ -91,7 +95,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety Intern](https://jobright.ai/jobs/info/6a9209258e59685453378c59?utm_campaign=1048&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 28 |
 | **[DeciBio](http://www.decibio.com)** | **[Life Science Summer Analyst (2027)](https://jobright.ai/jobs/info/6a7f834119ce4e6e9d938cd4?utm_campaign=1048&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 28 |
 | **[Richard Adams Engineers & Consultants](https://adams-engineers.com)** | **[Structural Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91fc9ea27a2d3c9848af26?utm_campaign=1048&utm_source=git)** | Tampa, FL, United States | On Site | Aug 28 |
-| **[etc.](www.et-grp.com)** | **[Engineering Intern (Fall/Winter 2026)](https://jobright.ai/jobs/info/6a91f886c12c90443efc90d8?utm_campaign=1048&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 28 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Structural Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91f79cc12c90443efc9081?utm_campaign=1048&utm_source=git)** | Tampa, FL, United States | On Site | Aug 28 |
 | **[NVIDIA](https://www.nvidia.com)** | **[NVIDIA 2027 Internships: Deep Learning](https://jobright.ai/jobs/info/6a8562bae459fa3baa862398?utm_campaign=1048&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 28 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Junior Forensic Engineering Internship (6 Month Contract)](https://jobright.ai/jobs/info/6a91f7819864261ccd29fd40?utm_campaign=1048&utm_source=git)** | Halifax, NS, Canada | Hybrid | Aug 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alta Environmental and Infrastructure](https://www.altasouthwest.com)** | **[Intern – Construction Materials Lab Tech](https://jobright.ai/jobs/info/6a92103ed18f75674827b58f?utm_campaign=1048&utm_source=git)** | Tempe, AZ, United States | On Site | Aug 28 |
 | **[GeoEngineers Inc.](http://www.geoengineers.com)** | **[Geostructural Intern (Summer 2027)](https://jobright.ai/jobs/info/6a921b8a8e5968545337907d?utm_campaign=1048&utm_source=git)** | Redmond, WA, United States | On Site | Aug 28 |
 | **[Matheson Constructors](https://mathesonconstructors.com)** | **[Field Engineer - Co-Op Student](https://jobright.ai/jobs/info/6a91d28ba27a2d3c9848a442?utm_campaign=1048&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 28 |
-| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Automation/Controls Engineering Internship](https://jobright.ai/jobs/info/6a91d235d18f75674827a5bc?utm_campaign=1048&utm_source=git)** | Columbus, MS, United States | On Site | Aug 28 |
-| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Engineering - P&C](https://jobright.ai/jobs/info/6a91ce7a9864261ccd29f254?utm_campaign=1048&utm_source=git)** | Iron Mountain, MI, United States | On Site | Aug 28 |
-| **[Applied Pavement Technology, Inc](https://www.appliedpavement.com/)** | **[Intern](https://jobright.ai/jobs/info/6a91ce178e59685453377e4d?utm_campaign=1048&utm_source=git)** | Champaign, IL, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
