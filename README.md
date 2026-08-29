@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Echo Global Logistics](https://www.echo.com)** | **[Intern - Junior Enterprise Site Support Engineer](https://jobright.ai/jobs/info/6a76552c7b3417772ade7e99?utm_campaign=1048&utm_source=git)** | York, PA, United States | On Site | Aug 29 |
+| ↳ | **[Intern - Junior Enterprise Site Support Engineer](https://jobright.ai/jobs/info/6a765548b17cba569035dc98?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 29 |
+| **[WD](https://www.westerndigital.com)** | **[Fall 2026 PhD Intern - Hardware Development Engineering](https://jobright.ai/jobs/info/6a5946003ac7627fe9ffe819?utm_campaign=1048&utm_source=git)** | Fremont, CA, United States | On Site | Aug 29 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Mechatronics & Robotics Apprentice](https://jobright.ai/jobs/info/6a908ac10bd89e205d24ae83?utm_campaign=1048&utm_source=git)** | Johnston, RI, United States | On Site | Aug 29 |
+| ↳ | **[Mechatronics & Robotics Apprentice](https://jobright.ai/jobs/info/6a91f55ed18f75674827aeac?utm_campaign=1048&utm_source=git)** | Fontana, CA, United States | On Site | Aug 29 |
+| ↳ | **[Mechatronics & Robotics Apprentice](https://jobright.ai/jobs/info/6a8fcf110bd89e205d247c3c?utm_campaign=1048&utm_source=git)** | Charlton, MA, United States | On Site | Aug 29 |
+| **[Ameren](http://ameren.com)** | **[DERMS Co-Op/Intern](https://jobright.ai/jobs/info/6a76de54bb6ca93ae5613b96?utm_campaign=1048&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 29 |
+| **[Epic Games](https://epicgames.com)** | **[Machine Learning Intern](https://jobright.ai/jobs/info/6a76054dbb6ca93ae561073e?utm_campaign=1048&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 29 |
+| ↳ | **[Machine Learning Intern](https://jobright.ai/jobs/info/6a7605b37b3417772ade6359?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 29 |
+| **[GHD](http://www.ghd.com)** | **[Indigenous Engineer Intern/co-op](https://jobright.ai/jobs/info/6a5af4fb63a8f619507c97ca?utm_campaign=1048&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Aug 29 |
+| ↳ | **[Indigenous Engineer Intern/co-op](https://jobright.ai/jobs/info/6a51d9ddae4052672fe9bee0?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Aug 29 |
+| ↳ | **[Indigenous Engineer Intern/co-op](https://jobright.ai/jobs/info/6a5b52b9686b4755d1e1930f?utm_campaign=1048&utm_source=git)** | 120 Western Parkway, Bedford, Nova Scotia, B4B 0V2, CA | Hybrid | Aug 29 |
 | **[Capgemini](https://www.capgemini.com)** | **[Internship Oracle Deployer Job Details / Capgemini](https://jobright.ai/jobs/info/6a929ee48e59685453379a1e?utm_campaign=1048&utm_source=git)** | Bogotá, CO, United States | Remote | Aug 29 |
 | **[LyondellBasell](http://lyondellbasell.com)** | **[2027 Electrical Engineer Intern / Co-op](https://jobright.ai/jobs/info/6a90347aa19886486675fdb0?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Aug 29 |
 | **[Cargill](https://www.cargill.com/home)** | **[Crop Inputs Summer Intern -Saskatchewan](https://jobright.ai/jobs/info/6a928d8ca27a2d3c9848bd4f?utm_campaign=1048&utm_source=git)** | Regina, SK, Canada | On Site | Aug 29 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Electrical Engineering - Summer 2027 Intern (U.S. Person Required)](https://jobright.ai/jobs/info/6a91e264d18f75674827a994?utm_campaign=1048&utm_source=git)** | United States | Remote | Aug 28 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Cable Television Technician Intern](https://jobright.ai/jobs/info/6a91e21d3603630099194fea?utm_campaign=1048&utm_source=git)** | Ardmore, PA, United States | On Site | Aug 28 |
 | **[EXP](http://www.exp.com/)** | **[Geotechnical Engineering Student (Co-op)](https://jobright.ai/jobs/info/6a91e1d23603630099194fd4?utm_campaign=1048&utm_source=git)** | Brampton, ON, Canada | On Site | Aug 28 |
-| **[American Structurepoint](http://structurepoint.com)** | **[Construction Solutions Internship-Indianapolis, IN](https://jobright.ai/jobs/info/6a91e19dd18f75674827a961?utm_campaign=1048&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 28 |
-| ↳ | **[Utility Infrastructure Internship-Indianapolis, IN](https://jobright.ai/jobs/info/6a91e198c12c90443efc8a1b?utm_campaign=1048&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 28 |
-| ↳ | **[Construction Solutions Internship - Evansville, IN](https://jobright.ai/jobs/info/6a91e18ac12c90443efc8a16?utm_campaign=1048&utm_source=git)** | Evansville, IN, United States | On Site | Aug 28 |
-| ↳ | **[Construction Solutions Internship - Cincinnati, OH](https://jobright.ai/jobs/info/6a91e187a27a2d3c9848a7d2?utm_campaign=1048&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 28 |
-| **[Lennox](http://www.lennox.com)** | **[Summer Engineering Intern](https://jobright.ai/jobs/info/6a91df108e596854533782b1?utm_campaign=1048&utm_source=git)** | Carrollton, TX, United States | On Site | Aug 28 |
-| **[UPSIDE Foods](https://www.upsidefoods.com)** | **[AI Intern - PhD, High Throughput Biology](https://jobright.ai/jobs/info/6a91dec48e596854533782a5?utm_campaign=1048&utm_source=git)** | Emeryville, CA, United States | Hybrid | Aug 28 |
-| **[Bana Solutions, LLC](https://www.banasolutions.com/)** | **[Intern](https://jobright.ai/jobs/info/6a91da52d18f75674827a803?utm_campaign=1048&utm_source=git)** | McLean, VA, United States | On Site | Aug 28 |
-| **[Richard Adams Engineers & Consultants](https://adams-engineers.com)** | **[Structural Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91d9dad18f75674827a7e7?utm_campaign=1048&utm_source=git)** | Richmond Heights, MO, United States | On Site | Aug 28 |
-| **[Kleinfelder](http://www.kleinfelder.com/)** | **[University of Delaware Fall 2026 Career Fair](https://jobright.ai/jobs/info/6a91d78a8e596854533780e6?utm_campaign=1048&utm_source=git)** | Dover, DE, United States | On Site | Aug 28 |
-| **[Charles Schwab](https://www.schwab.com/)** | **[Technology 2027 Intern - Data Engineering](https://jobright.ai/jobs/info/6a9215bbd18f75674827b64a?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Aug 28 |
-| **[Helena Agri-Enterprises, LLC](https://helenaagri.com/)** | **[Research & Development Intern](https://jobright.ai/jobs/info/6a91d55c8e59685453378039?utm_campaign=1048&utm_source=git)** | Chico, CA, United States | On Site | Aug 28 |
-| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Engineering - Product Development](https://jobright.ai/jobs/info/6a91d4538e59685453377ff3?utm_campaign=1048&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
