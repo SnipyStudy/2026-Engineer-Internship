@@ -57,34 +57,44 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Electrical Engineer Co-Op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a5fd24a6e0c3c7c7d3d930d?utm_campaign=1048&utm_source=git)** | Bartow, FL, United States of America | On Site | Aug 31 |
+| **[Qnity](https://www.qnityelectronics.com/)** | **[AI Adoption Intern](https://jobright.ai/jobs/info/6a94d5d0d18f75674827fd16?utm_campaign=1048&utm_source=git)** | Wilmington, DE, United States | Hybrid | Aug 31 |
+| **[RTP Company](http://rtpcompany.com)** | **[Product Development Engineer - Intern Summer 2027](https://jobright.ai/jobs/info/6a952601a27a2d3c984900ae?utm_campaign=1048&utm_source=git)** | Winona, MN, United States | On Site | Aug 31 |
+| **[Vermeer Corporation](https://borestore.com/)** | **[Manufacturing Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6a950cd5360363009919a7a6?utm_campaign=1048&utm_source=git)** | Pella, IA, United States | On Site | Aug 31 |
+| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[RF/Analog IC Design Intern](https://jobright.ai/jobs/info/6a950361360363009919a6c6?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 31 |
+| ↳ | **[Analog Design Engineering Intern](https://jobright.ai/jobs/info/6a950364d18f75674827ffac?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 31 |
+| ↳ | **[Analog Design Intern](https://jobright.ai/jobs/info/6a95035ea27a2d3c9848fe49?utm_campaign=1048&utm_source=git)** | Chandler, AZ, United States | On Site | Aug 31 |
+| ↳ | **[RFIC Design Engineering Intern](https://jobright.ai/jobs/info/6a95094cd18f756748280055?utm_campaign=1048&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 31 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Generation Engineering](https://jobright.ai/jobs/info/6a953085a27a2d3c98490154?utm_campaign=1048&utm_source=git)** | Gilbert, AZ, United States | On Site | Aug 31 |
+| ↳ | **[College Intern - Engineering](https://jobright.ai/jobs/info/6a953025360363009919a9a7?utm_campaign=1048&utm_source=git)** | St Johns, AZ, United States | On Site | Aug 31 |
+| ↳ | **[College Intern - Data Center Operations](https://jobright.ai/jobs/info/6a953008c12c90443efce488?utm_campaign=1048&utm_source=git)** | Tempe, AZ, United States | Hybrid | Aug 31 |
+| **[Vermeer Corporation](https://borestore.com/)** | **[Design Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6a950cd6a27a2d3c9848ff38?utm_campaign=1048&utm_source=git)** | Pella, IA, United States | On Site | Aug 31 |
+| ↳ | **[Quality Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6a950cd8d18f75674828009b?utm_campaign=1048&utm_source=git)** | Pella, IA, United States | On Site | Aug 31 |
 | **[Deriva Energy](https://derivaenergy.com/)** | **[2025 Spring/Summer or Fall/Winter Intern (East Blackland Solar Facility)](https://jobright.ai/jobs/info/6a10d70e69bd827926af0b4a?utm_campaign=1048&utm_source=git)** | Manor, TX, US | Hybrid | Aug 31 |
-| **[RTP Company](http://rtpcompany.com)** | **[Product Development Engineer - Intern Summer 2027](https://jobright.ai/jobs/info/6a952626360363009919a917?utm_campaign=1048&utm_source=git)** | Winona, MN, United States | On Site | Aug 30 |
+| **[Alcoa](https://www.alcoa.com)** | **[Stagiaire - Génie chimique ou métallurgique, aluminerie de Baie-Comeau (Hiver 2027)](https://jobright.ai/jobs/info/6a950a87a27a2d3c9848ff12?utm_campaign=1048&utm_source=git)** | Baie-Comeau, QC, Canada | On Site | Aug 30 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov)** | **[CDC Superfund Site Reviews, Region 5 Office Fellowship](https://jobright.ai/jobs/info/6a9521309864261ccd2a4ef6?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Aug 30 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Applied AI Engineer Intern – Summer 2027 (May/June Start)](https://jobright.ai/jobs/info/6a94ef88c12c90443efce05f?utm_campaign=1048&utm_source=git)** | Evendale, OH, United States | Remote | Aug 30 |
 | ↳ | **[Applied AI Engineer Co-op – Spring 2027 (January Start)](https://jobright.ai/jobs/info/6a94ef8cd18f75674827fe68?utm_campaign=1048&utm_source=git)** | Evendale, OH, United States | Remote | Aug 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern II - Utilities](https://jobright.ai/jobs/info/6a951f871e67aa542830d9d0?utm_campaign=1048&utm_source=git)** | Colorado, United States | On Site | Aug 30 |
-| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6a9503609864261ccd2a4cd3?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
+| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6a95035b360363009919a6bf?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Test Engineering Intern](https://jobright.ai/jobs/info/6a95035ed18f75674827ff9f?utm_campaign=1048&utm_source=git)** | Hillsboro, OR, United States | On Site | Aug 30 |
-| ↳ | **[Test Engineering Intern](https://jobright.ai/jobs/info/6a9503631e67aa542830d7af?utm_campaign=1048&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 30 |
-| ↳ | **[Process Engineering Intern](https://jobright.ai/jobs/info/6a950361d18f75674827ffa8?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
-| ↳ | **[Process Engineering Intern](https://jobright.ai/jobs/info/6a950365360363009919a6cb?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Process Engineering Intern](https://jobright.ai/jobs/info/6a95035c9864261ccd2a4cce?utm_campaign=1048&utm_source=git)** | Hillsboro, OR, United States | On Site | Aug 30 |
-| **[I Verve Inc](https://i-verve.com/)** | **[Artificial Intelligence Intern](https://jobright.ai/jobs/info/6a951d5bc12c90443efce370?utm_campaign=1048&utm_source=git)** | Edison, NJ, United States | Remote | Aug 30 |
-| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Radio Systems and Test Intern](https://jobright.ai/jobs/info/6a950363c12c90443efce18e?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 30 |
+| ↳ | **[Process Engineering Intern](https://jobright.ai/jobs/info/6a950362360363009919a6c7?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
+| ↳ | **[Process Engineering Intern](https://jobright.ai/jobs/info/6a950361d18f75674827ffa8?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
+| ↳ | **[Radio Systems and Test Intern](https://jobright.ai/jobs/info/6a950363c12c90443efce18e?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 30 |
 | ↳ | **[Research Scientist Intern](https://jobright.ai/jobs/info/6a950363360363009919a6ca?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Research Scientist Intern](https://jobright.ai/jobs/info/6a950369a27a2d3c9848fe53?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a95035c1e67aa542830d7ab?utm_campaign=1048&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 30 |
 | ↳ | **[Manufacturing Equipment Engineering Intern](https://jobright.ai/jobs/info/6a950367c12c90443efce197?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Design Engineering Intern](https://jobright.ai/jobs/info/6a95035b360363009919a6c0?utm_campaign=1048&utm_source=git)** | Apopka, FL, United States | On Site | Aug 30 |
+| ↳ | **[Device and Process Development Intern](https://jobright.ai/jobs/info/6a95036a360363009919a6ce?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Customer Quality Engineering Intern](https://jobright.ai/jobs/info/6a950357a27a2d3c9848fe44?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
-| ↳ | **[Device and Process Development Intern](https://jobright.ai/jobs/info/6a950362360363009919a6c8?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Facilities Engineering Intern](https://jobright.ai/jobs/info/6a950965360363009919a76d?utm_campaign=1048&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 30 |
+| ↳ | **[Filter Design Engineering Intern](https://jobright.ai/jobs/info/6a950361d18f75674827ffa7?utm_campaign=1048&utm_source=git)** | Apopka, FL, United States | On Site | Aug 30 |
+| ↳ | **[RFIC Design Intern](https://jobright.ai/jobs/info/6a950364d18f75674827ffab?utm_campaign=1048&utm_source=git)** | Chelmsford, Massachusetts, United States | On Site | Aug 30 |
+| ↳ | **[RFIC Design Intern](https://jobright.ai/jobs/info/6a950358a27a2d3c9848fe45?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Aug 30 |
 | ↳ | **[RFIC Design Engineer Intern](https://jobright.ai/jobs/info/6a950957360363009919a76a?utm_campaign=1048&utm_source=git)** | Chelmsford, Massachusetts, United States | On Site | Aug 30 |
 | ↳ | **[RFIC Design Intern](https://jobright.ai/jobs/info/6a950366d18f75674827ffad?utm_campaign=1048&utm_source=git)** | Chelmsford, MA, United States | On Site | Aug 30 |
-| ↳ | **[RFIC Design Intern](https://jobright.ai/jobs/info/6a950358a27a2d3c9848fe45?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Aug 30 |
-| ↳ | **[RFIC Design Intern](https://jobright.ai/jobs/info/6a950364d18f75674827ffab?utm_campaign=1048&utm_source=git)** | Chelmsford, Massachusetts, United States | On Site | Aug 30 |
-| ↳ | **[Filter Design Engineering Intern](https://jobright.ai/jobs/info/6a950361d18f75674827ffa7?utm_campaign=1048&utm_source=git)** | Apopka, FL, United States | On Site | Aug 30 |
-| ↳ | **[RFIC Design Engineering Intern](https://jobright.ai/jobs/info/6a95094cd18f756748280055?utm_campaign=1048&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 30 |
 | ↳ | **[BAW Research & Development Intern](https://jobright.ai/jobs/info/6a9503641e67aa542830d7b1?utm_campaign=1048&utm_source=git)** | Apopka, FL, United States | On Site | Aug 30 |
 | ↳ | **[Electrical CAD Engineer Intern](https://jobright.ai/jobs/info/6a950361c12c90443efce189?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Manufacturing Quality Engineer Intern](https://jobright.ai/jobs/info/6a9503631e67aa542830d7b0?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
@@ -94,11 +104,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Facilities Intern](https://jobright.ai/jobs/info/6a95035bd18f75674827ff9c?utm_campaign=1048&utm_source=git)** | Hillsboro, OR, United States | On Site | Aug 30 |
 | ↳ | **[Environmental Health & Safety Intern](https://jobright.ai/jobs/info/6a95035f1e67aa542830d7ae?utm_campaign=1048&utm_source=git)** | Hillsboro, OR, United States | On Site | Aug 30 |
 | ↳ | **[Application Engineering Intern](https://jobright.ai/jobs/info/6a95035fd18f75674827ffa3?utm_campaign=1048&utm_source=git)** | Apopka, FL, United States | On Site | Aug 30 |
-| ↳ | **[Applications Engineering Intern](https://jobright.ai/jobs/info/6a950359d18f75674827ff9b?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Applications Engineering Intern](https://jobright.ai/jobs/info/6a95035e1e67aa542830d7ac?utm_campaign=1048&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 30 |
 | ↳ | **[Applications Engineering Intern](https://jobright.ai/jobs/info/6a9503599864261ccd2a4ccc?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
+| ↳ | **[Applications Engineering Intern](https://jobright.ai/jobs/info/6a950359d18f75674827ff9b?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Characterization Engineering Intern](https://jobright.ai/jobs/info/6a950366c12c90443efce195?utm_campaign=1048&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 30 |
-| ↳ | **[RF/Analog IC Design Intern](https://jobright.ai/jobs/info/6a950361360363009919a6c6?utm_campaign=1048&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 30 |
 | ↳ | **[Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a95035ed18f75674827ffa0?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[SOI Design Intern](https://jobright.ai/jobs/info/6a95035e360363009919a6c2?utm_campaign=1048&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 30 |
 | ↳ | **[mm-Wave/RF System & Design Intern](https://jobright.ai/jobs/info/6a950361360363009919a6c5?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
@@ -110,32 +119,31 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mechanical-Systems Engineering Intern](https://jobright.ai/jobs/info/6a95095ec12c90443efce257?utm_campaign=1048&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 30 |
 | ↳ | **[Packaging Intern](https://jobright.ai/jobs/info/6a950358a27a2d3c9848fe46?utm_campaign=1048&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 30 |
 | ↳ | **[Module Integration Design Engineering Intern](https://jobright.ai/jobs/info/6a950360d18f75674827ffa4?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 30 |
-| ↳ | **[Facilities Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a950367c12c90443efce199?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Technology Development Intern](https://jobright.ai/jobs/info/6a95035da27a2d3c9848fe48?utm_campaign=1048&utm_source=git)** | Hillsboro, OR, United States | On Site | Aug 30 |
+| ↳ | **[Facilities Mechanical Engineering Intern](https://jobright.ai/jobs/info/6a950367c12c90443efce199?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Software Characterization Eng Intern](https://jobright.ai/jobs/info/6a95094ba27a2d3c9848fefc?utm_campaign=1048&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 30 |
 | ↳ | **[RF Design Engineering Intern](https://jobright.ai/jobs/info/6a950365c12c90443efce18f?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
-| ↳ | **[RF Design Engineer Intern](https://jobright.ai/jobs/info/6a95094c9864261ccd2a4d8c?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[RF Design Engineering Intern](https://jobright.ai/jobs/info/6a95035e1e67aa542830d7ad?utm_campaign=1048&utm_source=git)** | Hillsboro, OR, United States | On Site | Aug 30 |
+| ↳ | **[RF Design Engineer Intern](https://jobright.ai/jobs/info/6a95094c9864261ccd2a4d8c?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Intern, GAS RnD PE](https://jobright.ai/jobs/info/6a95035ed18f75674827ff9e?utm_campaign=1048&utm_source=git)** | Hillsboro, OR, United States | On Site | Aug 30 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6a9509691e67aa542830d864?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[Analog Design Engineering Intern](https://jobright.ai/jobs/info/6a950366a27a2d3c9848fe51?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | ↳ | **[PA Design Engineering Intern](https://jobright.ai/jobs/info/6a95036ca27a2d3c9848fe55?utm_campaign=1048&utm_source=git)** | Chelmsford, MA, United States | On Site | Aug 30 |
-| ↳ | **[Analog Design Intern](https://jobright.ai/jobs/info/6a95035ea27a2d3c9848fe49?utm_campaign=1048&utm_source=git)** | Chandler, AZ, United States | On Site | Aug 30 |
-| ↳ | **[Analog Design Engineering Intern](https://jobright.ai/jobs/info/6a950364d18f75674827ffac?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 30 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6a9509691e67aa542830d864?utm_campaign=1048&utm_source=git)** | Richardson, TX, United States | On Site | Aug 30 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov)** | **[CDC ATSDR National ALS Registry Fellowship](https://jobright.ai/jobs/info/6a951943360363009919a851?utm_campaign=1048&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 30 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Engineer Intern - Industrial](https://jobright.ai/jobs/info/6a950f43d18f7567482800b1?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, United States | On Site | Aug 30 |
-| ↳ | **[Quality Intern (Summer 2027)](https://jobright.ai/jobs/info/6a90318e0bd89e205d24904f?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | On Site | Aug 30 |
 | ↳ | **[Quality Intern](https://jobright.ai/jobs/info/6a950f37c12c90443efce2a9?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, United States | On Site | Aug 30 |
+| ↳ | **[Quality Intern (Summer 2027)](https://jobright.ai/jobs/info/6a90318e0bd89e205d24904f?utm_campaign=1048&utm_source=git)** | Orlando, FL, United States | On Site | Aug 30 |
 | ↳ | **[Materials Intern](https://jobright.ai/jobs/info/6a950f37c12c90443efce2a8?utm_campaign=1048&utm_source=git)** | Murfreesboro, TN, United States | On Site | Aug 30 |
 | **[Prudential Financial](http://www.prudential.com)** | **[2027 Technology, Internship Program](https://jobright.ai/jobs/info/6a950aaf1e67aa542830d879?utm_campaign=1048&utm_source=git)** | Newark, NJ, United States | Hybrid | Aug 30 |
+| **[Lykos Energy, LLC](https://lykos-energy.com/)** | **[Field Engineer Intern (Summer 2027 Internship)](https://jobright.ai/jobs/info/6a8f1425309e5f224870a315?utm_campaign=1048&utm_source=git)** | West Fargo, ND, United States | Remote | Aug 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (E-Commerce Knowledge Graph) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a9503eec12c90443efce1d5?utm_campaign=1048&utm_source=git)** | Seattle, WA, United States | On Site | Aug 30 |
 | ↳ | **[Machine Learning Engineer Intern (E-Commerce Knowledge Graph) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a9503e7360363009919a704?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 30 |
 | **[Waukesha County Health & Human Services](http://www.waukeshacounty.gov/hhs)** | **[Engineering Intern (2 Opportunities)](https://jobright.ai/jobs/info/6a85eab8cc81eb647e9f0306?utm_campaign=1048&utm_source=git)** | Waukesha, WI, United States | On Site | Aug 30 |
 | **[IBM](http://www.ibm.com)** | **[Agentic AI Engineer Developer Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a94e809c12c90443efcdfeb?utm_campaign=1048&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027  Gas Turbine Product Engineering Internship](https://jobright.ai/jobs/info/6a8fa1902e254e06fb9ede33?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Aug 30 |
 | ↳ | **[2027 Gas Turbine Product Engineering Internship](https://jobright.ai/jobs/info/6a69369e36d36c1ff2998d08?utm_campaign=1048&utm_source=git)** | San Diego, CA, United States | On Site | Aug 30 |
-| **[IMEG](http://www.imegcorp.com/)** | **[Mechanical Engineering Intern / Rock Island, IL](https://jobright.ai/jobs/info/6a849265e459fa3baa85f437?utm_campaign=1048&utm_source=git)** | Rock Island, IL, United States | On Site | Aug 30 |
-| ↳ | **[Mechanical Engineering Intern / Rock Island, IL](https://jobright.ai/jobs/info/6a847f64d34f700f87fb8f7e?utm_campaign=1048&utm_source=git)** | Rock Island, IL, United States | On Site | Aug 30 |
+| **[IMEG](http://www.imegcorp.com/)** | **[Mechanical Engineering Intern / Rock Island, IL](https://jobright.ai/jobs/info/6a847f64d34f700f87fb8f7e?utm_campaign=1048&utm_source=git)** | Rock Island, IL, United States | On Site | Aug 30 |
+| ↳ | **[Mechanical Engineering Intern / Rock Island, IL](https://jobright.ai/jobs/info/6a849265e459fa3baa85f437?utm_campaign=1048&utm_source=git)** | Rock Island, IL, United States | On Site | Aug 30 |
 | **[Framatome North America](http://www.framatome.com)** | **[(Welding Engineering) Intern - Univ/Co-Op Technical (Lynchburg, VA)](https://jobright.ai/jobs/info/6a94b70bc12c90443efcdcd5?utm_campaign=1048&utm_source=git)** | Lynchburg, VA, United States | On Site | Aug 30 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Structural Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6a50e0272b161c524166298b?utm_campaign=1048&utm_source=git)** | Rapid City, SD, United States | On Site | Aug 30 |
 | ↳ | **[Nexus Internship](https://jobright.ai/jobs/info/6a76e4d77b3417772ade99d1?utm_campaign=1048&utm_source=git)** | Grand Forks, ND, United States | On Site | Aug 30 |
@@ -145,16 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Kaufland](http://www.kaufland.de/Home/index.jsp)** | **[Schülerpraktikum im Verkauf](https://jobright.ai/jobs/info/6a94ce9ba27a2d3c9848fb42?utm_campaign=1048&utm_source=git)** | Roth, DE, United States | On Site | Aug 30 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Systems Test Engineer (SkillBridge Intern) - 26005 Job Details / HII's Mission Technologies division](https://jobright.ai/jobs/info/6a94d1f68e5968545337d666?utm_campaign=1048&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern II (Power Supply and Energy Programs)](https://jobright.ai/jobs/info/6a8371adb5a0ac0e84a25d5a?utm_campaign=1048&utm_source=git)** | Moreno Valley, CA, United States | On Site | Aug 30 |
-| **[Vermeer Corporation](https://borestore.com/)** | **[Manufacturing Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6a950cd5360363009919a7a6?utm_campaign=1048&utm_source=git)** | Pella, IA, United States | On Site | Aug 30 |
-| ↳ | **[Design Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6a950cd6a27a2d3c9848ff38?utm_campaign=1048&utm_source=git)** | Pella, IA, United States | On Site | Aug 30 |
-| ↳ | **[Quality Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6a950cd8d18f75674828009b?utm_campaign=1048&utm_source=git)** | Pella, IA, United States | On Site | Aug 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Construction Management Intern, Spring 2027](https://jobright.ai/jobs/info/6a95012fa27a2d3c9848fe11?utm_campaign=1048&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Aug 30 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2027 Internship - Electrical Engineering - Michigan](https://jobright.ai/jobs/info/6a95095d1e67aa542830d861?utm_campaign=1048&utm_source=git)** | Portage, MI, United States | On Site | Aug 30 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2027 Internship - Electrical Engineering - California](https://jobright.ai/jobs/info/6a952b65360363009919a96b?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Aug 30 |
+| ↳ | **[Summer 2027 Internship - Electrical Engineering - Michigan](https://jobright.ai/jobs/info/6a95095d1e67aa542830d861?utm_campaign=1048&utm_source=git)** | Portage, MI, United States | On Site | Aug 30 |
 | **[Popular](https://www.popular.com)** | **[Process Improvement Specialized Internship 2027](https://jobright.ai/jobs/info/6a9508dcd18f756748280051?utm_campaign=1048&utm_source=git)** | San Juan, PR, United States | On Site | Aug 30 |
-| **[Johnson & Johnson](https://www.jnj.com)** | **[Quality Engineering Co-op– Spring 2027](https://jobright.ai/jobs/info/6a9504b89864261ccd2a4d14?utm_campaign=1048&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Aug 30 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[DevOps Intern](https://jobright.ai/jobs/info/6a94ffff1e67aa542830d770?utm_campaign=1048&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 30 |
-| ↳ | **[Industrial Engineering Intern - Simulation, Productivity & Capacity](https://jobright.ai/jobs/info/6a94fffe1e67aa542830d76e?utm_campaign=1048&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 30 |
-| ↳ | **[Data Engineering Intern](https://jobright.ai/jobs/info/6a94fffb360363009919a679?utm_campaign=1048&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 30 |
-| ↳ | **[Network Planning Intern](https://jobright.ai/jobs/info/6a94fffd1e67aa542830d76d?utm_campaign=1048&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 30 |
-| ↳ | **[Site Reliability Engineering (SRE) Intern](https://jobright.ai/jobs/info/6a94fffea27a2d3c9848fdfb?utm_campaign=1048&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
