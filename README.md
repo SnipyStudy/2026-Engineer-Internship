@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Electrical Engineer Co-Op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a5fd2476e0c3c7c7d3d9307?utm_campaign=1048&utm_source=git)** | Bartow, FL, United States of America | On Site | Sep 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Movable Bridge Intern](https://jobright.ai/jobs/info/6a9d151c2c964816f65ea5de?utm_campaign=1048&utm_source=git)** | Portland, OR, United States | On Site | Sep 06 |
 | **[DRW](http://drw.com/)** | **[Platform Engineer Intern](https://jobright.ai/jobs/info/6a6b74f032f9300c3a3deee1?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Sep 05 |
 | **[Keeley Construction Group](https://www.keeleyconstruction.com/)** | **[Summer 2027 Construction Management Internship STL](https://jobright.ai/jobs/info/6a468c62c2d11a6a4666f6f4?utm_campaign=1048&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 05 |
@@ -95,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[CARIN Alliance](https://www.carinalliance.com/)** | **[Co-Op HSE Intern](https://jobright.ai/jobs/info/6a9cbcc075edfa11b470e6a7?utm_campaign=1048&utm_source=git)** | Framingham, MA, United States | On Site | Sep 05 |
 | **[val's services](https://www.linkedin.com/company/108859510)** | **[Engineering Co-op/Internship](https://jobright.ai/jobs/info/6a9cde4268f82b40367370a0?utm_campaign=1048&utm_source=git)** | Lincoln, AL, United States | On Site | Sep 05 |
 | **[Y-12 National Security Complex](http://www.y12.doe.gov/)** | **[Student Intern - Chemical Engineer](https://jobright.ai/jobs/info/6a978c96156a596393fe64f9?utm_campaign=1048&utm_source=git)** | Oak Ridge, TN, United States | On Site | Sep 05 |
-| **[APTIM](https://www.aptim.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a5da305856af468ab01167f?utm_campaign=1048&utm_source=git)** | Concord, CA, United States | On Site | Sep 05 |
+| **[APTIM](https://www.aptim.com/)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a6d1186ba7efe79c2f684bc?utm_campaign=1048&utm_source=git)** | Concord, CA, United States | On Site | Sep 05 |
 | ↳ | **[Civil Engineer Intern](https://jobright.ai/jobs/info/6a6f3c5b160eda5948e8c01c?utm_campaign=1048&utm_source=git)** | Concord, CA, United States | On Site | Sep 05 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2027 Summer Internship - Electrical Engineering (Westminster)](https://jobright.ai/jobs/info/6a96ac10455eaf6a08c18405?utm_campaign=1048&utm_source=git)** | Westminster, CA, United States | On Site | Sep 05 |
 | **[JMT](http://jmt.com/)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9c9c9ca7ba386c5d66ec8c?utm_campaign=1048&utm_source=git)** | El Paso, TX, United States | On Site | Sep 05 |
@@ -105,28 +106,27 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Process Engineering Intern - Summer](https://jobright.ai/jobs/info/6a9c4ef7dacf777321a8deb3?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Sep 05 |
 | ↳ | **[Electrical Engineering Intern, High Frequency Power Electronics - Summer](https://jobright.ai/jobs/info/6a9c4e9f68f82b4036736101?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Sep 05 |
 | ↳ | **[Mechanical Engineering Intern - Summer](https://jobright.ai/jobs/info/6a9c4eab75edfa11b470db8e?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Sep 05 |
-| ↳ | **[Automation Software Engineering Intern - Summer](https://jobright.ai/jobs/info/6a9c4eb4dacf777321a8dea0?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Sep 05 |
 | ↳ | **[Electrical Engineering Intern - Summer](https://jobright.ai/jobs/info/6a9c4e9a68f82b40367360ff?utm_campaign=1048&utm_source=git)** | Austin | On Site | Sep 05 |
+| ↳ | **[Automation Software Engineering Intern - Summer](https://jobright.ai/jobs/info/6a9c4eb4dacf777321a8dea0?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Sep 05 |
 | **[Metallus Inc.](https://metallus.com)** | **[Steelmaking Maintenance Engineering Intern Job Details / Metallus](https://jobright.ai/jobs/info/6a9c7f0375edfa11b470e18f?utm_campaign=1048&utm_source=git)** | Canton, OH, United States | On Site | Sep 05 |
 | ↳ | **[Thermal Treat Operations Engineering Intern Job Details / Metallus](https://jobright.ai/jobs/info/6a9c7eff68f82b403673668e?utm_campaign=1048&utm_source=git)** | Canton, OH, United States | On Site | Sep 05 |
 | ↳ | **[Maintenance & Reliability Intern Job Details / Metallus](https://jobright.ai/jobs/info/6a9c7efac1d6f91bc38846ff?utm_campaign=1048&utm_source=git)** | Eaton, OH, United States | On Site | Sep 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a89eb78d34f700f87fcc20e?utm_campaign=1048&utm_source=git)** | Seattle | On Site | Sep 05 |
-| **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Engineering Co-op_Fall 2027](https://jobright.ai/jobs/info/6a8deea4d34f700f87fd6e35?utm_campaign=1048&utm_source=git)** | LaFayette, GA, United States | On Site | Sep 05 |
+| **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Mechanical Engineering Co-op_Fall 2027](https://jobright.ai/jobs/info/6a8deead25fc4e7ae3dbeaf4?utm_campaign=1048&utm_source=git)** | Louisville, KY, United States | On Site | Sep 05 |
 | ↳ | **[Engineering/Manufacturing Co-op_Fall 2027](https://jobright.ai/jobs/info/6a8deeaaa5639a4810328925?utm_campaign=1048&utm_source=git)** | LaFayette, GA, United States | On Site | Sep 05 |
-| ↳ | **[Engineering/Manufacturing Co-op_Fall 2027](https://jobright.ai/jobs/info/6a8deeaa581f2d7bfdfea030?utm_campaign=1048&utm_source=git)** | Louisville, KY, United States | On Site | Sep 05 |
-| ↳ | **[Mechanical Engineering Co-op_Fall 2027](https://jobright.ai/jobs/info/6a8deead25fc4e7ae3dbeaf4?utm_campaign=1048&utm_source=git)** | Louisville, KY, United States | On Site | Sep 05 |
+| ↳ | **[Engineering Co-op_Fall 2027](https://jobright.ai/jobs/info/6a8deea4d34f700f87fd6e35?utm_campaign=1048&utm_source=git)** | LaFayette, GA, United States | On Site | Sep 05 |
 | ↳ | **[Engineering/Manufacturing Co-op_Fall 2027](https://jobright.ai/jobs/info/6a8dde58a5639a4810328274?utm_campaign=1048&utm_source=git)** | Decatur, AL, United States | On Site | Sep 05 |
+| ↳ | **[Engineering/Manufacturing Co-op_Fall 2027](https://jobright.ai/jobs/info/6a8deeaa581f2d7bfdfea030?utm_campaign=1048&utm_source=git)** | Louisville, KY, United States | On Site | Sep 05 |
 | ↳ | **[Mechanical Engineering Technology Co-op_Fall 2027](https://jobright.ai/jobs/info/6a8deea447679c68bf5e5a22?utm_campaign=1048&utm_source=git)** | Louisville, KY, United States | On Site | Sep 05 |
 | ↳ | **[Electrical Engineering Co-op_Fall 2027](https://jobright.ai/jobs/info/6a8deea947679c68bf5e5a29?utm_campaign=1048&utm_source=git)** | Louisville, KY, United States | On Site | Sep 05 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Water Balance Engineer Co-Op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a5fd2496e0c3c7c7d3d930a?utm_campaign=1048&utm_source=git)** | Mulberry, FL, United States of America | On Site | Sep 05 |
 | ↳ | **[Capital Project Engineering Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a60d19bf0358056fcac041a?utm_campaign=1048&utm_source=git)** | Tampa, FL, United States | On Site | Sep 05 |
-| ↳ | **[Electrical Engineer Co-Op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a5fd2476e0c3c7c7d3d9307?utm_campaign=1048&utm_source=git)** | Bartow, FL, United States of America | On Site | Sep 05 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2027 Co-op - Production Management](https://jobright.ai/jobs/info/6a8787534afae74a08349132?utm_campaign=1048&utm_source=git)** | Sacramento, CA, United States | On Site | Sep 05 |
 | ↳ | **[Winter 2027 Co-op - Manufacturing Engineering (Houston, TX)](https://jobright.ai/jobs/info/6a874f074afae74a08347db5?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Sep 05 |
 | ↳ | **[Winter 2027 Co-op – Environmental Health & Safety](https://jobright.ai/jobs/info/6a8e04f147679c68bf5e63cc?utm_campaign=1048&utm_source=git)** | Columbus, OH, United States | On Site | Sep 05 |
 | ↳ | **[Winter 2027 Co-op - Quality Systems](https://jobright.ai/jobs/info/6a8dbec147679c68bf5e4489?utm_campaign=1048&utm_source=git)** | Burlington, MA, United States | Hybrid | Sep 05 |
-| ↳ | **[Summer 2027 Intern - Warehouse Optimization (Jacksonville, FL)](https://jobright.ai/jobs/info/6a8e167925fc4e7ae3dbfa52?utm_campaign=1048&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 05 |
 | ↳ | **[Fall 2027 Co-op - Quality Systems](https://jobright.ai/jobs/info/6a8dccbe581f2d7bfdfe9395?utm_campaign=1048&utm_source=git)** | Burlington, MA, United States | Hybrid | Sep 05 |
+| ↳ | **[Summer 2027 Intern - Warehouse Optimization (Jacksonville, FL)](https://jobright.ai/jobs/info/6a8e167925fc4e7ae3dbfa52?utm_campaign=1048&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 05 |
 | **[Taraki](https://www.taraki.co/)** | **[AI Developer Intern - Madvisions](https://jobright.ai/jobs/info/6a9c7482c1d6f91bc38843a0?utm_campaign=1048&utm_source=git)** | Toronto, ON, Canada | Remote | Sep 05 |
 | **[BBA Consultants](https://www.bba.ca/)** | **[Mechanical Engineering Coop/Internship (January or May 2027 start)](https://jobright.ai/jobs/info/6a9c740c75edfa11b470dddd?utm_campaign=1048&utm_source=git)** | Vancouver, BC, Canada | On Site | Sep 05 |
 | **[Donaldson](http://donaldson.com)** | **[Safety, Health and Environment Intern - Summer 2027](https://jobright.ai/jobs/info/6a9c4d24dacf777321a8de78?utm_campaign=1048&utm_source=git)** | Bloomington, MN, United States | On Site | Sep 05 |
