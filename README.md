@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kiewit](http://www.kiewit.com)** | **[Engineering Controls Analyst Intern - Kiewit Power Engineering (Summer 2027)](https://jobright.ai/jobs/info/6a9e4d4c68f82b4036739940?utm_campaign=1048&utm_source=git)** | Lenexa, KS, United States | On Site | Sep 07 |
+| **[Smith Seckman Reid, Inc.](http://www.ssr-inc.com)** | **[Plumbing Intern](https://jobright.ai/jobs/info/6a9e1ed075edfa11b47105d4?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Sep 07 |
+| ↳ | **[Plumbing Intern](https://jobright.ai/jobs/info/6a9e1eda68f82b4036738b8a?utm_campaign=1048&utm_source=git)** | Memphis, TN, United States | On Site | Sep 07 |
+| ↳ | **[Plumbing Intern](https://jobright.ai/jobs/info/6a9e1ee1dacf777321a909a9?utm_campaign=1048&utm_source=git)** | Overland Park, KS, United States | On Site | Sep 07 |
+| ↳ | **[Plumbing Intern](https://jobright.ai/jobs/info/6a9e1ee0a7ba386c5d670daf?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Sep 07 |
+| ↳ | **[Plumbing Intern](https://jobright.ai/jobs/info/6a9e1ed82c964816f65ebc69?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Sep 07 |
+| ↳ | **[Plumbing Intern](https://jobright.ai/jobs/info/6a9e1ed875edfa11b47105d9?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Sep 07 |
+| **[HDR](http://www.hdrinc.com)** | **[Water Business Group Intern](https://jobright.ai/jobs/info/6a9e66a468f82b4036739e37?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Sep 07 |
+| **[Allient](https://allient.com)** | **[Engineering Intern - Multiple Openings](https://jobright.ai/jobs/info/6a9afb5ad5ff1f3f1c39d038?utm_campaign=1048&utm_source=git)** | Oshkosh, WI, United States | On Site | Sep 07 |
+| **[Deriva Energy](https://derivaenergy.com/)** | **[2025 Spring/Summer or Fall/Winter Intern (East Blackland Solar Facility)](https://jobright.ai/jobs/info/6a10d70e69bd827926af0b4a?utm_campaign=1048&utm_source=git)** | Manor, TX, US | Hybrid | Sep 07 |
+| **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Researcher - AI Agent Evaluation](https://jobright.ai/jobs/info/6a56044c21f64463ad351c25?utm_campaign=1048&utm_source=git)** | Markham, CA, United States | On Site | Sep 07 |
+| **[Kiewit](http://www.kiewit.com)** | **[Structural Engineer Intern - Kiewit Nuclear Solutions (Summer 2027)](https://jobright.ai/jobs/info/6a9e4d1bdacf777321a9172f?utm_campaign=1048&utm_source=git)** | Lenexa, KS, United States | On Site | Sep 06 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[Data Platforms Engineer Summer 2027 Intern](https://jobright.ai/jobs/info/6a9e49142c964816f65ec98a?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Sep 06 |
 | ↳ | **[IT Systems Operations Summer 2027 Intern](https://jobright.ai/jobs/info/6a9e48a5a7ba386c5d671a83?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Sep 06 |
 | ↳ | **[Automation Developer/Analyst Summer 2027 Intern](https://jobright.ai/jobs/info/6a9e489e49f4604c7894e750?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Sep 06 |
@@ -73,8 +85,6 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[2027 Summer Construction Intern - Jefferson City Project Office](https://jobright.ai/jobs/info/6a9e54ccdacf777321a91844?utm_campaign=1048&utm_source=git)** | Jefferson City, MO, United States | On Site | Sep 06 |
 | ↳ | **[Traffic Intern – Northwest District Office](https://jobright.ai/jobs/info/6a9e53f7dacf777321a91812?utm_campaign=1048&utm_source=git)** | St. Joseph, MO, United States | On Site | Sep 06 |
 | **[Kiewit](http://www.kiewit.com)** | **[Structural Design Intern - Kiewit Power Engineering (Summer 2027)](https://jobright.ai/jobs/info/6a9e4caa68f82b403673992e?utm_campaign=1048&utm_source=git)** | Lenexa, KS, United States | On Site | Sep 06 |
-| ↳ | **[Engineering Controls Analyst Intern - Kiewit Power Engineering (Summer 2027)](https://jobright.ai/jobs/info/6a9e4d4c68f82b4036739940?utm_campaign=1048&utm_source=git)** | Lenexa, KS, United States | On Site | Sep 06 |
-| ↳ | **[Structural Engineer Intern - Kiewit Nuclear Solutions (Summer 2027)](https://jobright.ai/jobs/info/6a9e4d1bdacf777321a9172f?utm_campaign=1048&utm_source=git)** | Lenexa, KS, United States | On Site | Sep 06 |
 | ↳ | **[Scheduler Intern - Kiewit Power Engineers (Summer 2027)](https://jobright.ai/jobs/info/6a9e4d3a49f4604c7894e7e7?utm_campaign=1048&utm_source=git)** | Lenexa, KS, United States | On Site | Sep 06 |
 | ↳ | **[Mechanical Design Intern - Kiewit Nuclear Solutions ( Summer 2027)](https://jobright.ai/jobs/info/6a9e4cb82c964816f65eca02?utm_campaign=1048&utm_source=git)** | Lenexa, KS, United States | On Site | Sep 06 |
 | ↳ | **[Electrical Design Intern - Kiewit Power Engineering (Summer 2027)](https://jobright.ai/jobs/info/6a9e4ca72c964816f65ec9ff?utm_campaign=1048&utm_source=git)** | Lenexa, KS, United States | On Site | Sep 06 |
@@ -112,19 +122,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantum Measurement and Modeling Intern - 2027](https://jobright.ai/jobs/info/6a9e34eda7ba386c5d671064?utm_campaign=1048&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Sep 06 |
 | ↳ | **[Quantum Hardware EDA & Circuit Design Intern - 2027](https://jobright.ai/jobs/info/6a9e34eb68f82b4036738e59?utm_campaign=1048&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Sep 06 |
 | ↳ | **[Data Engineer Intern 2027](https://jobright.ai/jobs/info/6a9e269d75edfa11b471068b?utm_campaign=1048&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Sep 06 |
-| ↳ | **[Intern Data Engineer - AI & Analytics - 2027](https://jobright.ai/jobs/info/6a9e2d3575edfa11b47106fd?utm_campaign=1048&utm_source=git)** | Monroe, LA, United States | Hybrid | Sep 06 |
 | ↳ | **[Data Engineer Intern 2027](https://jobright.ai/jobs/info/6a9e269575edfa11b471068a?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Sep 06 |
-| ↳ | **[Co-Op Data Engineer 2027](https://jobright.ai/jobs/info/6a9e250b2c964816f65ebcda?utm_campaign=1048&utm_source=git)** | University Park, PA, United States | On Site | Sep 06 |
+| ↳ | **[Intern Data Engineer - AI & Analytics - 2027](https://jobright.ai/jobs/info/6a9e2d3575edfa11b47106fd?utm_campaign=1048&utm_source=git)** | Monroe, LA, United States | Hybrid | Sep 06 |
 | ↳ | **[Federal Data Engineering Co-Op: 2027](https://jobright.ai/jobs/info/6a9e2acd75edfa11b47106da?utm_campaign=1048&utm_source=git)** | University Park, PA, United States | Hybrid | Sep 06 |
 | ↳ | **[Intern Data Engineer 2027 – AI & Data Analytics](https://jobright.ai/jobs/info/6a9e2d3c68f82b4036738c8f?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
+| ↳ | **[Co-Op Data Engineer 2027](https://jobright.ai/jobs/info/6a9e250b2c964816f65ebcda?utm_campaign=1048&utm_source=git)** | University Park, PA, United States | On Site | Sep 06 |
 | ↳ | **[Intern Data Engineer - Data Services - 2027](https://jobright.ai/jobs/info/6a9e2d492c964816f65ebd76?utm_campaign=1048&utm_source=git)** | Monroe, LA, United States | Hybrid | Sep 06 |
+| ↳ | **[Data Engineer Intern 2027](https://jobright.ai/jobs/info/6a9e2696dacf777321a90a3c?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
 | ↳ | **[Intern Data Engineer - Data Services - 2027](https://jobright.ai/jobs/info/6a9e2d3a75edfa11b4710703?utm_campaign=1048&utm_source=git)** | Buffalo, NY, United States | Hybrid | Sep 06 |
 | ↳ | **[Intern Data Engineer - Data Services - 2027](https://jobright.ai/jobs/info/6a9e2d6775edfa11b471070d?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA, United States | Hybrid | Sep 06 |
-| ↳ | **[Data Engineer Intern 2027](https://jobright.ai/jobs/info/6a9e2696dacf777321a90a3c?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
 | ↳ | **[Intern Data Engineers - AI & Analytics - 2027](https://jobright.ai/jobs/info/6a9e2d42a7ba386c5d670eb0?utm_campaign=1048&utm_source=git)** | Buffalo, NY, United States | Hybrid | Sep 06 |
 | **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Civil Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a97146ab22f636c81415b5f?utm_campaign=1048&utm_source=git)** | Brentwood, TN, United States | On Site | Sep 06 |
-| ↳ | **[Civil Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a9e05b468f82b40367386df?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 06 |
 | ↳ | **[Civil Engineering Intern- Summer 2027](https://jobright.ai/jobs/info/6a997bdc90a313642c65084d?utm_campaign=1048&utm_source=git)** | Wichita, KS, United States | On Site | Sep 06 |
+| ↳ | **[Civil Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a9e05b468f82b40367386df?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 06 |
 | **[IBM](http://www.ibm.com)** | **[Machine Learning Developer Intern (January 2027 - 4 Months - Toronto or Montreal)](https://jobright.ai/jobs/info/6a9e2e5a2c964816f65ebd8d?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 06 |
 | **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Electrical Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a7db37ab56bea5779c01654?utm_campaign=1048&utm_source=git)** | Hallowell, ME, United States | On Site | Sep 06 |
 | ↳ | **[Electrical Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a9e05b4a7ba386c5d6708d5?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 06 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hardware Developer Intern 2027 -Austin](https://jobright.ai/jobs/info/6a9e2b6f75edfa11b47106ee?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 06 |
 | ↳ | **[Hardware Developer Intern 2027 -Austin, TX](https://jobright.ai/jobs/info/6a9e2b6775edfa11b47106e7?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 06 |
 | ↳ | **[Hardware Developer Intern 2027 -Houston, TX](https://jobright.ai/jobs/info/6a9e2b6075edfa11b47106e5?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 06 |
-| ↳ | **[X-Force Red Hacker Intern 2027](https://jobright.ai/jobs/info/6a9e2b60dacf777321a90a93?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Sep 06 |
-| ↳ | **[Hardware Developer - Return Intern 2026-2027](https://jobright.ai/jobs/info/6a9e2b5fdacf777321a90a92?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 06 |
-| ↳ | **[Federal Developer Intern, Software Engineering (January 2027 - 4 Months - Ottawa)](https://jobright.ai/jobs/info/6a9e2b5f2c964816f65ebd5e?utm_campaign=1048&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Sep 06 |
-| ↳ | **[Hardware Developer Intern - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6a9e2b5d68f82b4036738c78?utm_campaign=1048&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Sep 06 |
-| ↳ | **[Hardware and Systems Developer Intern 2027 -Rochester, MN](https://jobright.ai/jobs/info/6a9e2b4ca7ba386c5d670e9b?utm_campaign=1048&utm_source=git)** | Rochester, MN, United States | Hybrid | Sep 06 |
-| ↳ | **[Hardware and Systems Developer Intern 2027 -Austin, TX](https://jobright.ai/jobs/info/6a9e2b4b27c94c3d5a1cb60d?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 06 |
-| ↳ | **[Hardware Developer Intern - Austin, TX - 2027](https://jobright.ai/jobs/info/6a9e2b4675edfa11b47106e3?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 06 |
-| ↳ | **[Hardware and Systems Developer Intern 2027 -New York](https://jobright.ai/jobs/info/6a9e2b44dacf777321a90a88?utm_campaign=1048&utm_source=git)** | Poughkeepsie, New York, United States | Hybrid | Sep 06 |
-| ↳ | **[Firmware and Systems Developer Intern 2027 -Poughkeepsie, NY](https://jobright.ai/jobs/info/6a9e2afc27c94c3d5a1cb606?utm_campaign=1048&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Sep 06 |
-| ↳ | **[Entry Level Supply Chain Operations 2027](https://jobright.ai/jobs/info/6a9e29ffa7ba386c5d670e7a?utm_campaign=1048&utm_source=git)** | Poughkeepsie, New York, United States | Hybrid | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
