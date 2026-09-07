@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Traffic Intern – Northwest District Office](https://jobright.ai/jobs/info/6a9e53f7dacf777321a91812?utm_campaign=1048&utm_source=git)** | St. Joseph, MO, United States | On Site | Sep 06 |
+| **[Kiewit](http://www.kiewit.com)** | **[Structural Design Intern - Kiewit Power Engineering (Summer 2027)](https://jobright.ai/jobs/info/6a9e4caa68f82b403673992e?utm_campaign=1048&utm_source=git)** | Lenexa, KS, United States | On Site | Sep 06 |
+| **[AMERICAN SpiralWeld Pipe Company, LLC](https://american-usa.com/products/spiral-welded-steel-pipe)** | **[Safety Intern - Fall 2027](https://jobright.ai/jobs/info/6a9e4d85a7ba386c5d671b11?utm_campaign=1048&utm_source=git)** | Birmingham, AL, United States | On Site | Sep 06 |
+| **[Jensen Hughes](https://www.jensenhughes.com)** | **[Intern, Fire Protection Engineering](https://jobright.ai/jobs/info/6a9e4af049f4604c7894e7a6?utm_campaign=1048&utm_source=git)** | Columbia, MD, United States | On Site | Sep 06 |
+| **[TSMC](http://www.tsmc.com)** | **[Fall 2026 - Memory Design Engineer Intern (7323) Job Details / TSMC](https://jobright.ai/jobs/info/6a9e44b2dacf777321a91612?utm_campaign=1048&utm_source=git)** | Ottawa, ON, Canada | On Site | Sep 06 |
+| **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Vaccines Process R&D Upstream - Intern](https://jobright.ai/jobs/info/6a9e430b68f82b4036739752?utm_campaign=1048&utm_source=git)** | West Point, PA, United States | Hybrid | Sep 06 |
+| ↳ | **[2027 Future Talent Program - Vaccines Process R&D Downstream -  Intern](https://jobright.ai/jobs/info/6a9e42402c964816f65ec7c9?utm_campaign=1048&utm_source=git)** | West Point, PA, United States | Hybrid | Sep 06 |
+| **[NextEra Energy Resources](https://www.nexteraenergyresources.com)** | **[Summer Intern - Development and Origination Job Details / NextEra Energy](https://jobright.ai/jobs/info/6a9e415a2c964816f65ec714?utm_campaign=1048&utm_source=git)** | Juno Beach, FL, United States | On Site | Sep 06 |
+| **[HPM, Inc.](https://www.hpmcontracting.com)** | **[Intern (Summer 2027)](https://jobright.ai/jobs/info/6a750e8537da8525e8cdc380?utm_campaign=1048&utm_source=git)** | Englewood, CO, United States | On Site | Sep 06 |
+| **[BioSpace](http://www.biospace.com/)** | **[mRNA Manufacturing Intern (Full Time)](https://jobright.ai/jobs/info/6a9e406049f4604c7894e41a?utm_campaign=1048&utm_source=git)** | Redmond, WA, United States | On Site | Sep 06 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPC AI Systems Administrator Intern](https://jobright.ai/jobs/info/6a9e2d5f75edfa11b471070b?utm_campaign=1048&utm_source=git)** | Bloomington, MN, United States | Hybrid | Sep 06 |
-| **[Siemens](https://www.siemens.com)** | **[Smart Infrastructure Electrical Products Engineering Leadership Development Program Internship](https://jobright.ai/jobs/info/6a9931008974952dfc949c2a?utm_campaign=1048&utm_source=git)** | Grand Prairie, TX, United States | On Site | Sep 06 |
-| ↳ | **[Smart Infrastructure Electrical Products Engineering Leadership Development Program Internship](https://jobright.ai/jobs/info/6a99300c8a8b765bc55f1f66?utm_campaign=1048&utm_source=git)** | Hingham, MA, United States | On Site | Sep 06 |
-| ↳ | **[Smart Infrastructure Electrical Products Engineering Leadership Development Program Internship](https://jobright.ai/jobs/info/6a993065138838706058cbda?utm_campaign=1048&utm_source=git)** | Peachtree Corners, GA, United States | On Site | Sep 06 |
-| ↳ | **[Smart Infrastructure Electrical Products Engineering Leadership Development Program Internship](https://jobright.ai/jobs/info/6a9930d6f6de551aa0aaea21?utm_campaign=1048&utm_source=git)** | Roebuck, SC, United States | On Site | Sep 06 |
-| ↳ | **[Project Engineer Internship](https://jobright.ai/jobs/info/6a9e3a1527c94c3d5a1cb952?utm_campaign=1048&utm_source=git)** | Wendell, NC, United States | On Site | Sep 06 |
-| ↳ | **[Research & Development Simulation Engineering Internship](https://jobright.ai/jobs/info/6a9e3bc7dacf777321a90e91?utm_campaign=1048&utm_source=git)** | Wendell, NC, United States | On Site | Sep 06 |
 | **[IBM](http://www.ibm.com)** | **[Technical Enablement Specialist Intern 2027](https://jobright.ai/jobs/info/6a9e3c8d49f4604c7894e04b?utm_campaign=1048&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Sep 06 |
 | ↳ | **[Technical Enablement Specialist Intern 2027](https://jobright.ai/jobs/info/6a9e3c85a7ba386c5d6713f6?utm_campaign=1048&utm_source=git)** | New York, NY, United States | Hybrid | Sep 06 |
 | ↳ | **[Technical Enablement Specialist Intern 2027](https://jobright.ai/jobs/info/6a9e3c6ba7ba386c5d6713d7?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 06 |
@@ -89,18 +93,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantum Measurement and Modeling Intern - 2027](https://jobright.ai/jobs/info/6a9e34eda7ba386c5d671064?utm_campaign=1048&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Sep 06 |
 | ↳ | **[Quantum Hardware EDA & Circuit Design Intern - 2027](https://jobright.ai/jobs/info/6a9e34eb68f82b4036738e59?utm_campaign=1048&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Sep 06 |
 | ↳ | **[Data Engineer Intern 2027](https://jobright.ai/jobs/info/6a9e269d75edfa11b471068b?utm_campaign=1048&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Sep 06 |
-| ↳ | **[Data Engineer Intern 2027](https://jobright.ai/jobs/info/6a9e269575edfa11b471068a?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Sep 06 |
 | ↳ | **[Intern Data Engineer - AI & Analytics - 2027](https://jobright.ai/jobs/info/6a9e2d3575edfa11b47106fd?utm_campaign=1048&utm_source=git)** | Monroe, LA, United States | Hybrid | Sep 06 |
+| ↳ | **[Data Engineer Intern 2027](https://jobright.ai/jobs/info/6a9e269575edfa11b471068a?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Sep 06 |
 | ↳ | **[Federal Data Engineering Co-Op: 2027](https://jobright.ai/jobs/info/6a9e2acd75edfa11b47106da?utm_campaign=1048&utm_source=git)** | University Park, PA, United States | Hybrid | Sep 06 |
-| ↳ | **[Intern Data Engineer - Data Services - 2027](https://jobright.ai/jobs/info/6a9e2d492c964816f65ebd76?utm_campaign=1048&utm_source=git)** | Monroe, LA, United States | Hybrid | Sep 06 |
 | ↳ | **[Intern Data Engineer 2027 – AI & Data Analytics](https://jobright.ai/jobs/info/6a9e2d3c68f82b4036738c8f?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
 | ↳ | **[Co-Op Data Engineer 2027](https://jobright.ai/jobs/info/6a9e250b2c964816f65ebcda?utm_campaign=1048&utm_source=git)** | University Park, PA, United States | On Site | Sep 06 |
-| ↳ | **[Intern Data Engineer - Data Services - 2027](https://jobright.ai/jobs/info/6a9e2d3a75edfa11b4710703?utm_campaign=1048&utm_source=git)** | Buffalo, NY, United States | Hybrid | Sep 06 |
+| ↳ | **[Intern Data Engineer - Data Services - 2027](https://jobright.ai/jobs/info/6a9e2d492c964816f65ebd76?utm_campaign=1048&utm_source=git)** | Monroe, LA, United States | Hybrid | Sep 06 |
 | ↳ | **[Intern Data Engineers - AI & Analytics - 2027](https://jobright.ai/jobs/info/6a9e2d42a7ba386c5d670eb0?utm_campaign=1048&utm_source=git)** | Buffalo, NY, United States | Hybrid | Sep 06 |
 | ↳ | **[Intern Data Engineer - Data Services - 2027](https://jobright.ai/jobs/info/6a9e2d6775edfa11b471070d?utm_campaign=1048&utm_source=git)** | Baton Rouge, LA, United States | Hybrid | Sep 06 |
 | ↳ | **[Data Engineer Intern 2027](https://jobright.ai/jobs/info/6a9e2696dacf777321a90a3c?utm_campaign=1048&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
-| **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Civil Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a97146ab22f636c81415b5f?utm_campaign=1048&utm_source=git)** | Brentwood, TN, United States | On Site | Sep 06 |
-| ↳ | **[Civil Engineering Intern- Summer 2027](https://jobright.ai/jobs/info/6a997bdc90a313642c65084d?utm_campaign=1048&utm_source=git)** | Wichita, KS, United States | On Site | Sep 06 |
+| ↳ | **[Intern Data Engineer - Data Services - 2027](https://jobright.ai/jobs/info/6a9e2d3a75edfa11b4710703?utm_campaign=1048&utm_source=git)** | Buffalo, NY, United States | Hybrid | Sep 06 |
+| **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Civil Engineering Intern- Summer 2027](https://jobright.ai/jobs/info/6a997bdc90a313642c65084d?utm_campaign=1048&utm_source=git)** | Wichita, KS, United States | On Site | Sep 06 |
+| ↳ | **[Civil Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a97146ab22f636c81415b5f?utm_campaign=1048&utm_source=git)** | Brentwood, TN, United States | On Site | Sep 06 |
 | ↳ | **[Civil Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a9e05b468f82b40367386df?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 06 |
 | **[IBM](http://www.ibm.com)** | **[Machine Learning Developer Intern (January 2027 - 4 Months - Toronto or Montreal)](https://jobright.ai/jobs/info/6a9e2e5a2c964816f65ebd8d?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 06 |
 | **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Electrical Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6a9e05b4a7ba386c5d6708d5?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 06 |
@@ -120,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hardware Developer Intern 2027 -Poughkeepsie](https://jobright.ai/jobs/info/6a9e2b8527c94c3d5a1cb619?utm_campaign=1048&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Sep 06 |
 | ↳ | **[Hardware Developer Intern 2027 -Tucson, AZ](https://jobright.ai/jobs/info/6a9e2b7c27c94c3d5a1cb617?utm_campaign=1048&utm_source=git)** | Tucson, AZ, United States | Hybrid | Sep 06 |
 | ↳ | **[Hardware Developer Intern - Rochester, MN - 2027](https://jobright.ai/jobs/info/6a9e2b71a7ba386c5d670e9f?utm_campaign=1048&utm_source=git)** | Rochester, MN, United States | Hybrid | Sep 06 |
-| ↳ | **[Hardware Developer Intern 2027 -San Jose, CA](https://jobright.ai/jobs/info/6a9e2b6f75edfa11b47106ed?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 06 |
 | ↳ | **[Hardware Developer Intern 2027 -Austin](https://jobright.ai/jobs/info/6a9e2b6f75edfa11b47106ee?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 06 |
+| ↳ | **[Hardware Developer Intern 2027 -San Jose, CA](https://jobright.ai/jobs/info/6a9e2b6f75edfa11b47106ed?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 06 |
 | ↳ | **[Hardware Developer Intern 2027 -Austin, TX](https://jobright.ai/jobs/info/6a9e2b6775edfa11b47106e7?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 06 |
 | ↳ | **[X-Force Red Hacker Intern 2027](https://jobright.ai/jobs/info/6a9e2b60dacf777321a90a93?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Sep 06 |
 | ↳ | **[Hardware Developer Intern 2027 -Houston, TX](https://jobright.ai/jobs/info/6a9e2b6075edfa11b47106e5?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mechanical Intern](https://jobright.ai/jobs/info/6a9e1edddacf777321a909a3?utm_campaign=1048&utm_source=git)** | Nashville, TN, United States | On Site | Sep 06 |
 | ↳ | **[Electrical Intern](https://jobright.ai/jobs/info/6a9e1edb68f82b4036738b8b?utm_campaign=1048&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 06 |
 | ↳ | **[Plumbing Intern](https://jobright.ai/jobs/info/6a9e1eda68f82b4036738b8a?utm_campaign=1048&utm_source=git)** | Memphis, TN, United States | On Site | Sep 06 |
-| ↳ | **[Electrical Intern](https://jobright.ai/jobs/info/6a9e1edac1d6f91bc3886b39?utm_campaign=1048&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 06 |
-| ↳ | **[Electrical Intern](https://jobright.ai/jobs/info/6a9e1ed82c964816f65ebc6a?utm_campaign=1048&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 06 |
-| ↳ | **[Plumbing Intern](https://jobright.ai/jobs/info/6a9e1ed875edfa11b47105d9?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Sep 06 |
-| ↳ | **[Plumbing Intern](https://jobright.ai/jobs/info/6a9e1ed82c964816f65ebc69?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
