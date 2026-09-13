@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[AI Engineer Intern (TikTok-Client Arch)- 2027 Summer](https://jobright.ai/jobs/info/6a701a35ad0fe2053dba04e9?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Sep 12 |
+| **[Process Technology](https://www.processtechnology.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a450fb7497c084dcfb5a3eb?utm_campaign=1048&utm_source=git)** | Willoughby, OH, United States | On Site | Sep 12 |
+| **[RTX](http://rtx.com/)** | **[Systems Engineering Intern- Onsite](https://jobright.ai/jobs/info/6aa5f7e982e82a31997bface?utm_campaign=1048&utm_source=git)** | Marlborough, MA, United States | On Site | Sep 12 |
+| ↳ | **[Systems Engineering Intern- Onsite](https://jobright.ai/jobs/info/6aa5f7e642411952ff9aaf54?utm_campaign=1048&utm_source=git)** | Tewksbury, MA, United States | On Site | Sep 12 |
+| **[TikTok](https://www.tiktok.com)** | **[ML Infra Engineer Intern (Ads Infra) - 2027 Summer](https://jobright.ai/jobs/info/6a714fe702d93145bf88ef54?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Sep 12 |
+| ↳ | **[AI Engineer Intern (TikTok-Client Arch)- 2027 Summer](https://jobright.ai/jobs/info/6a701a35ad0fe2053dba04e9?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Sep 12 |
+| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Epidemiology & Real-World Science Intern](https://jobright.ai/jobs/info/6aa5ea0642411952ff9aa6f8?utm_campaign=1048&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Sep 12 |
 | **[Stanley Consultants](https://www.stanleyconsultants.com/)** | **[Student Intern 2027 - Electrical](https://jobright.ai/jobs/info/6aa5dbe6a77a53f5a1572294?utm_campaign=1048&utm_source=git)** | Denver, CO, United States | On Site | Sep 12 |
 | **[LONG Building Technologies](http://long.com)** | **[Controls Technician Intern](https://jobright.ai/jobs/info/6a064f567c753c287f702005?utm_campaign=1048&utm_source=git)** | Anchorage, AK, United States | On Site | Sep 12 |
 | **[Arconic](https://www.arconic.com)** | **[Electrical Engineer- Co-op](https://jobright.ai/jobs/info/6aa5b4c4654b2a9424cf5225?utm_campaign=1048&utm_source=git)** | Bettendorf, IA, United States | On Site | Sep 12 |
@@ -85,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Xcimer Energy](https://xcimer.energy)** | **[Summer 2027 Internship - Mechanical Engineering](https://jobright.ai/jobs/info/6aa4cc0b42411952ff9a593d?utm_campaign=1048&utm_source=git)** | Denver, CO, United States | On Site | Sep 12 |
 | **[GALLO](http://www.gallocareers.com)** | **[Winemaking and Spirits Distillation Internship (July - December) 2027](https://jobright.ai/jobs/info/6a9eb2a668f82b403673b30a?utm_campaign=1048&utm_source=git)** | Modesto, CA, United States | On Site | Sep 12 |
 | **[Quantinuum](https://www.quantinuum.com)** | **[PIC Design Intern - 995](https://jobright.ai/jobs/info/6aa47726f7baf881567ced59?utm_campaign=1048&utm_source=git)** | Broomfield, CO, United States | On Site | Sep 12 |
-| ↳ | **[Manufacturing Engineering Intern - 998](https://jobright.ai/jobs/info/6aa4e5eb82e82a31997bb287?utm_campaign=1048&utm_source=git)** | Broomfield, CO, United States | On Site | Sep 12 |
 | ↳ | **[Metasurface Resonant Photonic Design Intern - 988](https://jobright.ai/jobs/info/6aa4ecd2930bff471a29c224?utm_campaign=1048&utm_source=git)** | Broomfield, CO, United States | On Site | Sep 12 |
+| ↳ | **[Manufacturing Engineering Intern - 998](https://jobright.ai/jobs/info/6aa4e5eb82e82a31997bb287?utm_campaign=1048&utm_source=git)** | Broomfield, CO, United States | On Site | Sep 12 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Process Engineering Intern](https://jobright.ai/jobs/info/6aa5b0ee654b2a9424cf5186?utm_campaign=1048&utm_source=git)** | Belcamp, MD, United States | On Site | Sep 12 |
 | **[PowerSouth Energy Cooperative](https://www.powersouth.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6aa5b08e930bff471a29f8a8?utm_campaign=1048&utm_source=git)** | Andalusia, AL, United States | On Site | Sep 12 |
 | **[United Grid Solutions](https://unitedgridsolutions.com/)** | **[Substation Student Intern](https://jobright.ai/jobs/info/6a99a42b138838706058f4d4?utm_campaign=1048&utm_source=git)** | Marietta, GA, United States | On Site | Sep 12 |
@@ -139,10 +144,10 @@ For a complete list, click the following sortable link below:
 | **[BAE Systems](http://www.baesystems.com)** | **[Electrical Engineering Coop (Summer/Fall 2027), Onsite](https://jobright.ai/jobs/info/6a930a809864261ccd2a1e93?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Sep 12 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Engineering Test Lab Intern](https://jobright.ai/jobs/info/6a888a2bd34f700f87fc9263?utm_campaign=1048&utm_source=git)** | Lowell, MI, United States | On Site | Sep 12 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a5379758ef95364ead9248f?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Sep 12 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a51188f78e364789ca58b59?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Sep 12 |
-| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a2107e34bdf8a5a96bd435b?utm_campaign=1048&utm_source=git)** | US-TX-Dallas | On Site | Sep 12 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a553153ae07d60a8d00fa22?utm_campaign=1048&utm_source=git)** | Austin, TX, United States | On Site | Sep 12 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a51188f78e364789ca58b59?utm_campaign=1048&utm_source=git)** | Dallas, TX, United States | On Site | Sep 12 |
 | ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a51bd0257513b72e0c66f5f?utm_campaign=1048&utm_source=git)** | Bentonville, AR, United States | On Site | Sep 12 |
+| ↳ | **[Civil Engineering Intern](https://jobright.ai/jobs/info/6a2107e34bdf8a5a96bd435b?utm_campaign=1048&utm_source=git)** | US-TX-Dallas | On Site | Sep 12 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Summer - Computer Science Research Institute (CSRI),Onsite](https://jobright.ai/jobs/info/6aa58a2882e82a31997bdf32?utm_campaign=1048&utm_source=git)** | Albuquerque, NM, United States | On Site | Sep 12 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Graduate Internship - Earth and Environmental Science](https://jobright.ai/jobs/info/6a8aa2eb680f314a29d4051c?utm_campaign=1048&utm_source=git)** | Los Alamos, NM, United States | On Site | Sep 12 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Systems Engineering Intern IV, Summer 2027 (NH - Onsite)](https://jobright.ai/jobs/info/6a930f68a27a2d3c9848d417?utm_campaign=1048&utm_source=git)** | Nashua, NH, United States | On Site | Sep 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Intern II, (Summer 2027) Hybrid](https://jobright.ai/jobs/info/6a9312099864261ccd2a2361?utm_campaign=1048&utm_source=git)** | United States | Remote | Sep 12 |
 | **[Woodside Energy](http://www.woodside.com.au)** | **[Early Career Pathways - Aviation Internship Job Details / Woodside Energy Ltd](https://jobright.ai/jobs/info/6aa5883b930bff471a29f06c?utm_campaign=1048&utm_source=git)** | TX, United States | On Site | Sep 12 |
 | **[Sears](https://www.sears.com)** | **[Operations &amp; AI Initiative Intern](https://jobright.ai/jobs/info/6a92f02fc12c90443efca854?utm_campaign=1048&utm_source=git)** | Hoffman Estates, IL, United States | On Site | Sep 12 |
-| **[BAE Systems](http://www.baesystems.com)** | **[Mechanical Engineering Intern II, Summer 2027 (Onsite)](https://jobright.ai/jobs/info/6a930eecc12c90443efcb4bf?utm_campaign=1048&utm_source=git)** | Nashua, NH, United States | On Site | Sep 12 |
-| **[Cargill](https://www.cargill.com/home)** | **[Food Safety, Quality and Regulatory Intern - Summer 2027](https://jobright.ai/jobs/info/6a6bb5e0acb0a61f9dbc2703?utm_campaign=1048&utm_source=git)** | Wichita, KS, United States | On Site | Sep 12 |
-| **[BAE Systems](http://www.baesystems.com)** | **[Metrology Operations Intern II, Summer 2027 (Onsite)](https://jobright.ai/jobs/info/6a930a5336036300991977b8?utm_campaign=1048&utm_source=git)** | Nashua, NH, United States | On Site | Sep 12 |
-| **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Co-Op Opportunities, Framingham, MA](https://jobright.ai/jobs/info/6aa4b51fa77a53f5a156db36?utm_campaign=1048&utm_source=git)** | Framingham, MA, United States | On Site | Sep 12 |
-| ↳ | **[2027 Summer Intern Opportunities, Framingham, MA](https://jobright.ai/jobs/info/6aa550aba77a53f5a1570a6f?utm_campaign=1048&utm_source=git)** | Framingham, MA, United States | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
