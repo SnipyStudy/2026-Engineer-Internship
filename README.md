@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Engineer Intern (Data Platform Global Live) - 2027 Summer](https://jobright.ai/jobs/info/6a82c7502dbaf907b0764d22?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Sep 20 |
+| **[KOCH Finishing Systems](https://www.kochllc.com/)** | **[Mechanical Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6aa8a0a2f74328685440f4aa?utm_campaign=1048&utm_source=git)** | Caledonia, MI, United States | On Site | Sep 20 |
+| ↳ | **[Mechanical Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6aa89ffd2ed333b4ea5d03f7?utm_campaign=1048&utm_source=git)** | 1842 Rochester Industrial Dr, Rochester Hills, MI 48309, United States | On Site | Sep 20 |
+| ↳ | **[Mechanical Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6aa8a09cf74328685440f485?utm_campaign=1048&utm_source=git)** | Evansville, IN, United States | On Site | Sep 20 |
+| **[SYSTRA](https://www.systra.com)** | **[AI & Innovation Specialist (Internship or VIE) - ALTO project / Cadence](https://jobright.ai/jobs/info/6ab057cade327d3e210d79f8?utm_campaign=1048&utm_source=git)** | Montréal, Quebec, Canada | Hybrid | Sep 20 |
 | **[Cosm](https://www.cosm.com)** | **[General Interest - Internship](https://jobright.ai/jobs/info/6a9b9c46a7ba386c5d66d4e5?utm_campaign=1048&utm_source=git)** | Inglewood, CA, United States | Hybrid | Sep 20 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Machine Learning Engineer Intern (Performance Monetization) - 2027 Summer](https://jobright.ai/jobs/info/6a71a40ee2b7476e7b20ed8a?utm_campaign=1048&utm_source=git)** | San Jose, CA, United States | On Site | Sep 20 |
 | **[TeamWorx Security](https://teamworxsecurity.com)** | **[DoD SkillBridge: Systems Administrator or Cybersecurity Specialist](https://jobright.ai/jobs/info/69e6f0a0f8fa2f3ec32a421d?utm_campaign=1048&utm_source=git)** | Columbia , Maryland, United States | On Site | Sep 20 |
@@ -89,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Concrete Superintendent Intern](https://jobright.ai/jobs/info/6a9385973603630099198756?utm_campaign=1048&utm_source=git)** | Albany, NY, United States | On Site | Sep 20 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Maintenance Design Job Details / SRP](https://jobright.ai/jobs/info/6ab00eea2e757fcb5c8bd4fc?utm_campaign=1048&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 20 |
 | ↳ | **[College Intern - Distribution Design Job Details / SRP](https://jobright.ai/jobs/info/6ab00e83dd960b415641886d?utm_campaign=1048&utm_source=git)** | Tempe, AZ, United States | Hybrid | Sep 20 |
-| ↳ | **[College Intern - Materials Science & Metallurgical Engineering Job Details / SRP](https://jobright.ai/jobs/info/6ab00e7d3d96632d741b2c46?utm_campaign=1048&utm_source=git)** | Gilbert, AZ, United States | On Site | Sep 20 |
 | ↳ | **[College Intern - Data Center Operations Job Details / SRP](https://jobright.ai/jobs/info/6ab00e7dd3af3856cd992662?utm_campaign=1048&utm_source=git)** | Tempe, AZ, United States | Hybrid | Sep 20 |
+| ↳ | **[College Intern - Materials Science & Metallurgical Engineering Job Details / SRP](https://jobright.ai/jobs/info/6ab00e7d3d96632d741b2c46?utm_campaign=1048&utm_source=git)** | Gilbert, AZ, United States | On Site | Sep 20 |
 | ↳ | **[College Intern - Device & Asset Management Team (DAM) Job Details / SRP](https://jobright.ai/jobs/info/6ab00e653d96632d741b2c35?utm_campaign=1048&utm_source=git)** | Tempe, AZ, United States | Hybrid | Sep 20 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a9af8ff2cdc5958f53e9f73?utm_campaign=1048&utm_source=git)** | Gainesville, GA, United States | On Site | Sep 20 |
 | **[McClure Company](http://mcclureco.com)** | **[A 2027 Summer Internship (Pennsylvania)](https://jobright.ai/jobs/info/6ab0088e3d96632d741b2c11?utm_campaign=1048&utm_source=git)** | Harrisburg, PA, United States | On Site | Sep 20 |
@@ -98,9 +103,9 @@ For a complete list, click the following sortable link below:
 | **[Second Order Effects](https://soeffects.com)** | **[Electrical Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5c4db9c8e3a473cb8b1f46?utm_campaign=1048&utm_source=git)** | El Segundo, CA, United States | On Site | Sep 20 |
 | ↳ | **[Mechanical Engineering Intern (Spring 2027)](https://jobright.ai/jobs/info/6a5c4daec8e3a473cb8b1f44?utm_campaign=1048&utm_source=git)** | El Segundo, CA, United States | On Site | Sep 20 |
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24bec07d4b6ae1c44304?utm_campaign=1048&utm_source=git)** | San Ramon, CA, US | Hybrid | Sep 20 |
-| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a55febee9b77f668bd60454?utm_campaign=1048&utm_source=git)** | San Ramon, CA, United States | On Site | Sep 20 |
-| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a55fe9a10c4d945d8646745?utm_campaign=1048&utm_source=git)** | Iselin, NJ, United States | On Site | Sep 20 |
 | ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a2a24be2cde2824469c0283?utm_campaign=1048&utm_source=git)** | Iselin, NJ, US | Hybrid | Sep 20 |
+| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a55fe9a10c4d945d8646745?utm_campaign=1048&utm_source=git)** | Iselin, NJ, United States | On Site | Sep 20 |
+| ↳ | **[DoW SkillBridge Internship Job Details / Mott MacDonald](https://jobright.ai/jobs/info/6a55febee9b77f668bd60454?utm_campaign=1048&utm_source=git)** | San Ramon, CA, United States | On Site | Sep 20 |
 | **[LyondellBasell](http://lyondellbasell.com)** | **[2027 Chemical Engineer Intern/Co-op](https://jobright.ai/jobs/info/6a90354c8ffa38557e6cb9fe?utm_campaign=1048&utm_source=git)** | Channelview, TX, United States | On Site | Sep 20 |
 | ↳ | **[2027 Mechanical Engineer Intern/Co-op](https://jobright.ai/jobs/info/6a9034ded96ad228f125ffd7?utm_campaign=1048&utm_source=git)** | Pasadena, TX, United States | On Site | Sep 20 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Refining Mechanical Engineer (Fall 2027)](https://jobright.ai/jobs/info/6a9314d68e5968545337b12d?utm_campaign=1048&utm_source=git)** | Findlay, OH, United States | On Site | Sep 20 |
@@ -129,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Syensqo](https://www.syensqo.com)** | **[Health, Safety & Environmental Engineer Internship Job Details / syensqo](https://jobright.ai/jobs/info/6aafd4f1dd960b41564183e9?utm_campaign=1048&utm_source=git)** | Piedmont, SC, United States | On Site | Sep 20 |
 | **[Point72](https://www.point72.com)** | **[Machine Learning Researcher - Intern](https://jobright.ai/jobs/info/6aafd355de327d3e210d70a8?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Sep 20 |
 | **[Marvin](http://www.marvin.com/)** | **[Tool & Die Maker Intern](https://jobright.ai/jobs/info/6a82bb599b859b227766ad48?utm_campaign=1048&utm_source=git)** | Fargo, ND, United States | On Site | Sep 20 |
-| **[Schaeffler](https://www.schaeffler.us)** | **[Co-op - Engineering - Fall 2026](https://jobright.ai/jobs/info/6a55f87721f64463ad3513d8?utm_campaign=1048&utm_source=git)** | Fort Mill, SC, United States | On Site | Sep 20 |
-| ↳ | **[Co-op Engineering - Fall 2026](https://jobright.ai/jobs/info/6a8f1815a10ee661e24d67ed?utm_campaign=1048&utm_source=git)** | Armada, MI, United States | On Site | Sep 20 |
+| **[Schaeffler](https://www.schaeffler.us)** | **[Co-op Engineering - Fall 2026](https://jobright.ai/jobs/info/6a8f1815a10ee661e24d67ed?utm_campaign=1048&utm_source=git)** | Armada, MI, United States | On Site | Sep 20 |
+| ↳ | **[Co-op - Engineering - Fall 2026](https://jobright.ai/jobs/info/6a55f87721f64463ad3513d8?utm_campaign=1048&utm_source=git)** | Fort Mill, SC, United States | On Site | Sep 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Machine Learning Engineer Intern (E-Commerce Recommendation/Search Alliance) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a75540b37da8525e8cdcfc6?utm_campaign=1048&utm_source=git)** | Seattle, WA, United States | On Site | Sep 20 |
 | **[Cresta](https://www.cresta.com)** | **[Machine Learning Engineering Intern](https://jobright.ai/jobs/info/6a52612b8576ec69c014badb?utm_campaign=1048&utm_source=git)** | Toronto, Ontario, Canada | On Site | Sep 20 |
 | **[Advanced Energy](https://www.advancedenergy.com)** | **[Intern - Electrical Engineer - Fall 2026 Job Details / Advanced Energy Industries, Inc](https://jobright.ai/jobs/info/6aa553fd2ed333b4ea5c68c5?utm_campaign=1048&utm_source=git)** | Fort Collins, CO, United States | On Site | Sep 20 |
@@ -139,22 +144,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Georgia-Pacific Civil Engineer Full Time Intern](https://jobright.ai/jobs/info/6aafc63417919d43c1d32b2f?utm_campaign=1048&utm_source=git)** | Muskogee, OK, United States | On Site | Sep 20 |
 | ↳ | **[Phillips Medisize Engineering Internship Program Summer 2027](https://jobright.ai/jobs/info/6a9603d74c22023a079378e2?utm_campaign=1048&utm_source=git)** | Caldwell, ID, United States | On Site | Sep 20 |
 | ↳ | **[Georgia-Pacific Process Engineering Internship](https://jobright.ai/jobs/info/6aafc62417919d43c1d32b2e?utm_campaign=1048&utm_source=git)** | Brewton, Alabama, United States | On Site | Sep 20 |
-| ↳ | **[Data Engineering Intern](https://jobright.ai/jobs/info/6a8591ae4afae74a08340465?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Sep 20 |
 | ↳ | **[Manufacturing Excellence Engineer Intern](https://jobright.ai/jobs/info/6aafc5fe2e757fcb5c8bcfa7?utm_campaign=1048&utm_source=git)** | Brewton, Alabama, United States | On Site | Sep 20 |
+| ↳ | **[Data Engineering Intern](https://jobright.ai/jobs/info/6a8591ae4afae74a08340465?utm_campaign=1048&utm_source=git)** | Houston, TX, United States | On Site | Sep 20 |
 | ↳ | **[Mechanical Engineer Intern](https://jobright.ai/jobs/info/6a9a50eda33d28569fb99d06?utm_campaign=1048&utm_source=git)** | Wever, IA, United States | On Site | Sep 20 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern CF](https://jobright.ai/jobs/info/6aa93fe66d0edc2d91b08aca?utm_campaign=1048&utm_source=git)** | Springfield, MO, United States | On Site | Sep 20 |
+| ↳ | **[Geotechnical Intern - Summer 2027](https://jobright.ai/jobs/info/6aaaac26f6bd9d2d17c189e5?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Sep 20 |
 | ↳ | **[Geotechnical Intern - Summer 2027](https://jobright.ai/jobs/info/6aaaac4af6bd9d2d17c18a04?utm_campaign=1048&utm_source=git)** | Bettendorf, IA, United States | On Site | Sep 20 |
 | ↳ | **[Construction Materials Testing / Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6aaaaf784be87a72913a093a?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Sep 20 |
-| ↳ | **[Geotechnical Intern - Summer 2027](https://jobright.ai/jobs/info/6aaaae1376707040fb081685?utm_campaign=1048&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 20 |
-| ↳ | **[Geotechnical Intern - Summer 2027](https://jobright.ai/jobs/info/6aaa0b1228e24cb38513e062?utm_campaign=1048&utm_source=git)** | Lincoln, Nebraska, United States | On Site | Sep 20 |
-| ↳ | **[Geotechnical Intern - Summer 2027](https://jobright.ai/jobs/info/6aaaac26f6bd9d2d17c189e5?utm_campaign=1048&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Sep 20 |
 | ↳ | **[Construction Materials Testing/Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9bbe928e24cb38513bc5c?utm_campaign=1048&utm_source=git)** | Omaha, NE, United States | On Site | Sep 20 |
-| ↳ | **[Summer Engineering Technician - Summer 2027](https://jobright.ai/jobs/info/6aa9b6ac10b1cd4f41607384?utm_campaign=1048&utm_source=git)** | Omaha, NE, United States | On Site | Sep 20 |
+| ↳ | **[Geotechnical Intern - Summer 2027](https://jobright.ai/jobs/info/6aaaae1376707040fb081685?utm_campaign=1048&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 20 |
 | ↳ | **[Construction Materials Testing/Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6aaa0b116d0edc2d91b0d493?utm_campaign=1048&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 20 |
 | ↳ | **[Construction Materials Testing/Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6aaa078109ae03adcace0d19?utm_campaign=1048&utm_source=git)** | Lincoln, NE, United States | On Site | Sep 20 |
-| **[Koch](https://www.kochinc.com)** | **[Georgia-Pacific Process Engineer Intern](https://jobright.ai/jobs/info/6aafc4d73d96632d741b2672?utm_campaign=1048&utm_source=git)** | Zachary, Louisiana, United States | On Site | Sep 20 |
-| **[ITERRA](https://iterrasolutions.com/)** | **[Electrical Engineering & Embedded Systems Intern](https://jobright.ai/jobs/info/6aafc30e2e757fcb5c8bcefd?utm_campaign=1048&utm_source=git)** | Hatillo, PR, United States | Remote | Sep 20 |
-| **[IEX](https://iex.io/)** | **[Data Engineer Intern](https://jobright.ai/jobs/info/6aafc3093d96632d741b25de?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Sep 20 |
-| ↳ | **[Systems Reliability Engineer Intern](https://jobright.ai/jobs/info/6aafc3072e757fcb5c8bcefc?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Sep 20 |
-| ↳ | **[Platform Engineer Intern](https://jobright.ai/jobs/info/6aafc3060ebc8fb2313ee0c3?utm_campaign=1048&utm_source=git)** | New York, NY, United States | On Site | Sep 20 |
+| ↳ | **[Geotechnical Intern - Summer 2027](https://jobright.ai/jobs/info/6aaa0b1228e24cb38513e062?utm_campaign=1048&utm_source=git)** | Lincoln, Nebraska, United States | On Site | Sep 20 |
+| ↳ | **[Summer Engineering Technician - Summer 2027](https://jobright.ai/jobs/info/6aa9b6ac10b1cd4f41607384?utm_campaign=1048&utm_source=git)** | Omaha, NE, United States | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
